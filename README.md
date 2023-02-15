@@ -6,21 +6,21 @@
 * https://xc.com/
 ## Reproducing ChatGPT Process
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
-## Papers
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 ## Blogs
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+## Papers
 
 
 
