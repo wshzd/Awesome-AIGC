@@ -4,8 +4,8 @@
 * https://chat.forchange.cn/
 * https://aigcfun.com/
 * https://xc.com/
-
-* []()
+## Reproducing ChatGPT Process
+* [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 * []()
 * []()
 * []()
