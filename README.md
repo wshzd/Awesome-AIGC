@@ -18,7 +18,7 @@ ColossalAI reveals the reasons behind ChatGPT's success, which is pretraining、
 * [图灵人工智能.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E5%9B%BE%E7%81%B5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)
 * [新智元.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E6%96%B0%E6%99%BA%E5%85%83.md)
 * [智源社区.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E6%99%BA%E6%BA%90%E7%A4%BE%E5%8C%BA.md)
-* []()
+* [专知.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E4%B8%93%E7%9F%A5.md)
 * []()
 * []()
 ## Other Blogs
