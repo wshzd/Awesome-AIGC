@@ -9,6 +9,7 @@ You can experience the ChatGPT without any registration as follows:
 ColossalAI reveals the reasons behind ChatGPT's success, which is pretraining、instruction tuning、alignment and specialization
 * [ColossalAI](https://github.com/hpcaitech/ColossalAI)
 ## Blogs
+* [Cver.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/Cver.md)
 * [DataFun.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/DataFun.md)
 * [huggingface.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/huggingface.md)
 * [机器之心.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83.md)
