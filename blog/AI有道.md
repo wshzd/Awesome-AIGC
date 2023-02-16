@@ -27,25 +27,19 @@
 * [理工科神器 Wolfram|Alpha 注入超强计算知识，补足 ChatGPT 短板](https://mp.weixin.qq.com/s/GBKHs1OTLVrtBU5BacBjIw)
 ## 2023-01-30
 * [GPT-3 核心成员出走打造 ChatGPT 最强竞品！12 项任务 8 项更强，最新估值 50 亿美元](https://mp.weixin.qq.com/s/HERVV2mMHIqwhrpuJXqYJQ)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-
-
-
-
+## 2023-01-28
+* [Nature 给学术界立规矩：ChatGPT 等大模型不可以成为作者](https://mp.weixin.qq.com/s/o_dNusuUDPZqWuudcHaO2w)
+## 2023-01-27
+* [学生用 ChatGPT 拿下全班最高分，教授惊呆！全美高校打响 AI 反击战](https://mp.weixin.qq.com/s/9xAbxEnJqJT5OAvfdT50xQ)
+## 2023-01-24
+* [小破本也能炼 GPT！300 行代码搞定！](https://mp.weixin.qq.com/s/nBbdvoLMBuEiEryfjN4FNg)
+## 2023-01-19
+* [微软杀疯了！全家桶嵌入 ChatGPT，云平台 Azure 强到发指](https://mp.weixin.qq.com/s/g2racw6tRzLOxjst2WlhMg)
+## 2023-01-17
+* [剽窃、作弊，ChatGPT竟偷偷生成了12篇署名论文！Marcus炮轰Ta变成CheatGPT](https://mp.weixin.qq.com/s/JF2QG7ch3-QTHT7NzPb75Q)
+## 2023-01-11
+* [ChatGPT「克星」来了！华人小哥元旦假期搞定，服务器已挤爆](https://mp.weixin.qq.com/s/Zy6keKQ_qGSWPeRtkMKKcg)
+## 2023-01-08
+* [每秒最高 1w+ 使用量，「AI 绘画」成抖音年度爆款！](https://mp.weixin.qq.com/s/RBdtUcp5-5HunjNWfl4prQ)
+## 2023-01-07
+* [ChatGPT 封杀潮......](https://mp.weixin.qq.com/s/4m6_toifzPGDr4BVQI0qqg)
