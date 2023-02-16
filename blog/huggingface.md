@@ -24,8 +24,8 @@
 * []()
 * []()
 * []()
-* []()
-* []()
+## 2023-01-26
+* [Using LoRA for Efficient Stable Diffusion Fine-Tuning](https://huggingface.co/blog/lora)
 * []()
 * []()
 * []()
