@@ -1,6 +1,6 @@
 # Papers
 ## 2023-02
-* [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)[[project](https://github.com/amazon-science/mm-cot)]
+* [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923). [[project](https://github.com/amazon-science/mm-cot)]
 * []()
 * []()
 * []()
