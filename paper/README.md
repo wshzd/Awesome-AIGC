@@ -1,7 +1,7 @@
 # Papers
 ## 2023-02
 1. [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923). [[project](https://github.com/amazon-science/mm-cot)]
-2. [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](arXiv:2302.08081  [pdf, other]  cs.CL cs.AI). 
+2. [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](arXiv:2302.08081). 
 3. [](). 
 4. [](). 
 5. []().
