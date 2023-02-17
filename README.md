@@ -24,8 +24,6 @@ ColossalAI reveals the reasons behind ChatGPT's success, which is pretraining、
 * [AI有道.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/AI%E6%9C%89%E9%81%93.md)
 * [智源社区.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E6%99%BA%E6%BA%90%E7%A4%BE%E5%8C%BA.md)
 * [专知.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/blog/%E4%B8%93%E7%9F%A5.md)
-* []()
-* []()
 ## Other Blogs
 ### OneFlow
 * [ChatGPT搜索风暴](https://mp.weixin.qq.com/s/JHIUc_3nfnxv-m_4YUC1Tw)
@@ -69,27 +67,5 @@ ColossalAI reveals the reasons behind ChatGPT's success, which is pretraining、
 * [2023年AI十大展望：GPT-4领衔大模型变革，谷歌拉响警报，训练数据告急](https://mp.weixin.qq.com/s/KXF4dVxuCa3aDSH3bke8jA)
 * [只有我一个人对ChatGPT感到蕉绿吗？](https://mp.weixin.qq.com/s/cgnt22sS8iJBE-jIdoU-mQ)
 * [3D Diffusion模型来了！OpenAI出品，已开源](https://mp.weixin.qq.com/s/l_rf1J-7C9feTfyEa5oF9Q)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 ## Papers
-
-
-
-
-
-
-
-
-
+* [ChatGPT Papers](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
