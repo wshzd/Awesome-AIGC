@@ -5,7 +5,7 @@
    *Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig*.  [[pdf](https://arxiv.org/pdf/1911.12543.pdf)], [[project](https://github.com/jzbjyb/LPAQA)], 2019.11
 1. [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923). [[project](https://github.com/amazon-science/mm-cot)]
 2. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization** 
-3. *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng*  [[pdf](https://arxiv.org/abs/2302.08081.pdf)],  [[project]()], 2023.02
+   *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng*  [[pdf](https://arxiv.org/abs/2302.08081.pdf)],  [[project]()], 2023.02
 4.
 5. [Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/abs/2302.07736). 
 6. [](). 
