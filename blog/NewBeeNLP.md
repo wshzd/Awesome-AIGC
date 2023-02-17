@@ -1,4 +1,6 @@
 # NewBeeNLP
+## 2023-02-17
+* [Instruction Tuning：无/少样本学习新范式](https://mp.weixin.qq.com/s/Pz0V_xd48QH9sJ84fWQrYQ)
 ## 2023-02-16
 * [看完ChatGPT的回答，AI大佬们不满了](https://mp.weixin.qq.com/s/woBBNPDDYkbsu-MhbItK0A)
 * [多模态版ChatGPT，拿下视觉语言新SOTA， 代码已开源](https://mp.weixin.qq.com/s/a3bdOIHW_QFRPwkEJdCeSQ)
