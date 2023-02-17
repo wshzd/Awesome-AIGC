@@ -2,7 +2,7 @@
 ## 2023-02
 1. [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923). [[project](https://github.com/amazon-science/mm-cot)]
 2. [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://arxiv.org/abs/2302.08081). 
-3. [](). 
+3. [Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/abs/2302.07736). 
 4. [](). 
 5. []().
 6. []().
