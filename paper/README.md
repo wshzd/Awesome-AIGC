@@ -7,18 +7,17 @@
 2. **Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization** 
  
    *Xianjun Yang, Yan Li, Xinlu Zhang, Haifeng Chen, Wei Cheng*  [[pdf](https://arxiv.org/abs/2302.08081.pdf)],  [[project]()], 2023.02
-4.
-5. [Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech](https://arxiv.org/abs/2302.07736). 
-6. [](). 
-7. []().
-8. []().
-9. []().
-10. []().
-11. []().
-12. []().
-13. []().
-14. []().
-15. []().
+   
+3.**Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech**
+ 
+   *Fan Huang, Haewoon Kwak, Jisun An*  [[pdf](https://arxiv.org/abs/2302.07736.pdf)]
+   
+ 4. **Conversational AI-Powered Design: ChatGPT as Designer, User, and Product**
+
+     *A. Baki Kocaballi*  [[pdf](https://arxiv.org/ftp/arxiv/papers/2302/2302.07406.pdf)]
+
+5. [](). 
+
 
 
 
