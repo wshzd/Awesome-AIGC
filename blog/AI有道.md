@@ -1,4 +1,6 @@
 # AI有道
+## 2023-02-17
+* [ChatGPT 教你写 AI，包教包会！](https://mp.weixin.qq.com/s/DDXaVZZ2h9Al-IlTeNlqXA)
 ## 2023-02-16
 * [开源方案复现 ChatGPT 流程！1.62GB 显存即可体验，单机训练提速 7.73 倍](https://mp.weixin.qq.com/s/a2NA24IptGUFEFGejZpUXQ)
 ## 2023-02-15
