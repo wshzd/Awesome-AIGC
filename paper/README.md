@@ -160,65 +160,65 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 10. **ChatGPT and Software Testing Education: Promises & Perils** 
 
-   *Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam*  [[pdf](https://arxiv.org/abs/2302.03287.pdf)], 2023.02
+    *Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam*  [[pdf](https://arxiv.org/abs/2302.03287.pdf)], 2023.02
 
 11. **Chat2VIS: Generating Data Visualisations via Natural Language using ChatGPT, Codex and GPT-3 Large Language Models** 
 
-   *Paula Maddigan, Teo Susnjak*  [[pdf](https://arxiv.org/abs/2302.02094.pdf)], 2023.02
+    *Paula Maddigan, Teo Susnjak*  [[pdf](https://arxiv.org/abs/2302.02094.pdf)], 2023.02
 
 12. **ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text** 
 
-  *Sandra Mitrović, Davide Andreoletti, Omran Ayoub*  [[pdf](https://arxiv.org/abs/2301.13852.pdf)], 2023.01
+    *Sandra Mitrović, Davide Andreoletti, Omran Ayoub*  [[pdf](https://arxiv.org/abs/2301.13852.pdf)], 2023.01
 
 13. **Chatbots in a Honeypot World** 
 
-  *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2301.03771.pdf)], 2023.01
+    *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2301.03771.pdf)], 2023.01
 
 14. **Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals** 
 
-   *David Noever, Forrest McKee*  [[pdf](https://arxiv.org/abs/2301.01743.pdf)], 2023.01
+    *David Noever, Forrest McKee*  [[pdf](https://arxiv.org/abs/2301.01743.pdf)], 2023.01
 
 15. **ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports** 
 
-   *Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch*  [[pdf](https://arxiv.org/abs/2212.14882.pdf)], 2022.12
+    *Katharina Jeblick, Balthasar Schachtner, Jakob Dexl, Andreas Mittermeier, Anna Theresa Stüber, Johanna Topalis, Tobias Weber, Philipp Wesp, Bastian Sabel, Jens Ricke, Michael Ingrisch*  [[pdf](https://arxiv.org/abs/2212.14882.pdf)], 2022.12
 
 16. **Chatbots in a Botnet World** 
 
-   *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2212.11126.pdf)], 2022.12
+    *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2212.11126.pdf)], 2022.12
 
 17. **Exploring the Cognitive Dynamics of Artificial Intelligence in the Post-COVID-19 and Learning 3.0 Era: A Case Study of ChatGPT** 
 
-   *Lingfei Luan, Xi Lin, Wenbiao Li* [[pdf](https://arxiv.org/abs/2302.04818.pdf)], 2023.02
+    *Lingfei Luan, Xi Lin, Wenbiao Li* [[pdf](https://arxiv.org/abs/2302.04818.pdf)], 2023.02
 
 18. **How would Stance Detection Techniques Evolve after the Launch of ChatGPT?**
 
-   *Bowen Zhang, Daijun Ding, Liwen Jing*  [[pdf](https://arxiv.org/abs/2212.14548.pdf)], 2022.12
+    *Bowen Zhang, Daijun Ding, Liwen Jing*  [[pdf](https://arxiv.org/abs/2212.14548.pdf)], 2022.12
 
 19. **Investigating the use of ChatGPT for the scheduling of construction projects** 
 
-   *Samuel A. Prieto, Eyob T. Mengiste, Borja García de Soto*  [[pdf](https://arxiv.org/abs/2302.02805.pdf)], 2023.02
+    *Samuel A. Prieto, Eyob T. Mengiste, Borja García de Soto*  [[pdf](https://arxiv.org/abs/2302.02805.pdf)], 2023.02
 
 20. **Navigating Complexity in Software Engineering: A Prototype for Comparing GPT-n Solutions** 
 
-   *Christoph Treude*  [[pdf](https://arxiv.org/abs/2301.12169.[pdf])], 2023.01
+    *Christoph Treude*  [[pdf](https://arxiv.org/abs/2301.12169.[pdf])], 2023.01
 
 21. **Putting ChatGPT's Medical Advice to the (Turing) Test** 
 
-   *Oded Nov, Nina Singh, Devin Mann*  [[pdf](https://arxiv.org/abs/2301.10035.pdf)], 2023.01
+    *Oded Nov, Nina Singh, Devin Mann*  [[pdf](https://arxiv.org/abs/2301.10035.pdf)], 2023.01
 
 22. **Semantic Communications with Ordered Importance using ChatGPT** 
 
-   *Shuaishuai Guo, Yanhu Wang, Shujing Li, Nasir Saeed*  [[pdf](https://arxiv.org/pdf/2302.07142.pdf)], 2023.02
+    *Shuaishuai Guo, Yanhu Wang, Shujing Li, Nasir Saeed*  [[pdf](https://arxiv.org/pdf/2302.07142.pdf)], 2023.02
 
 23. **Transformers Go for the LOLs: Generating (Humourous) Titles from Scientific Abstracts End-to-End** 
 
-   *Yanran Chen, Steffen Eger*  [[pdf](https://arxiv.org/abs/2212.10522.pdf)], 2022.12
+    *Yanran Chen, Steffen Eger*  [[pdf](https://arxiv.org/abs/2212.10522.pdf)], 2022.12
 
 24. **The Role of AI in Drug Discovery: Challenges, Opportunities, and Strategies** 
 
-   *Alexandre Blanco-Gonzalez, Alfonso Cabezon, Alejandro Seco-Gonzalez, Daniel Conde-Torres, Paula Antelo-Riveiro, Angel Pineiro, Rebeca Garcia-Fandino*  [[pdf](https://arxiv.org/abs/2212.08104.pdf)], 2022.12
+    *Alexandre Blanco-Gonzalez, Alfonso Cabezon, Alejandro Seco-Gonzalez, Daniel Conde-Torres, Paula Antelo-Riveiro, Angel Pineiro, Rebeca Garcia-Fandino*  [[pdf](https://arxiv.org/abs/2212.08104.pdf)], 2022.12
 
 25. **What would Harry say? Building Dialogue Agents for Characters in a Story** 
 
-   *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Ziyang Chen, Longyue Wang, Jia Li*  [[pdf](https://arxiv.org/abs/2211.06869.pdf)], 2022.11
+    *Nuo Chen, Yan Wang, Haiyun Jiang, Deng Cai, Ziyang Chen, Longyue Wang, Jia Li*  [[pdf](https://arxiv.org/abs/2211.06869.pdf)], 2022.11
 
