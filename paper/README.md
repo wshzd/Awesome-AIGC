@@ -12,8 +12,6 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
    *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung*   [[pdf](https://arxiv.org/abs/2302.04023.pdf)], 2023.02
 
-[Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923). [[project](https://github.com/amazon-science/mm-cot)]
-
 **AI Insights into Theoretical Physics and the Swampland Program: A Journey Through the Cosmos with ChatGPT** 
 
 ​	*Kay Lehnert*  [[pdf](https://arxiv.org/abs/2301.08155.pdf)], 2023.01
@@ -85,6 +83,10 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 **Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods** 
 
 ​	*Evan Crothers, Nathalie Japkowicz, Herna Viktor*  [[pdf](https://arxiv.org/abs/2210.07321.pdf)], 2022.10
+
+**Multimodal Chain-of-Thought Reasoning in Language Models**
+
+*Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola*  [[pdf](https://arxiv.org/abs/2302.00923.pdf)],  [[project](https://github.com/amazon-science/mm-cot)], 2023.02
 
 **Regulating ChatGPT and other Large Generative AI Models** 
 
