@@ -54,11 +54,11 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 12. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** 
 
-   *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang*  [[pdf](https://arxiv.org/abs/2302.06476.pdf)], 2023.02
+    *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang*  [[pdf](https://arxiv.org/abs/2302.06476.pdf)], 2023.02
 
 13. **"I think this is the most disruptive technology": Exploring Sentiments of ChatGPT Early Adopters using Twitter Data** 
 
-   *Mubin Ul Haque, Isuru Dharmadasa, Zarrin Tasnim Sworna, Roshan Namal Rajapakse, Hussain Ahmad*  [[pdf](https://arxiv.org/abs/2212.05856.pdf)], 2022.12
+    *Mubin Ul Haque, Isuru Dharmadasa, Zarrin Tasnim Sworna, Roshan Namal Rajapakse, Hussain Ahmad*  [[pdf](https://arxiv.org/abs/2212.05856.pdf)], 2022.12
 
 14. **Is ChatGPT A Good Translator? A Preliminary Study** 
 
