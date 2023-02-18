@@ -168,11 +168,11 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 12. **ChatGPT or Human? Detect and Explain. Explaining Decisions of Machine Learning Model for Detecting Short ChatGPT-generated Text** 
 
-   *Sandra Mitrović, Davide Andreoletti, Omran Ayoub*  [[pdf](https://arxiv.org/abs/2301.13852.pdf)], 2023.01
+  *Sandra Mitrović, Davide Andreoletti, Omran Ayoub*  [[pdf](https://arxiv.org/abs/2301.13852.pdf)], 2023.01
 
 13. **Chatbots in a Honeypot World** 
 
-   *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2301.03771.pdf)], 2023.01
+  *Forrest McKee, David Noever*  [[pdf](https://arxiv.org/abs/2301.03771.pdf)], 2023.01
 
 14. **Chatbots as Problem Solvers: Playing Twenty Questions with Role Reversals** 
 
