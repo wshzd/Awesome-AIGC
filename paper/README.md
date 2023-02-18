@@ -62,63 +62,63 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 14. **Is ChatGPT A Good Translator? A Preliminary Study** 
 
-   *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu*  [[pdf](https://arxiv.org/abs/2301.08745.pdf)], 2023.01
+    *Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Xing Wang, Zhaopeng Tu*  [[pdf](https://arxiv.org/abs/2301.08745.pdf)], 2023.01
 
 15. **Learning gain differences between ChatGPT and human tutor generated algebra hints** 
 
-   *Zachary A. Pardos, Shreya Bhandari*  [[pdf](https://arxiv.org/abs/2302.06871.pdf)], 2023.02
+    *Zachary A. Pardos, Shreya Bhandari*  [[pdf](https://arxiv.org/abs/2302.06871.pdf)], 2023.02
 
 16. **Linguistic ambiguity analysis in ChatGPT** 
 
-   *Miguel Ortega-Martín, Óscar García-Sierra, Alfonso Ardoiz, Jorge Álvarez, Juan Carlos Armenteros, Adrián Alonso*  [[pdf](https://arxiv.org/abs/2302.06426.pdf)], 2023.02
+    *Miguel Ortega-Martín, Óscar García-Sierra, Alfonso Ardoiz, Jorge Álvarez, Juan Carlos Armenteros, Adrián Alonso*  [[pdf](https://arxiv.org/abs/2302.06426.pdf)], 2023.02
 
 17. **Languages are Rewards: Chain of Hindsight Finetuning using Human Feedback** 
 
-   *Hao Liu, Carmelo Sferrazza, Pieter Abbeel*   [[pdf](https://arxiv.org/abs/2302.02676.pdf)], 2023.02
+    *Hao Liu, Carmelo Sferrazza, Pieter Abbeel*   [[pdf](https://arxiv.org/abs/2302.02676.pdf)], 2023.02
 
 18. **Mathematical Capabilities of ChatGPT**
 
-   *Simon Frieder, Luca Pinchetti, Ryan-Rhys Griffiths, Tommaso Salvatori, Thomas Lukasiewicz, Philipp Christian Petersen, Alexis Chevalier, Julius Berner*  [[pdf](https://arxiv.org/abs/2301.13867.pdf)], 2023.01
+    *Simon Frieder, Luca Pinchetti, Ryan-Rhys Griffiths, Tommaso Salvatori, Thomas Lukasiewicz, Philipp Christian Petersen, Alexis Chevalier, Julius Berner*  [[pdf](https://arxiv.org/abs/2301.13867.pdf)], 2023.01
 
 19. **Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods** 
 
-   *Evan Crothers, Nathalie Japkowicz, Herna Viktor*  [[pdf](https://arxiv.org/abs/2210.07321.pdf)], 2022.10
+    *Evan Crothers, Nathalie Japkowicz, Herna Viktor*  [[pdf](https://arxiv.org/abs/2210.07321.pdf)], 2022.10
 
 20. **Multimodal Chain-of-Thought Reasoning in Language Models**
 
-   *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola*  [[pdf](https://arxiv.org/abs/2302.00923.pdf)],  [[project](https://github.com/amazon-science/mm-cot)], 2023.02
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola*  [[pdf](https://arxiv.org/abs/2302.00923.pdf)],  [[project](https://github.com/amazon-science/mm-cot)], 2023.02
 
 21. **Regulating ChatGPT and other Large Generative AI Models** 
 
-   *Philipp Hacker, Andreas Engel, Marco Mauer*  [[pdf](https://arxiv.org/abs/2302.02337.pdf)], 2023.02
+    *Philipp Hacker, Andreas Engel, Marco Mauer*  [[pdf](https://arxiv.org/abs/2302.02337.pdf)], 2023.02
 
 22. **Truth Machines: Synthesizing Veracity in AI Language Models** 
 
-   *Luke Munn, Liam Magee, Vanicka Arora*  [[pdf](https://arxiv.org/abs/2301.12066.pdf)], 2023.01
+    *Luke Munn, Liam Magee, Vanicka Arora*  [[pdf](https://arxiv.org/abs/2301.12066.pdf)], 2023.01
 
 23. **ThoughtSource: A central hub for large language model reasoning data** 
 
-   *Simon Ott, Konstantin Hebenstreit, Valentin Liévin, Christoffer Egeberg Hother, Milad Moradi, Maximilian Mayrhauser, Robert Praas, Ole Winther, Matthias Samwald*  [[pdf](https://arxiv.org/abs/2301.11596.pdf)], 2023.01
+    *Simon Ott, Konstantin Hebenstreit, Valentin Liévin, Christoffer Egeberg Hother, Milad Moradi, Maximilian Mayrhauser, Robert Praas, Ole Winther, Matthias Samwald*  [[pdf](https://arxiv.org/abs/2301.11596.pdf)], 2023.01
 
 24. **The moral authority of ChatGPT** 
 
-   *Sebastian Krügel, Andreas Ostermaier, Matthias Uhl*  [[pdf](https://arxiv.org/abs/2301.07098.pdf)], 2023.01
+    *Sebastian Krügel, Andreas Ostermaier, Matthias Uhl*  [[pdf](https://arxiv.org/abs/2301.07098.pdf)], 2023.01
 
 25. **The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation** 
 
-   *Jochen Hartmann, Jasper Schwenzow, Maximilian Witte*  [[pdf](https://arxiv.org/abs/2301.01768.pdf)], 2023.01
+    *Jochen Hartmann, Jasper Schwenzow, Maximilian Witte*  [[pdf](https://arxiv.org/abs/2301.01768.pdf)], 2023.01
 
 26. **The Turing Deception** 
 
-   *David Noever, Matt Ciolino*  [[pdf](https://arxiv.org/abs/2212.06721.pdf)], 2022.12
+    *David Noever, Matt Ciolino*  [[pdf](https://arxiv.org/abs/2212.06721.pdf)], 2022.12
 
 27. **The European AI Liability Directives -- Critique of a Half-Hearted Approach and Lessons for the Future** 
 
-   *Philipp Hacker*  [[pdf](https://arxiv.org/abs/2211.13960.pdf)], 2022.11
+    *Philipp Hacker*  [[pdf](https://arxiv.org/abs/2211.13960.pdf)], 2022.11
 
 28. **Will ChatGPT get you caught? Rethinking of Plagiarism Detection** 
 
-   *Mohammad Khalil, Erkan Er* [[pdf](https://arxiv.org/abs/2302.04335.pdf)], 2023.02
+    *Mohammad Khalil, Erkan Er* [[pdf](https://arxiv.org/abs/2302.04335.pdf)], 2023.02
 
 ### ChatGPT Application
 
