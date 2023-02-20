@@ -1,4 +1,15 @@
 # Cver
+## 2023-02-21
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+## 2023-02-18
+* [ChatGPT背后真正的英雄：OpenAI首席科学家Ilya Sutskever的信仰之跃](https://mp.weixin.qq.com/s/9aREBfe3n8-SWs5Y0FoDfA)
+## 2023-02-17
+* [BLIP-2：下一代多模态模型的雏形](https://mp.weixin.qq.com/s/g2XSzMTZRxPU6Cwp0W-DlQ)
 ## 2023-02-15
 * [LeCun和马库斯齐喷ChatGPT：大语言模型果然是邪路？](https://mp.weixin.qq.com/s/5e0aTSEAym9rF5QxRndLgQ)
 * [北京：支持头部企业打造对标ChatGPT的大模型](https://mp.weixin.qq.com/s/KoaDCCsTGprd-pYiQ8H1cg)
