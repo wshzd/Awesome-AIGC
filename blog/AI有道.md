@@ -1,4 +1,8 @@
 # AI有道
+## 2023-02-21
+* [3 万字长文入门视觉 Transformer](https://mp.weixin.qq.com/s/dup8P6WGY7wdZW0KtYwOVg)
+## 2023-02-18
+* [ChatGPT 上岸第一剑，先斩开发者！](https://mp.weixin.qq.com/s/3xcNLkNhOLX4iD_yaqModw)
 ## 2023-02-17
 * [ChatGPT 教你写 AI，包教包会！](https://mp.weixin.qq.com/s/DDXaVZZ2h9Al-IlTeNlqXA)
 ## 2023-02-16
