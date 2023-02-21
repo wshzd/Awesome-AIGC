@@ -1,7 +1,9 @@
 # DataFun
-
+## 2023-02-21
+* [AI高考能得500分？邱锡鹏教授做客人大高瓴解剖ChatGPT](https://mp.weixin.qq.com/s/-XRC9RHHJxx6v-GfK99gXg)
 ## 2023-02-20
 * [年薪百万，ChatGPT引爆抢人大战](https://mp.weixin.qq.com/s/h6GzgyuNIPaplw7mhedFEg)
+* [ChatGPT技术国产化尝试](https://mp.weixin.qq.com/s/mXViN_GB9VC1WrXP1Q1iug)
 ## 2023-02-19
 * [腾讯智能写作助手“文涌”（Effidit）关键技术揭秘](https://mp.weixin.qq.com/s/MEmE_hvzGFRNg05yf-UWXA)
 * [一文理解“上下文学习”----大语言模型突现能力](https://mp.weixin.qq.com/s/0kchPu20nwCKCXk4PZBkOg)
