@@ -1,4 +1,17 @@
 # DataFun
+
+## 2023-02-20
+* [年薪百万，ChatGPT引爆抢人大战](https://mp.weixin.qq.com/s/h6GzgyuNIPaplw7mhedFEg)
+## 2023-02-19
+* [腾讯智能写作助手“文涌”（Effidit）关键技术揭秘](https://mp.weixin.qq.com/s/MEmE_hvzGFRNg05yf-UWXA)
+* [一文理解“上下文学习”----大语言模型突现能力](https://mp.weixin.qq.com/s/0kchPu20nwCKCXk4PZBkOg)
+## 2023-02-18
+* [ChatGPT，和聪明地设计 Infra](https://mp.weixin.qq.com/s/gzCb8NAG5fS0ZLP9r9yudg)
+## 2023-02-17
+* [Diffusion和GPT模型推理加速方案解读](https://mp.weixin.qq.com/s/mxXr3k8lvenRfzIuOYlwXA)
+## 2023-02-16
+* [ChatGPT爆火带来思考：医学界或将迎来与AI融合的奇点？](https://mp.weixin.qq.com/s/x8ppg6GVCAeLNpv5uJ7B7g)
+* [Transformer详解（附代码）](https://mp.weixin.qq.com/s/tbFNGOplRSx7efGcpf28xw)
 ## 2023-02-15
 * [ChatGPT掀AI热潮，这些芯片厂商将“狂飙”](https://mp.weixin.qq.com/s/QUIQX5dlIpL10vxAiqaSIw)
 * [下一代大型语言模型的三个新兴领域](https://mp.weixin.qq.com/s/MwLAMMZ9utpMJC02h27G6A)
