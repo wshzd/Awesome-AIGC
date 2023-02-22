@@ -1,4 +1,12 @@
 # 机器学习算法与Python实战
+
+## 2023-02-20
+* [13个强大的Al网站](https://mp.weixin.qq.com/s/ltDpUtbVnsD96Zg_neUGKQ)
+* [「用ChatGPT搞钱年入百万！」各路博主发布生财之道，网友回呛：答辩的搬运工](https://mp.weixin.qq.com/s/fy8qTjddftcfUTkOtDgnJA)
+## 2023-02-19
+* [张家俊：ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/JUloCXOoy_x5bNAxpbGlgA)
+## 2023-02-18
+* [ChatGPT 学习技巧、玩法实例、变现方法、资料合集](https://mp.weixin.qq.com/s/ajokELcrV4aJuiuwcSuSQQ)
 ## 2023-02-17
 * [万字拆解ChatGPT前世今生！](https://mp.weixin.qq.com/s/26FSPJw2O_H-d9K_8geZnA)
 ## 2023-02-16
