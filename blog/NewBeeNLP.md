@@ -1,4 +1,15 @@
 # NewBeeNLP
+
+## 2023-02-22
+* [In-Context Learning玩法大全](https://mp.weixin.qq.com/s/sC3Xq1QQmtC8Tz84oRRwcw)
+## 2023-02-21
+* [ChatGPT会成为下一代搜索引擎吗](https://mp.weixin.qq.com/s/L0H3TEfIJ7GMQYCukDypPQ)
+* [由ChatGPT谈谈下一代多模态模型的雏形](https://mp.weixin.qq.com/s/xmSy4m7NheY8iComv7grxQ)
+## 2023-02-20
+* [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/uxMrFcPwsXoM-J5HDso6Vg)
+* [跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文](https://mp.weixin.qq.com/s/Hr0i2wH3A6G_UMJzQENlPQ)
+## 2023-02-19
+* [82页PPT ！斯坦福最新ChatGPT: 提示学习, 指导微调和RLHF](https://mp.weixin.qq.com/s/USAiWn-MbVwEcDU1VFZL_w)
 ## 2023-02-17
 * [Instruction Tuning：无/少样本学习新范式](https://mp.weixin.qq.com/s/Pz0V_xd48QH9sJ84fWQrYQ)
 ## 2023-02-16
