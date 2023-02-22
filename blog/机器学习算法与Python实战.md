@@ -1,5 +1,7 @@
 # 机器学习算法与Python实战
 
+## 2023-02-22
+* [让ChatGPT想象自己有4块3090，内部训练神经网络](https://mp.weixin.qq.com/s/3GIvv--Wlo9BwoQP8IvYTw)
 ## 2023-02-20
 * [13个强大的Al网站](https://mp.weixin.qq.com/s/ltDpUtbVnsD96Zg_neUGKQ)
 * [「用ChatGPT搞钱年入百万！」各路博主发布生财之道，网友回呛：答辩的搬运工](https://mp.weixin.qq.com/s/fy8qTjddftcfUTkOtDgnJA)
