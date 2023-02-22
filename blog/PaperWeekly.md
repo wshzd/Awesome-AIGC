@@ -1,4 +1,11 @@
 # PaperWeekly
+
+## 2023-02-22
+* [深入浅出Prompt Learning要旨及常用方法](https://mp.weixin.qq.com/s/Wgj1ATMAkL1Gx4dsAlkJZw)
+## 2023-02-19
+* [万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的](https://mp.weixin.qq.com/s/ILpbRRNP10Ef1z3lb2CqmA)
+## 2023-02-18
+* [NeurIPS 2022 | 仅需3分钟！开源Transformer快速训练后剪枝框架来了](https://mp.weixin.qq.com/s/XqA_6-i0t5Qcws_uNmAFXw)
 ## 2023-02-16
 * [学习ChatGPT应该看什么书？我们准备了一份宝藏书单（文末有福利）](https://mp.weixin.qq.com/s/FlCem6x1DyxBXwJFnBKvLQ)
 ## 2023-02-15
