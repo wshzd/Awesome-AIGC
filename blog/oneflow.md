@@ -1,4 +1,8 @@
 # oneflow
+## 2023-02-23
+* [一块GPU搞定ChatGPT；ML系统入坑指南；理解GPU底层架构](https://mp.weixin.qq.com/s/_FtOkreXWtMbHxe9judUHA)
+
+
 * [ChatGPT搜索风暴](https://mp.weixin.qq.com/s/JHIUc_3nfnxv-m_4YUC1Tw)
 * [ChatGPT数据集之谜](https://mp.weixin.qq.com/s/9vOc-OyqvzrO_w5LApurbg)
 * [开源ChatGPT要来了；软件2.0智能革命；GLM、Diffusion模型大加速](https://mp.weixin.qq.com/s/Qtn71jLnPxyjTh5Eo1vhXg)
