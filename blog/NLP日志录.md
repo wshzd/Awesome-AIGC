@@ -1,4 +1,8 @@
 # NLP日志录
+
+
+## 2023-02-24
+* [ChatGPT超全面课程](https://mp.weixin.qq.com/s/12suyEA3z_gqcybA2IYkBg)
 ## 2023-02-22
 * [大型语言模型的能力分析与应用](https://mp.weixin.qq.com/s/cKZpsNvqQjRoi8aBrBSwRg)
 * [ChatGPT相关资源超级大列表](https://mp.weixin.qq.com/s/_wNxJjPBvkCd_-A8-cbslA)
