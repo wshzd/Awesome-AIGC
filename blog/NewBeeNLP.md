@@ -1,5 +1,13 @@
 # NewBeeNLP
 
+## 2023-02-27
+* [本科生60行代码教你手搓GPT大模型，技术介绍堪比教程](https://mp.weixin.qq.com/s/Ay9BZBPcUiztQwG7rMRkAQ)
+## 2023-02-25
+* [五年时间，Transformer宇宙发展成了这样，ChatGPT 只是其中之一](https://mp.weixin.qq.com/s/hDnLJi3OYs32lY5c73o2_w)
+## 2023-02-24
+* [通用信息抽取技术UIE产业案例解析，Prompt 范式落地经验分享！](https://mp.weixin.qq.com/s/85KXs-x0z8p0xmMR13ljUg)
+## 2023-02-23
+* [学习知识图谱对理解ChatGPT有何作用？](https://mp.weixin.qq.com/s/1lRyoUunA3ITzVztRMgF7Q)
 ## 2023-02-22
 * [In-Context Learning玩法大全](https://mp.weixin.qq.com/s/sC3Xq1QQmtC8Tz84oRRwcw)
 ## 2023-02-21
