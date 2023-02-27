@@ -1,11 +1,10 @@
 # Cver
-## 2023-02-21
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+## 2023-02-27
+* [OpenAI最新发布通用人工智能路线图！AGI比想象中来得更快！](https://mp.weixin.qq.com/s/G8MM9KGujuJhresmsu-wfA)
+## 2023-02-22
+* [火爆全网！ControlNet颠覆AI绘画游戏规则！网友：这是新“魔法”...](https://mp.weixin.qq.com/s/MICSUB3FRogYOwO_tetqdQ)
+## 2023-02-20
+* [香港大学禁用ChatGPT，违者学生将被视为「抄袭」！](https://mp.weixin.qq.com/s/MMG1L9fPSfzemSkZ6BueLA)
 ## 2023-02-18
 * [ChatGPT背后真正的英雄：OpenAI首席科学家Ilya Sutskever的信仰之跃](https://mp.weixin.qq.com/s/9aREBfe3n8-SWs5Y0FoDfA)
 ## 2023-02-17
