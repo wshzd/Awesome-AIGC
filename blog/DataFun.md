@@ -1,29 +1,23 @@
 # DataFun
 
 ## 2023-02-27
-* [从 GPT 到 ChatGPT 的演进与应用思考](https://mp.weixin.qq.com/s/3Pr82xKpZ7mAWQcxPPB1xA)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+
+
+2023-02-27
+
+- [从 GPT 到 ChatGPT 的演进与应用思考](https://mp.weixin.qq.com/s/3Pr82xKpZ7mAWQcxPPB1xA)
+
+2023-02-26
+
+
+
+2023-02-25
+
+- [ChatGPT成功背后的技术原因及其对生命科学领域的启发](https://mp.weixin.qq.com/s/snXaWHr0VYFNYirSHRAvRw)
+
+2023-02-24
+
 * []()
 * []()
 * []()

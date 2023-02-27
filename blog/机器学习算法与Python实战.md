@@ -1,6 +1,23 @@
 # 机器学习算法与Python实战
 
+
+
+
+
+## 2023-02-27
+
+- [一步步了解 ChatGPT，先来看名字中的 T](https://mp.weixin.qq.com/s/aWW0T8lLCPhLn7TwE9P44w)
+
+## 2023-02-24
+
+- [ChatGPT的前世今生：OpenAI的技术「执拗」与「豪赌」](https://mp.weixin.qq.com/s/JgIa58kHXR6QEOaSOPZSCA)
+
+## 2023-02-23
+
+- [飞书 + GPT-3 = 国内可用的聊天Bot](https://mp.weixin.qq.com/s/UsYUYlYJoSMZMWfP_DRIpA)
+
 ## 2023-02-22
+
 * [让ChatGPT想象自己有4块3090，内部训练神经网络](https://mp.weixin.qq.com/s/3GIvv--Wlo9BwoQP8IvYTw)
 ## 2023-02-20
 * [13个强大的Al网站](https://mp.weixin.qq.com/s/ltDpUtbVnsD96Zg_neUGKQ)

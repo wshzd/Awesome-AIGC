@@ -1,8 +1,19 @@
 # NLP日志录
 
 
+
+
+
+## 2023-02-26
+
+- [FlexGen：只需要一块RTX 3090跑ChatGPT 1750亿参数体量模型](https://mp.weixin.qq.com/s/e4K3H1sXb84p8zyWKltC_A)
+
+- [非常全面的ChatGPT、LLM相关资源整理分享](https://mp.weixin.qq.com/s/RjljIDYBSH4FAw1h2BSbgQ)
+
 ## 2023-02-24
+
 * [ChatGPT超全面课程](https://mp.weixin.qq.com/s/12suyEA3z_gqcybA2IYkBg)
+* [Colosse-AI开源ChatGPT方案](https://mp.weixin.qq.com/s/lwfYOszlZEKKclHptYSijw)
 ## 2023-02-22
 * [大型语言模型的能力分析与应用](https://mp.weixin.qq.com/s/cKZpsNvqQjRoi8aBrBSwRg)
 * [ChatGPT相关资源超级大列表](https://mp.weixin.qq.com/s/_wNxJjPBvkCd_-A8-cbslA)

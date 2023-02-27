@@ -1,5 +1,22 @@
 # AI有道
+
+
+
+
+## 2023-02-26
+
+- [ChatGPT 火爆，最全 prompt 工程指南登 GitHub 热榜，标星 4.7k！](https://mp.weixin.qq.com/s/So0g5hUYrAxZVlr5lh0Nag)
+
+## 2023-02-25
+
+- [第一批因 ChatGPT 坐牢的人，已经上路了](https://mp.weixin.qq.com/s/vyfew9BGDW8pJcO1p0FgDQ)
+
+## 2023-02-24
+
+- [ChatGPT，真香！谷歌顶级 AI 人才组团叛逃 OpenAI](https://mp.weixin.qq.com/s/g_hfOxRvJRYd-xXm6rWriw)
+
 ## 2023-02-21
+
 * [3 万字长文入门视觉 Transformer](https://mp.weixin.qq.com/s/dup8P6WGY7wdZW0KtYwOVg)
 ## 2023-02-18
 * [ChatGPT 上岸第一剑，先斩开发者！](https://mp.weixin.qq.com/s/3xcNLkNhOLX4iD_yaqModw)

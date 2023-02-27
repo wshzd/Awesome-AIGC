@@ -1,5 +1,10 @@
 # oneflow
+## 2023-02-27
+
+- [GPT-3/ChatGPT复现的经验教训](https://mp.weixin.qq.com/s/4B7wX0UhYjWGgozREa2b9w)
+
 ## 2023-02-23
+
 * [一块GPU搞定ChatGPT；ML系统入坑指南；理解GPU底层架构](https://mp.weixin.qq.com/s/_FtOkreXWtMbHxe9judUHA)
 
 
