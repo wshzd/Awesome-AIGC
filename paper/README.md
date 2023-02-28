@@ -46,7 +46,7 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 10. **Causal-Discovery Performance of ChatGPT in the context of Neuropathic Pain Diagnosis** 
 
-  *Ruibo Tu, Chao Ma, Cheng Zhang*  [[pdf](https://arxiv.org/abs/2301.13819.pdf)], 2023.01
+    *Ruibo Tu, Chao Ma, Cheng Zhang*  [[pdf](https://arxiv.org/abs/2301.13819.pdf)], 2023.01
 
 11. **ChatGPT is not all you need. A State of the Art Review of large Generative AI models** 
 
@@ -220,7 +220,7 @@ This is a paper list about ChatGPT for OpenAI. ChatGPT brings people closer to 
 
 10. **ChatGPT and Software Testing Education: Promises & Perils** 
 
-  *Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam*  [[pdf](https://arxiv.org/abs/2302.03287.pdf)], 2023.02
+    *Sajed Jalil, Suzzana Rafi, Thomas D. LaToza, Kevin Moran, Wing Lam*  [[pdf](https://arxiv.org/abs/2302.03287.pdf)], 2023.02
 
 11. **Chat2VIS: Generating Data Visualisations via Natural Language using ChatGPT, Codex and GPT-3 Large Language Models** 
 
