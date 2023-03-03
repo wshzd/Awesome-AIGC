@@ -2,7 +2,17 @@
 
 
 
+## 2023-03-03
 
+- [ChatGPT API 出来了，推荐几个好玩的项目](https://mp.weixin.qq.com/s/HcOJiaIM5X8woNivkJqhlg)
+
+## 2023-03-02
+
+- [国内申请微软新必应（New Bing）](https://mp.weixin.qq.com/s/R28VXirf7_64KS39DSB8vw)
+
+## 2023-02-28
+
+- [腾讯类ChatGPT保密项目，被曝光](https://mp.weixin.qq.com/s/VJ7VvruUo-S6CoEitvZ8MQ)
 
 ## 2023-02-27
 

@@ -4,6 +4,22 @@
 
 
 
+## 2023-03-02
+
+- [计算机行业深度报告：ChatGPT火爆出圈，AI算力和行业应用潜力巨大](https://mp.weixin.qq.com/s/4-dwA3wx0rwDyupgqjDiXg)
+
+- [ChatGPT引发的大模型时代变革](https://mp.weixin.qq.com/s/0shYJSDhoczi7HP6GZylPQ)
+
+## 2023-03-01
+
+- [GPT-3/ChatGPT复现的经验教训](https://mp.weixin.qq.com/s/SUPRaDSFf7khgz_sFXfdpw)
+
+- [基于OpenAI API与LINE Messaging API的智能助理](https://mp.weixin.qq.com/s/dJNOaCxAkxPaqvFs51NtBA)
+
+## 2023-02-28
+
+- [刘群博士带你简单了解火爆全网的ChatGPT技术](https://mp.weixin.qq.com/s/kyATUB6MWEtMAHSQhRsPNw)
+
 ## 2023-02-26
 
 - [FlexGen：只需要一块RTX 3090跑ChatGPT 1750亿参数体量模型](https://mp.weixin.qq.com/s/e4K3H1sXb84p8zyWKltC_A)

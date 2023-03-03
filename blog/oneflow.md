@@ -1,4 +1,16 @@
 # oneflow
+
+
+
+
+## 2023-03-03
+
+[Jasper狂飙：AIGC现象级应用的增长秘笈](https://mp.weixin.qq.com/s/skrrjxJg70rtPr2kxv7B7A)
+
+## 2023-03-01
+
+[超越ChatGPT：大模型的智能极限](https://mp.weixin.qq.com/s/PteNTHckNAP1iVq10JuONQ)
+
 ## 2023-02-27
 
 - [GPT-3/ChatGPT复现的经验教训](https://mp.weixin.qq.com/s/4B7wX0UhYjWGgozREa2b9w)
