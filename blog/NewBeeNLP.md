@@ -1,18 +1,23 @@
 # NewBeeNLP
 
+## 2023-03-06
 
+- [ChatGPT爆火后，NLP技术不存在了？](https://mp.weixin.qq.com/s/kNmOjVunDS-3lYl1zEj7rw)
 
 ## 2023-03-03
 
-[微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/3-UK0YUBNnmF6C96vEo2yw)
+- [微软亚研院：Language Is Not All You Need](https://mp.weixin.qq.com/s/3-UK0YUBNnmF6C96vEo2yw)
+
 
 ## 2023-03-02
 
-[AI高考能得500分？邱锡鹏教授深度解剖ChatGPT（内附报告视频）](https://mp.weixin.qq.com/s/uIa-R1sGZX1mboj_PCHjqw)
+- [AI高考能得500分？邱锡鹏教授深度解剖ChatGPT（内附报告视频）](https://mp.weixin.qq.com/s/uIa-R1sGZX1mboj_PCHjqw)
+
 
 ## 2023-02-28
 
-[罗马是怎么建成的：Towards ChatGPT and Beyond](https://mp.weixin.qq.com/s/9g44iX2FfyClDOVLvCeT-A)
+- [罗马是怎么建成的：Towards ChatGPT and Beyond](https://mp.weixin.qq.com/s/9g44iX2FfyClDOVLvCeT-A)
+
 
 ## 2023-02-27
 

@@ -1,5 +1,21 @@
 # DataFun
 
+
+
+
+
+## 2023-03-04
+
+- [AliceMind大规模预训练实践及AIGC在ModelScope中的应用](https://mp.weixin.qq.com/s/u1Nzx4JQUgBwt2uDzBM9vQ)
+
+## 2023-03-02
+
+- [1块钱3.5万多汉字：OpenAI开放ChatGPT API成本下降10倍](https://mp.weixin.qq.com/s/7kcDtDC3tCarD5VcEml5Gg)
+
+## 2023-03-01
+
+- [PPT限时下载｜GPT模型推理加速实践](https://mp.weixin.qq.com/s/EHI8G4EdDPO36wHOyln-Bw)
+
 ## 2023-02-27
 
 - [从 GPT 到 ChatGPT 的演进与应用思考](https://mp.weixin.qq.com/s/3Pr82xKpZ7mAWQcxPPB1xA)

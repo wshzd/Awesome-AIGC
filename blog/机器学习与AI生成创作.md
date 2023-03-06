@@ -1,5 +1,34 @@
 # 机器学习与AI生成创作
+
+
+## 2023-03-06
+
+- [ChatGPT 火爆，最全 prompt 工程指南登 GitHub 热榜，标星 4.7k！](https://mp.weixin.qq.com/s/T3CvlHNTZU3YH2S009CCzw)
+
+## 2023-03-03
+
+- [2月份100篇！2023年2月diffusion生成扩散模型论文汇总！](https://mp.weixin.qq.com/s/NPgjsD1KE95p2N1yyJs-yQ)
+
+## 2023-03-01
+
+- [ICLR 2023 | 扩散生成模型新方法：极度简化，一步生成](https://mp.weixin.qq.com/s/kKelwV6XqhbmBDhm7lxtjA)
+
+## 2023-02-27
+
+- [值得关注！可控生成！近期diffusion图像生成进展！](https://mp.weixin.qq.com/s/BLg_7X_59oManxsWNp9yWA)
+
+## 2023-02-24
+
+- [生成式AI，ChatGPT和自动驾驶的技术趋势漫谈](https://mp.weixin.qq.com/s/2uMzU7P8arxmAEcH7pOIpg)
+
+## 2023-02-23
+
+- [可控生成！ControlNet 以图文为条件信息，玩法太多，潜力无限！](https://mp.weixin.qq.com/s/zJDhVgPiMc28ZYgxWc1ZAQ)
+
+- [ChatGPT爆火之后，视觉研究者坐不住了？谷歌将ViT参数扩大到220亿](https://mp.weixin.qq.com/s/eLXr8wnR_OrCFwPKl7Yvhg)
+
 ## 2023-02-18
+
 * [换脸方法大汇总：生成对抗网络GAN、扩散模型等](https://mp.weixin.qq.com/s/PFIWWSbVJZ_LZWMthOUleg)
 ## 2023-02-14
 * [chatgpt核心相关技术？清华、北大等联合发布TransformRL综述：强化学习中的Transformer！](https://mp.weixin.qq.com/s/NzBLF7nokQuyl-tL7CLWlw)

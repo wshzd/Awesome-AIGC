@@ -2,7 +2,23 @@
 
 
 
+## 2023-03-06
 
+- [ChatLLaMA项目](https://mp.weixin.qq.com/s/_kIj5P9YUzS-A0AOnSotkQ)
+
+- [给飞书准备的ChatGPT机器人](https://mp.weixin.qq.com/s/bpgDrwhDTGAW0HORsZBs3g)
+
+- [强化学习实战教程](https://mp.weixin.qq.com/s/tpaCwiKTpLv1zkXdGSPxTg)
+
+## 2023-03-05
+
+- [AIGC深度报告：新一轮内容生产力革命的起点](https://mp.weixin.qq.com/s/8d3furBk5QdkLDe3cAO0zQ)
+
+## 2023-03-04
+
+- [ChatGPT的资源、评估和检测相关文献列表资源](https://mp.weixin.qq.com/s/YI6yoxu22UJaINUMv6FSJA)
+
+- [(GPT3)Language Models are Few-Shot Learners](https://mp.weixin.qq.com/s/qMTd_iNptV4vSFn10AdIUg)
 
 ## 2023-03-02
 

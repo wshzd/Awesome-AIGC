@@ -1,5 +1,14 @@
 # Cver
+
+
+## 2023-03-06
+
+- [从BERT到ChatGPT！97页全面综述：那些年一起追过的预训练基础模型](https://mp.weixin.qq.com/s/05ezUXGWgTHpwJP9koACsw)
+
+- [微软多模态ChatGPT来了？搞定看图答题、智商测验等任务！](https://mp.weixin.qq.com/s/BhvKf6sTxvHURPuhoxqDmg)
+
 ## 2023-02-27
+
 * [OpenAI最新发布通用人工智能路线图！AGI比想象中来得更快！](https://mp.weixin.qq.com/s/G8MM9KGujuJhresmsu-wfA)
 ## 2023-02-22
 * [火爆全网！ControlNet颠覆AI绘画游戏规则！网友：这是新“魔法”...](https://mp.weixin.qq.com/s/MICSUB3FRogYOwO_tetqdQ)
