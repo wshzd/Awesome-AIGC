@@ -2,6 +2,62 @@
 
 
 
+## 2023-03-13
+
+- [ChatGPT研究报告等资料](https://mp.weixin.qq.com/s/F_HIh2OmdehfeXRzyf5sng)
+
+
+## 2023-03-12
+
+- [ChatGPT调研报告](https://mp.weixin.qq.com/s/Gziz05zNkRcQ0W2EKgxxYg)
+
+
+- [AIGC专题三：国内大模型概览](https://mp.weixin.qq.com/s/Wb0HCVwGEOtRlqwJIqwirg)
+
+
+## 2023-03-11
+
+- [OpenGpt：创建ChatGPT小应用的AI平台](https://mp.weixin.qq.com/s/RzaXMCNUVcYsveQAivtUnQ)
+
+
+- [Web Stable Diffusion](https://mp.weixin.qq.com/s/MtTjBapZGamAaa1mKPWb-A)
+
+
+## 2023-03-10
+
+- [基于OpenAI ChatGPT API的ChatGPT聊天界面](https://mp.weixin.qq.com/s/DTLtmI-8SuO7JKVJAUqB0A)
+
+
+- [用户涂鸦后AI出图](https://mp.weixin.qq.com/s/hp0nkqKZ7pAOK5xfTbm_Lg)
+
+
+## 2023-03-09
+
+- [PaLM-E：An Embodied Multimodal Language Model](https://mp.weixin.qq.com/s/_Tz2e02kbEwHcrjMC_u9Aw)
+
+
+- [DGL1.0图机器学习框架](https://mp.weixin.qq.com/s/XNmJ14--9fU-SwDqQVB_CQ)
+
+
+## 2023-03-08
+
+- [Awesome ChatGPT API](https://mp.weixin.qq.com/s/wBttsaBienSrqkgkjLKXOg)
+
+
+- [LLaMA模型的量化推理代码](https://mp.weixin.qq.com/s/k9ZIy727qaGjOd5zWgtShA)
+
+
+- [CallGPT：方便使用的ChatGPT API客户端](https://mp.weixin.qq.com/s/OIYyMDfOTsnw2V6vu3vlfw)
+
+
+## 2023-03-07
+
+- [ChatGPT资源汇总](https://mp.weixin.qq.com/s/HGfL2spCY67nn5YtMTE0fw)
+
+
+- [Transformer推理的全栈优化综述](https://mp.weixin.qq.com/s/GtntXuCK0tyO_WaYpeUYLQ)
+
+
 ## 2023-03-06
 
 - [ChatLLaMA项目](https://mp.weixin.qq.com/s/_kIj5P9YUzS-A0AOnSotkQ)
