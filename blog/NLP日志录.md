@@ -2,6 +2,30 @@
 
 
 
+## 2023-03-17
+
+- [GPT-4用例追踪](https://mp.weixin.qq.com/s/cp_-mXjC5ExeRsp1Iv7ajg)
+
+- [ChatGPT相关技术必读论文](https://mp.weixin.qq.com/s/uCFqszk9STRbDILG8mCmFg)
+
+## 2023-03-16
+
+- [GPT-4问世，98页技术报告重点解析](https://mp.weixin.qq.com/s/1NQC2HJ91-CyiXigxtvqsw)
+
+- [ChatGPT鲁棒性分析：对抗鲁棒与分布外泛化视角](https://mp.weixin.qq.com/s/I1e3Zxyfmp-ZoQUUiCB82w)
+
+## 2023-03-15
+
+- [META大语言模型LLAMA（泄露版）本地部署测试+ChatGPT对比](https://mp.weixin.qq.com/s/IGbvPcfd-psH8tS--xWG6Q)
+
+- [如何快速开发一个OpenAI/GPT应用](https://mp.weixin.qq.com/s/GiFYQDXb0aMNWzuyqFWwBg)
+
+## 2023-03-14
+
+- [ChatGPT开源替代OpenChatKit](https://mp.weixin.qq.com/s/WCsxH1JncPp58u_mCc3PXg)
+
+- [NeMo：a toolkit for conversational AI](https://mp.weixin.qq.com/s/aOnk-BG94A2H8MvzN4ReVg)
+
 ## 2023-03-13
 
 - [ChatGPT研究报告等资料](https://mp.weixin.qq.com/s/F_HIh2OmdehfeXRzyf5sng)
