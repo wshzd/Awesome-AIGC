@@ -1,5 +1,31 @@
 # NewBeeNLP
 
+
+
+## 2023-03-20
+
+- [李开复亲自带队！不仅是中国版ChatGPT，全球招英才](https://mp.weixin.qq.com/s/aO6bA4eNjYp1s7Fd6rQYbA)
+
+## 2023-03-19
+
+- [真·万字长文:可能是全网最晚的ChatGPT技术总结](https://mp.weixin.qq.com/s/LJoxupaKflL793TCwnpyPg)
+
+## 2023-03-17
+
+- [聊一聊ChatGPT技术国产化尝试](https://mp.weixin.qq.com/s/oTTkdZvM4Otnl9gqdOz3pg)
+
+## 2023-03-15
+
+- [王者登基！GPT-4发布，功能史上最强](https://mp.weixin.qq.com/s/c3rCfnAuHDPThabHPBoKew)
+
+## 2023-03-10
+
+- [ChatGPT 标注指南来了！数据是关键](https://mp.weixin.qq.com/s/7RQWdXeqtjaOx-Jn4KYhaA)
+
+## 2023-03-08
+
+- [一脉相通！聊聊 ChatGPT 发展路线](https://mp.weixin.qq.com/s/4HxRVlTCfclUN4OQwjnQgw)
+
 ## 2023-03-06
 
 - [ChatGPT爆火后，NLP技术不存在了？](https://mp.weixin.qq.com/s/kNmOjVunDS-3lYl1zEj7rw)

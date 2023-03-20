@@ -2,6 +2,56 @@
 
 
 
+## 2023-03-20
+
+- [如何利用GPT4 和 ChatGPT 搞科研？](https://mp.weixin.qq.com/s/nrpLDzy-Gbn1iqKfQph7zg)
+
+## 2023-03-19
+
+- [7个角度，用 ChatGPT 玩转机器学习](https://mp.weixin.qq.com/s/LkaDXQ0M7bMuCh3OukQ_-w)
+
+## 2023-03-18
+
+- [关于GPT-4的一些感想](https://mp.weixin.qq.com/s/4S36_svrFZNMXfDNDEWocw)
+
+## 2023-03-17
+
+- [【个人首测】百度文心一言 VS GPT-4](https://mp.weixin.qq.com/s/XJgY-Ql8NGB6eIEvQe2uzA)
+
+## 2023-03-16
+
+- [GPT-4牛是牛，但这几天先别急](https://mp.weixin.qq.com/s/0No2-5cdfjCBY-ba1y5lbQ)
+
+- [用ChatGPT搞钱？不只！](https://mp.weixin.qq.com/s/w7ZE_uMkjIFX3Rm9bcSgXg)
+
+## 2023-03-15
+
+- [关于GPT-4的几个情报](https://mp.weixin.qq.com/s/HOu9F1mBxCtFBcm7kdGyEA)
+
+- [万众期待的GPT-4，它来了！](https://mp.weixin.qq.com/s/5ACvBZlPn20qCU1-ECGGQA)
+
+## 2023-03-14
+
+- [用 ChatGPT 玩转哔哩哔哩](https://mp.weixin.qq.com/s/xBu5J3iIFLtIz69Z3JgOnw)
+
+## 2023-03-12
+
+- [视觉ChatGPT来了，微软发布，代码已开源](https://mp.weixin.qq.com/s/JQtA_H3g2G8jWxUxyPn8Gg)
+
+## 2023-03-10
+
+- [ChatPDF！](https://mp.weixin.qq.com/s/UP2KMP7UthL2h6SgZhL7AA)
+
+## 2023-03-08
+
+- [ChatGPT版Office来了：微软下周四举行发布会，CEO亲自上](https://mp.weixin.qq.com/s/ZgUSpJQGs-NQwp-gM3aEnw)
+
+- [ChatGPT写视频脚本](https://mp.weixin.qq.com/s/YFQD1AKITyshSxMY4jl9SQ)
+
+## 2023-03-07
+
+- [4个工具，让 ChatGPT 如虎添翼！](https://mp.weixin.qq.com/s/GUdge2qjUibnK-CDg3xXPw)
+
 ## 2023-03-03
 
 - [ChatGPT API 出来了，推荐几个好玩的项目](https://mp.weixin.qq.com/s/HcOJiaIM5X8woNivkJqhlg)

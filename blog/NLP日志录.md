@@ -2,6 +2,24 @@
 
 
 
+## 2023-03-20
+
+- [ChatPaper：一款可利用ChatGPT总结arxiv论文的开源工具](https://mp.weixin.qq.com/s/dTAFXaP0O--v79SP3-zkqg)
+
+- [Chat IE：一个基于Chat GPT的多轮问答框架用于零样本信息抽取](https://mp.weixin.qq.com/s/2isew8gkwnEs_FqJTyneKQ)
+
+## 2023-03-19
+
+- [ChatGPT认知白皮书](https://mp.weixin.qq.com/s/LanEvXfJCrSYjLg8gfX0sg)
+
+- [ChatGLM-6B：开源双语对话语言模型](https://mp.weixin.qq.com/s/K0YxXKXNcLbm177XqVt4sQ)
+
+## 2023-03-18
+
+- [ChatGPT中文调教指南](https://mp.weixin.qq.com/s/g1VDdi0V6GlnihcmLw79-Q)
+
+- [开源的ChatGPT的Chatbot网站模板](https://mp.weixin.qq.com/s/ezMKNEYM2NaJiKp5cOqUag)
+
 ## 2023-03-17
 
 - [GPT-4用例追踪](https://mp.weixin.qq.com/s/cp_-mXjC5ExeRsp1Iv7ajg)

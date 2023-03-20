@@ -2,17 +2,68 @@
 
 
 
+## 2023-03-20
+
+- [看了 GPT-4 的表现，我感觉要失业了...](https://mp.weixin.qq.com/s/xHX2moppjihhUEv6RDYEMA)
+
+## 2023-03-19
+
+- [ChatGPT，卷不动了！](https://mp.weixin.qq.com/s/QmK18DSeiha3DNAqmR_WRw)
+
+## 2023-03-18
+
+- [微软深夜放炸弹！GPT-4 Office 全家桶发布，10 亿打工人被革命](https://mp.weixin.qq.com/s/X0DX3ZF0d-cgZlDpTbwsCw)
+
+- [CVPR2023｜不好意思我要加速度了！FasterNet：更高 FLOPS 才是更快更强的底气](https://mp.weixin.qq.com/s/UINuS_t38CItHb7LODkiUQ)
+
+## 2023-03-16
+
+- [文心一言 vs GPT-4 实测！百度背水一战交卷](https://mp.weixin.qq.com/s/PupjMsk1sppP0luvm8otww)
+
+## 2023-03-15
+
+- [如何蹭 ChatGPT 的热度发一篇顶会？](https://mp.weixin.qq.com/s/CXjo4iulJLf-2iEJ3fruUw)
+
+- [GPT-4 发布！ChatGPT 大升级！太太太太强了！](https://mp.weixin.qq.com/s/ldQic01aevoJFl_PwjXrfw)
+
+## 2023-03-14
+
+- [原来 Transformer 就是一种神经网络，这个概念你清楚吗？](https://mp.weixin.qq.com/s/wB2ZqShecK30RzRRHVqRwA)
+
+- [清华朱军团队开源首个基于 Transformer 的多模态扩散大模型，文图互生、改写全拿下](https://mp.weixin.qq.com/s/ivJy91wbgACFScc3pvfXWw)
+
+## 2023-03-10
+
+- [ChatPDF，也来了...](https://mp.weixin.qq.com/s/v6xvIywLlLHoeyL2HLec9w)
+
+## 2023-03-09
+
+- [鸡兔同笼都能算错的 ChatGPT，陶哲轩发现了它的价值](https://mp.weixin.qq.com/s/Ie_ySLdjRDd408JfOa-heA)
+
+- [谷歌发布史上最大「通才」模型 PaLM-E，5620 亿参数，看图说话还能操控机器人](https://mp.weixin.qq.com/s/Tgy_eVQVC_8sMLgWEc83YQ)
+
+## 2023-03-08
+
+- [大神李沐被曝离职！投身大模型创业，GitHub 项目已开](https://mp.weixin.qq.com/s/iJOARx4N92uduRsYMfFzJQ)
+
+## 2023-03-07
+
+- [如何用 ChatGPT 写论文？](https://mp.weixin.qq.com/s/4PzcPOJB4jDhmcglvUGWkg)
+
 ## 2023-03-05
 
-[ChatGPT 团队揭秘：3 清华、1 北大、1 华科](https://mp.weixin.qq.com/s/vqjrs3Z11YnybwhWENHf3Q)
+- [ChatGPT 团队揭秘：3 清华、1 北大、1 华科](https://mp.weixin.qq.com/s/vqjrs3Z11YnybwhWENHf3Q)
+
 
 ## 2023-03-04
 
-[靠 ChatGPT 年入百万？](https://mp.weixin.qq.com/s/olss0raWhx4oFLiLovULKA)
+- [靠 ChatGPT 年入百万？](https://mp.weixin.qq.com/s/olss0raWhx4oFLiLovULKA)
+
 
 ## 2023-03-01
 
-[毫不夸张！ChatGPT 还真离不开无监督学习！](https://mp.weixin.qq.com/s/WlNbdOrOUpyqGsIi1NIw-A)
+- [毫不夸张！ChatGPT 还真离不开无监督学习！](https://mp.weixin.qq.com/s/WlNbdOrOUpyqGsIi1NIw-A)
+
 
 ## 2023-02-26
 

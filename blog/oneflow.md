@@ -2,14 +2,28 @@
 
 
 
+## 2023-03-20
+
+- [OpenAI创始人：GPT-4的研究起源和构建心法](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg)
+
+## 2023-03-15
+
+- [GPT-4问世；LLM训练指南；纯浏览器跑Stable Diffusion](https://mp.weixin.qq.com/s/6ZBWXOwv-T3NweKHbPGAWQ)
+
+## 2023-03-08
+
+- [ChatGPT作者John Shulman：我们成功的秘密武器](https://mp.weixin.qq.com/s/sDeBYMvAwbJr5_tj7Q20-w)
+
 
 ## 2023-03-03
 
-[Jasper狂飙：AIGC现象级应用的增长秘笈](https://mp.weixin.qq.com/s/skrrjxJg70rtPr2kxv7B7A)
+- [Jasper狂飙：AIGC现象级应用的增长秘笈](https://mp.weixin.qq.com/s/skrrjxJg70rtPr2kxv7B7A)
+
 
 ## 2023-03-01
 
-[超越ChatGPT：大模型的智能极限](https://mp.weixin.qq.com/s/PteNTHckNAP1iVq10JuONQ)
+- [超越ChatGPT：大模型的智能极限](https://mp.weixin.qq.com/s/PteNTHckNAP1iVq10JuONQ)
+
 
 ## 2023-02-27
 

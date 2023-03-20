@@ -2,7 +2,13 @@
 
 
 
+## 2023-03-19
 
+- [ChatGPT真的可以取代知识图谱问答吗？](https://mp.weixin.qq.com/s/cvBVgxCrreic6U6CU-YB-A)
+
+## 2023-03-15
+
+- [GPT-4来了，如何申请体验？](https://mp.weixin.qq.com/s/opohhIbcoLkbPnt9Z3zH9g)
 
 ## 2023-03-04
 

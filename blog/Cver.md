@@ -1,6 +1,55 @@
 # Cver
 
 
+
+## 2023-03-19
+
+- [突发！李开复宣布加入中文版ChatGPT大战！要打造AI 2.0全新平台！](https://mp.weixin.qq.com/s/WpxhJLHC0DTfBX2fYSr08A)
+
+- [Meta提出Make-A-Video3D：一行文本，生成3D动态场景！](https://mp.weixin.qq.com/s/-p2x4Rp4hKkU7lD6kq8G1Q)
+
+## 2023-03-18
+
+- [GPT-4外逃计划曝光！斯坦福教授发现它正引诱人类帮助，网友：灭绝之门...](https://mp.weixin.qq.com/s/ZBpL-P501aDFZmOQs8zWiA)
+
+- [Stable Diffusion公司新作Gen-1：基于扩散模型的视频合成新模型，加特效杠杠的！](https://mp.weixin.qq.com/s/X5GrCefKz9hozd8eyT1fJA)
+
+## 2023-03-17
+
+- [GPT-4刚刚接入Office全家桶！微软：重新发明生产力！](https://mp.weixin.qq.com/s/DZ2MRTdo5ho6Fd9AZhOUcQ)
+
+## 2023-03-15
+
+- [清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！](https://mp.weixin.qq.com/s/q_NE6Cjdv8LHrAGInwyy7w)
+
+- [AI开发大一统！谷歌OpenXLA开源，整合所有框架和AI芯片！](https://mp.weixin.qq.com/s/qxqvfWi5EC3HJi9h08fsMg)
+
+## 2023-03-14
+
+- [ControlNet仅靠一张照片完成“旧房改造”！GitHub热榜第一](https://mp.weixin.qq.com/s/XJWGYGO_hM2UNz1pRKa-Pg)
+
+## 2023-03-13
+
+- [CVPR 2023 | GAN的反击！朱俊彦新作GigaGAN，出图速度秒杀Stable Diffusion！](https://mp.weixin.qq.com/s/T4mX8Fn95bpDSm26WEA-2Q)
+
+- [陶哲轩：ChatGPT已加入我的数学工作流](https://mp.weixin.qq.com/s/cR1tYAjL0nfDOBAjmtwasA)
+
+## 2023-03-12
+
+- [CVPR 2023 | 基于CLIP的微调新范式！训练速度和性能均创新高！](https://mp.weixin.qq.com/s/ppu-IvdCS5ougk5gSVr8Bg)
+
+## 2023-03-10
+
+- [Transformer：一种图灵完备的神经网络](https://mp.weixin.qq.com/s/-ihb0VN7yNb8ueAu4eRhyg)
+
+## 2023-03-09
+
+- [炸了！谷歌发布史上最大"通才"模型PaLM-E，5620亿参数！看图说话还能操控机器人](https://mp.weixin.qq.com/s/DRzhMbnboxJt3x8ss9ABOg)
+
+## 2023-03-08
+
+- [ChatPDF也来了！一键上传文件即可解读，复制粘贴都省了...](https://mp.weixin.qq.com/s/GzVWukBuUThyfUkIqa8ywA)
+
 ## 2023-03-06
 
 - [从BERT到ChatGPT！97页全面综述：那些年一起追过的预训练基础模型](https://mp.weixin.qq.com/s/05ezUXGWgTHpwJP9koACsw)
