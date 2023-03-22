@@ -56,69 +56,72 @@
 
 ## AGI
 
-### [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
+- ### [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
 
-### [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
 
-### [OpenAI发布AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
+- ### [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
+
+
+- ### [OpenAI AGI](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
+
 
 ## ChatGPT
 
-### ChatGPT_Blogs
+- ### ChatGPT_Blogs
+  - #### ChatGPT_Application
 
-#### ChatGPT_Application
+  - #### ChatGPT_Technology
 
-#### ChatGPT_Technology
+  - #### ChatGPT_Other
 
-#### ChatGPT_Other
+    - [Cver.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/Cver.md)
+    - [DataFun.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/DataFun.md)
+    - [huggingface.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/huggingface.md)
+    - [机器之心.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83.md)
+    - [机器学习研究组订阅.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%84%E8%AE%A2%E9%98%85.md)
+    - [机器学习算法与Python实战.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B8%8EPython%E5%AE%9E%E6%88%98.md)
+    - [量子位.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E9%87%8F%E5%AD%90%E4%BD%8D.md)
+    - [NewBeeNLP.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/NewBeeNLP.md)
+    - [PaperWeekly.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/PaperWeekly.md)
+    - [图灵人工智能.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E5%9B%BE%E7%81%B5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)
+    - [新智元.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%96%B0%E6%99%BA%E5%85%83.md)
+    - [学术头条.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E5%AD%A6%E6%9C%AF%E5%A4%B4%E6%9D%A1.md)
+    - [AI有道.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/AI%E6%9C%89%E9%81%93.md)
+    - [智源社区.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%99%BA%E6%BA%90%E7%A4%BE%E5%8C%BA.md)
+    - [专知.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E4%B8%93%E7%9F%A5.md)
 
-- [Cver.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/Cver.md)
-- [DataFun.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/DataFun.md)
-- [huggingface.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/huggingface.md)
-- [机器之心.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83.md)
-- [机器学习研究组订阅.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%A0%94%E7%A9%B6%E7%BB%84%E8%AE%A2%E9%98%85.md)
-- [机器学习算法与Python实战.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E4%B8%8EPython%E5%AE%9E%E6%88%98.md)
-- [量子位.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E9%87%8F%E5%AD%90%E4%BD%8D.md)
-- [NewBeeNLP.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/NewBeeNLP.md)
-- [PaperWeekly.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/PaperWeekly.md)
-- [图灵人工智能.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E5%9B%BE%E7%81%B5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)
-- [新智元.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%96%B0%E6%99%BA%E5%85%83.md)
-- [学术头条.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E5%AD%A6%E6%9C%AF%E5%A4%B4%E6%9D%A1.md)
-- [AI有道.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/AI%E6%9C%89%E9%81%93.md)
-- [智源社区.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%99%BA%E6%BA%90%E7%A4%BE%E5%8C%BA.md)
-- [专知.md](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E4%B8%93%E7%9F%A5.md)
+- ### ChatGPT_Human_Evaluation
 
-### ChatGPT_Human_Evaluation
 
-### ChatGPT_Paper_Evaluation
+- ### ChatGPT_Paper_Evaluation
 
-### ChatGPT_Papers
+
+- ### ChatGPT_Papers
+
 
 ## ChatGPT_VS_GPT4
 
-### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from nytimes ）.md)
+- ### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes ）.md)
+
 
 ## GPT4
 
-### GPT4_Official
+- ### GPT4_Official
+  - #### [GPT4_System_Card_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT-4_System_Card_zh.md)
 
-#### [GPT4_System_Card_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT-4_System_Card_zh.md)
+  - #### [GPT4_Technical_Report_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT4_Technical_Report_zh.md)
 
-#### [GPT4_Technical_Report_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT4_Technical_Report_zh.md)
+- ### GPT4_Blogs
+  - #### [GPT4_Technical_Detail](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
 
-### GPT4_Blogs
+  - #### [GPT4_Technical_Summary](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
 
-#### [GPT4_Technical_Detail](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
+  - #### [Research Origin of GPT4](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
 
-#### [GPT4_Technical_Summary](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
+- ### GPT4_Papers
+  - #### [ChatGPT Papers](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
 
-#### [Research Origin of GPT4](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
-
-### GPT4_Papers
-
-#### [ChatGPT Papers](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
-
-## About me
+## 关于我
 
 **个人主页**：wshzd.github.io
 
@@ -126,7 +129,7 @@
 
 ![公众号二维码](https://github.com/wshzd/ChatGPT-Summary/blob/main/images/ArronAI.jpg)
 
-## Statement
+## 声明
 
 以上部分资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！ 
 
