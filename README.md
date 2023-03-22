@@ -9,7 +9,7 @@
 
 ## 中国版ChatGPT
 
-无需注册即可体验ChatGPT效果
+无需注册即可体验ChatGPT效果的一些网站
 * http://chat.h2ai.cn/home
 * https://chat.forchange.cn/
 * https://aigcfun.com/
@@ -20,9 +20,9 @@
 ## Table of Contents
 
 - [AGI](#agi)
-  - [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google OpenXLA.md)
-  - [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI Team.md)
-  - [OpenAI发布AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
+  - [Google_OpenXLA](#google_openxla)
+  - [OpenAI_Team](#open_team)
+  - [OpenAI_AGI](#openai_agi)
 
 - [ChatGPT](#chatgpt)
   - [ChatGPT_Blogs](#chatgpt_blogs)
@@ -66,6 +66,10 @@
 
 
 ## ChatGPT
+
+![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/images/chatgpt-head.png)
+
+![ChatGPT_family](https://github.com/wshzd/ChatGPT-Summary/blob/main/images/chatgpt-3.jpg)
 
 - ### ChatGPT_Blogs
   - #### ChatGPT_Application
