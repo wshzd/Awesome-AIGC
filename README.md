@@ -3,7 +3,7 @@
 
 自2022年11月份OpenAI公布ChatGPT以来，ChatGPT在五天之内注册用户数就突破了百万
 
-![ChatGPT](C:\Users\zhidong.he\Desktop\wechat_picture\1.png)
+![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/images/chatgpt.png)
 
 由此拉开了文本生成大模型的序幕，也有人称为是AI2.0时代，2023年3月14日又发布了GPT4，性能进一步得到提升，关于ChatGPT和GPT4的博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
 
@@ -56,9 +56,9 @@
 
 ## AGI
 
-### [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google OpenXLA.md)
+### [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
 
-### [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI Team.md)
+### [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
 
 ### [OpenAI发布AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
 
@@ -96,7 +96,7 @@
 
 ## ChatGPT_VS_GPT4
 
-### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4 VS ChatGPT（from nytimes ）.md)
+### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from nytimes ）.md)
 
 ## GPT4
 
@@ -112,7 +112,7 @@
 
 #### [GPT4_Technical_Summary](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
 
-#### [Research Origin of GPT4](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research Origin of GPT-4.md)
+#### [Research Origin of GPT4](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
 
 ### GPT4_Papers
 
