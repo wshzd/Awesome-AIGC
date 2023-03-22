@@ -101,7 +101,7 @@
 
 ## ChatGPT_VS_GPT4
 
-- ### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes ）.md)
+- ### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
 
 
 ## GPT4
