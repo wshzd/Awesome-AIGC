@@ -56,13 +56,13 @@
 
 ## AGI
 
-- ### [Google OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
+- ### [Google发布统计深度学习框架平台：OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
 
 
-- ### [OpenAI Team](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
+- ### [OpenAI团队介绍](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
 
 
-- ### [OpenAI AGI](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
+- ### [OpenAI的AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
 
 
 ## ChatGPT
@@ -105,25 +105,25 @@
 
 ## ChatGPT_VS_GPT4
 
-- ### [GPT4 VS ChatGPT](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
+- ### [GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
 
 
 ## GPT4
 
 - ### GPT4_Official
-  - #### [GPT4_System_Card_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT-4_System_Card_zh.md)
+  - #### [GPT4_System_Card中文翻译](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT-4_System_Card_zh.md)
 
-  - #### [GPT4_Technical_Report_zh](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT4_Technical_Report_zh.md)
+  - #### [GPT4_Technical_Report中文翻译](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT4_Technical_Report_zh.md)
 
 - ### GPT4_Blogs
-  - #### [GPT4_Technical_Detail](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
+  - #### [GPT4技术细节](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
 
-  - #### [GPT4_Technical_Summary](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
+  - #### [GPT4技术关键点总结](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
 
-  - #### [Research Origin of GPT4](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
+  - #### [GPT4初衷](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
 
 - ### GPT4_Papers
-  - #### [ChatGPT Papers](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
+  - #### [ChatGPT相关论文列表](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
 
 ## 关于我
 
