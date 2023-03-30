@@ -3,7 +3,7 @@
 
 自2022年11月份OpenAI公布ChatGPT以来，ChatGPT在五天之内注册用户数就突破了百万
 
-![ChatGPT](images/chatgpt.png)
+![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt.png)
 
 由此拉开了文本生成大模型的序幕，也有人称为是AI2.0时代，2023年3月14日又发布了GPT4，性能进一步得到提升，关于ChatGPT和GPT4的博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
 
