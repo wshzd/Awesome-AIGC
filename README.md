@@ -67,9 +67,9 @@
 
 ## ChatGPT
 
-![ChatGPT](images/chatgpt-head.png)
+![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt-head.png)
 
-![ChatGPT_family](images/chatgpt-3.jpg)
+![ChatGPT_family](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt-3.jpg)
 
 - ### ChatGPT_Blogs
   - #### ChatGPT_Application
@@ -147,7 +147,7 @@
 
 **微信公众号**：
 
-![公众号二维码](images/ArronAI.jpg)
+![公众号二维码](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/ArronAI.jpg)
 
 ## 声明
 
