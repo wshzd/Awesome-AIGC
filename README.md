@@ -14,9 +14,6 @@
 * https://chat.forchange.cn/
 * https://aigcfun.com/
 * https://xc.com/
-## ChatGPT开源项目
-
-* 【完整复现ChatGPT全流程】[ColossalAI](https://github.com/hpcaitech/ColossalAI)
 ## Table of Contents
 
 - [通用人工智能AGI](#通用人工智能agi)
@@ -25,10 +22,8 @@
 
   - [通用人工智能AGI相关会议](#通用人工智能agi相关会议)
 
-  - [通用人工智能AGI相关组织](#通用人工智能agi相关组织)
-
+  - [通用人工智能AGI相关博客及论文](#通用人工智能agi相关博客及论文)
 - [AIGC相关会议](aigc相关会议)
-
 - [文本生成](#文本生成)
 
   - [ChatGPT](#chatgpt)
@@ -36,11 +31,9 @@
       - [ChatGPT_Application](#chatgpt_application)
       - [ChatGPT_Technology](#chatgpt_technology)
       - [ChatGPT_Other](#chatgpt_other)
-    - [ChatGPT_Human_Evaluation](#chatgpt_human_evaluation)
-    - [ChatGPT_Paper_Evaluation](#chatgpt_paper_evaluation)
+    - [ChatGPT测试体验](#chatgpt测试体验)
+    - [ChatGPT性能评估](#chatgpt性能评估)
     - [ChatGPT_Papers](#chatgpt_papers)
-  - [ChatGPT_VS_GPT4](#chatgpt_vs_gpt4)
-    - [GPT4 VS ChatGPT](#gpt4_vs_chatgpt)
   - [GPT4](#gpt4)
     - [GPT4_Official](#gpt4_official)
     - [GPT4_System_Card_zh](#gpt4_system_card_zh)
@@ -54,7 +47,11 @@
 
     - [GPT4_Papers](#gpt4_papers)
       - [GPT4 Papers](#gpt4_papers)
-
+  - [ChatGPT扩展模型](#chatgpt扩展模型)
+    - [LLaMA以及扩展](#LLaMA以及扩展)
+    - [ColossalAI](#colossalai)
+    - 
+    - 
 - [图像、视频生成](#图像、视频生成)
 
 
@@ -69,10 +66,6 @@
 
 
 
-
-
-
-
 ## 通用人工智能AGI
 
 - ### 通用人工智能AGI开源工具
@@ -81,7 +74,29 @@
 
 - ### 通用人工智能AGI相关会议
 
-- ### 通用人工智能AGI相关组织
+- ### 通用人工智能AGI相关博客及论文
+
+- 【斯坦福大学研究大语言模型反映了谁的观点？】[[paper](https://arxiv.org/pdf/2303.17548.pdf)]，[[code](https://github.com/tatsu-lab/opinions_qa )]
+
+- 【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
+
+- 【斯坦福大学 | 大模型及其公平使用】[[paper](https://arxiv.org/pdf/2303.15715.pdf )]
+
+- 【斯坦福构建大模型生态系统图，用于跟踪大模型的足迹】[[blog](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=home)]
+
+- 【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
+
+- 【纽约大学&Anthropic等提出ILF（从语言反馈中模仿学习）：利用语言反馈大规模训练语言模型】[[paper](https://arxiv.org/pdf/2303.16755.pdf )]
+
+- 【微软亚研院首席研究员：一种新的大语言模型NLG评估框架】[[paper](https://arxiv.org/abs/2303.16634 )]
+
+- 【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf )]
+
+- 【**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators** 】[[paper](https://arxiv.org/pdf/2303.16854.pdf )]
+
+- 【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+
+- 【智慧信息的压缩：模型智能的涌现之道】[[blog](https://mp.weixin.qq.com/s/hQmvltuMlClBonM6UJmtLg)]
 
 
 - ### [OpenAI团队介绍](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
@@ -90,6 +105,8 @@
 - ### [OpenAI的AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
 
 ## AIGC相关会议
+
+
 
 ## 文本生成
 
@@ -101,6 +118,8 @@
 
 - ### ChatGPT_Blogs
   - #### ChatGPT_Application
+
+    - 【大模型时代的“Linux”生态，开启人工智能新十年】[[blog](https://mp.weixin.qq.com/s/sUmA3nSSVfNQFBgSjiSn0g)]
 
   - #### ChatGPT_Technology
 
@@ -120,6 +139,10 @@
 
     - #### [The_guide_of_training_LLM](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/The_guide_of_training_LLM.md)
 
+    - 【AI芯片制造商Cerebras发布7个基于GPT的大语言模型，现已开源】[[官网地址]([https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) )]，[[GPT地址](https://www.cerebras.net/cerebras-gpt  )]，[[Hugging Face地址 ](https://huggingface.co/cerebras  )]
+
+    - 
+
   - #### ChatGPT_Other
 
     - [Cver](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/Cver.md)
@@ -138,18 +161,21 @@
     - [智源社区](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E6%99%BA%E6%BA%90%E7%A4%BE%E5%8C%BA.md)
     - [专知](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/Other/%E4%B8%93%E7%9F%A5.md)
 
-- ### ChatGPT_Human_Evaluation
+- ### ChatGPT测试体验
 
 
-- ### ChatGPT_Paper_Evaluation
+- ### ChatGPT性能评估
 
 
 - ### ChatGPT_Papers
 
 
-### ChatGPT_VS_GPT4
-
-- ### [GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
+  - 【BloombergGPT: A Large Language Model for Finance】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=b0e4b03ecf5c11edb95839eec3084ddd)]
+  - 【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
+  - 【HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace 】[[paper](https://arxiv.org/pdf/2303.17580.pdf )]
+  - 【ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models 】[[paper](https://arxiv.org/pdf/2303.16421.pdf )]
+  - 【A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models 】[[paper]([https://arxiv.org/abs/2303.10420v1 ](https://arxiv.org/abs/2303.10420v1%C2%A0) )]
+  - 【ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks 】[[paper](https://arxiv.org/pdf/2303.15056.pdf )]
 
 
 ### GPT4
@@ -166,8 +192,39 @@
 
   - #### [GPT4初衷](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/Research_Origin_of_GPT-4.md)
 
+  - #### [GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
+
 - ### GPT4_Papers
-  - #### [ChatGPT相关论文列表](https://github.com/wshzd/ChatGPT-Summary/tree/main/paper)
+  - 【点燃通用人工智能的火花：GPT-4的早期实验】[[原始paper](https://arxiv.org/pdf/2303.12712.pdf )]，[[中文版paper](https://event-cdn.baai.ac.cn/file/file-browser/waTXJn85fm3FPyDXpsZ4faGk47trjjYb.pdf  )]
+  - 【GPT4All：用GPT-3.5-Turbo的大规模数据提炼训练一个助理式聊天机器人】[[paper](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf )]，[[code](https://github.com/nomic-ai/gpt4all )]
+
+### ChatGPT扩展模型
+
+#### LLaMA以及扩展
+
+- 【LLaMA】
+- 【Alpaca】
+- 【LLaMA-Adapter】【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法🔥[，使用Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter )]
+- 【lit-llama】【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练 】[[code](https://github.com/Lightning-AI/lit-llama)]
+- 【Vicuna】【通过对从ShareGPT收集的用户共享对话进行微调的LLaMA训练，Vicuna-13B达到了OpenAI ChatGPT和Google Bard 90%*以上的质量 】[Vicuna官网地址](https://vicuna.lmsys.org/)
+
+【ColossalAI】【完整复现ChatGPT全流程】[code](https://github.com/hpcaitech/ColossalAI)
+
+【ColossalChat】【用于克隆 ChatGPT 和完整 RLHF 管道的开源解决方案】[[code](https: [//github.com/hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) )]，[[blog](https://syncedreview.com/2023/03/29/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline/)]
+
+## 图像、视频生成
+
+【Genmo Chat】【这是一款创造性的copilot，使用GPT-4和一大套生成人工智能工具创建并编辑您需要的任何视频或图像。 】[[blog](https://www.genmo.ai/)]
+
+## 代码生成
+
+
+
+## 音乐生成
+
+
+
+
 
 ## 关于我
 
