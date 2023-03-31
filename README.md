@@ -3,7 +3,7 @@
 
 自2022年11月份OpenAI公布ChatGPT以来，ChatGPT在五天之内注册用户数就突破了百万
 
-![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt.png)
+![ChatGPT](images/chatgpt.png)
 
 由此拉开了文本生成大模型的序幕，也有人称为是AI2.0时代，2023年3月14日又发布了GPT4，性能进一步得到提升，关于ChatGPT和GPT4的博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
 
@@ -67,9 +67,9 @@
 
 ## ChatGPT
 
-![ChatGPT](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt-head.png)
+![ChatGPT](images/chatgpt-head.png)
 
-![ChatGPT_family](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/chatgpt-3.jpg)
+![ChatGPT_family](images/chatgpt-3.jpg)
 
 - ### ChatGPT_Blogs
   - #### ChatGPT_Application
@@ -147,7 +147,7 @@
 
 **微信公众号**：
 
-![公众号二维码](https://github.com/wshzd/ChatGPT-Summary/tree/main/images/ArronAI.jpg)
+![公众号二维码](images/ArronAI.jpg)
 
 ## 声明
 
