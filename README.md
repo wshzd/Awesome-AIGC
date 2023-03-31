@@ -1,11 +1,11 @@
-# ChatGPT-Summary
+# AIGC-Summary
 ## 介绍
 
 自2022年11月份OpenAI公布ChatGPT以来，ChatGPT在五天之内注册用户数就突破了百万
 
 ![ChatGPT](images/chatgpt.png)
 
-由此拉开了文本生成大模型的序幕，也有人称为是AI2.0时代，2023年3月14日又发布了GPT4，性能进一步得到提升，关于ChatGPT和GPT4的博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
+由此拉开了AIGC大模型的序幕，也有人称为是AI2.0时代，2023年3月14日又发布了GPT4，性能进一步得到提升，关于ChatGPT和GPT4为代码的文本生成以及Codex的代码生成等博客和论文层出不穷，这里对一些重点资料进行了整理归类，持续更新中......
 
 ## 中国版ChatGPT
 
@@ -19,44 +19,69 @@
 * 【完整复现ChatGPT全流程】[ColossalAI](https://github.com/hpcaitech/ColossalAI)
 ## Table of Contents
 
-- [AGI](#agi)
-  - [Google_OpenXLA](#google_openxla)
-  - [OpenAI_Team](#open_team)
-  - [OpenAI_AGI](#openai_agi)
+- [通用人工智能AGI](#[通用人工智能agi)
 
-- [ChatGPT](#chatgpt)
-  - [ChatGPT_Blogs](#chatgpt_blogs)
-    - [ChatGPT_Application](#chatgpt_application)
-    - [ChatGPT_Technology](#chatgpt_technology)
-    - [ChatGPT_Other](#chatgpt_other)
-  - [ChatGPT_Human_Evaluation](#chatgpt_human_evaluation)
-  - [ChatGPT_Paper_Evaluation](#chatgpt_paper_evaluation)
-  - [ChatGPT_Papers](#chatgpt_papers)
+  - [通用人工智能AGI开源工具](#通用人工智能agi开源工具)
 
-- [ChatGPT_VS_GPT4](#chatgpt_vs_gpt4)
-  - [GPT4 VS ChatGPT](#gpt4_vs_chatgpt)
+  - [通用人工智能AGI相关会议](#通用人工智能agi相关会议)
 
-- [GPT4](#gpt4)
+  - [通用人工智能AGI相关组织](#通用人工智能agi相关组织)
 
-  - [GPT4_Official](#gpt4_official)
+- [AIGC相关会议](aigc相关会议)
 
+- [文本生成](#文本生成)
+
+  - [ChatGPT](#chatgpt)
+    - [ChatGPT_Blogs](#chatgpt_blogs)
+      - [ChatGPT_Application](#chatgpt_application)
+      - [ChatGPT_Technology](#chatgpt_technology)
+      - [ChatGPT_Other](#chatgpt_other)
+    - [ChatGPT_Human_Evaluation](#chatgpt_human_evaluation)
+    - [ChatGPT_Paper_Evaluation](#chatgpt_paper_evaluation)
+    - [ChatGPT_Papers](#chatgpt_papers)
+  - [ChatGPT_VS_GPT4](#chatgpt_vs_gpt4)
+    - [GPT4 VS ChatGPT](#gpt4_vs_chatgpt)
+  - [GPT4](#gpt4)
+    - [GPT4_Official](#gpt4_official)
     - [GPT4_System_Card_zh](#gpt4_system_card_zh)
 
     - [GPT4_Technical_Report_zh](#gpt4_technical_report_zh)
 
-  - [GPT4_Blogs](#gpt4_blogs)
+    - [GPT4_Blogs](#gpt4_blogs)
+      - [GPT4_Technical_Detail](#gpt4_technical_detail)
+      - [GPT4_Technical_Summary](#gpt4_technical_summary)
+      - [Research Origin of GPT4](#research_origin_of_gpt4)
 
-    - [GPT4_Technical_Detail](#gpt4_technical_detail)
-    - [GPT4_Technical_Summary](#gpt4_technical_summary)
-    - [Research Origin of GPT4](#research_origin_of_gpt4)
+    - [GPT4_Papers](#gpt4_papers)
+      - [GPT4 Papers](#gpt4_papers)
 
-  - [GPT4_Papers](#gpt4_papers)
+- [图像、视频生成](#图像、视频生成)
 
-    - [GPT4 Papers](#gpt4_papers)
 
-## AGI
 
-- ### [Google发布统计深度学习框架平台：OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
+- [代码生成](#代码生成)
+
+
+
+- [音乐生成](#音乐生成)
+
+
+
+
+
+
+
+
+
+## 通用人工智能AGI
+
+- ### 通用人工智能AGI开源工具
+
+  - ### [Google发布统计深度学习框架平台：OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
+
+- ### 通用人工智能AGI相关会议
+
+- ### 通用人工智能AGI相关组织
 
 
 - ### [OpenAI团队介绍](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI_Team.md)
@@ -64,8 +89,11 @@
 
 - ### [OpenAI的AGI路线图](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/OpenAI发布AGI路线图.md)
 
+## AIGC相关会议
 
-## ChatGPT
+## 文本生成
+
+### ChatGPT
 
 ![ChatGPT](images/chatgpt-head.png)
 
@@ -119,12 +147,12 @@
 - ### ChatGPT_Papers
 
 
-## ChatGPT_VS_GPT4
+### ChatGPT_VS_GPT4
 
 - ### [GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
 
 
-## GPT4
+### GPT4
 
 - ### GPT4_Official
   - #### [GPT4_System_Card中文翻译](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT-4_System_Card_zh.md)
