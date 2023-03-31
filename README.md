@@ -19,7 +19,7 @@
 * 【完整复现ChatGPT全流程】[ColossalAI](https://github.com/hpcaitech/ColossalAI)
 ## Table of Contents
 
-- [通用人工智能AGI](#[通用人工智能agi)
+- [通用人工智能AGI](#通用人工智能agi)
 
   - [通用人工智能AGI开源工具](#通用人工智能agi开源工具)
 
