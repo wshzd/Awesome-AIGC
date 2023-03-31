@@ -16,17 +16,15 @@
 * https://xc.com/
 ## Table of Contents
 
-- [通用人工智能AGI](#通用人工智能agi)
+- [AGI](#agi)
 
-  - [通用人工智能AGI开源工具](#通用人工智能agi开源工具)
+  - [开源工具](#开源工具)
 
-  - [通用人工智能AGI相关会议](#通用人工智能agi相关会议)
-
-  - [通用人工智能AGI相关博客及论文](#通用人工智能agi相关博客及论文)
+  - [相关博客及论文](#相关博客及论文)
 - [AIGC相关会议](aigc相关会议)
 - [Prompt工程](#prompt工程)
-- [LLM测试体验](#llm测试体验)
-- [文本生成](#文本生成)
+- [LLM体验效果](#llm体验效果)
+- [Text](#Text)
 
   - [ChatGPT](#chatgpt)
     - [ChatGPT_Blogs](#chatgpt_blogs)
@@ -37,55 +35,33 @@
     - [ChatGPT性能评估](#chatgpt性能评估)
     - [ChatGPT_Papers](#chatgpt_papers)
   - [GPT4](#gpt4)
-    - [GPT4_Official](#gpt4_official)
-    - [GPT4_System_Card_zh](#gpt4_system_card_zh)
-
-    - [GPT4_Technical_Report_zh](#gpt4_technical_report_zh)
-
+    - [GPT4_Official_docs](#gpt4_official_docs)
     - [GPT4_Blogs](#gpt4_blogs)
-      - [GPT4_Technical_Detail](#gpt4_technical_detail)
-      - [GPT4_Technical_Summary](#gpt4_technical_summary)
-      - [Research Origin of GPT4](#research_origin_of_gpt4)
 
     - [GPT4_Papers](#gpt4_papers)
-      - [GPT4 Papers](#gpt4_papers)
   - [ChatGPT扩展模型](#chatgpt扩展模型)
-    - [LLaMA以及扩展](#LLaMA以及扩展)
-    - [ColossalAI](#colossalai)
-    - 
-    - 
   - [Bard](#bard)
   - [Claude](#claude)
   - [ChatGLM](#chatglm)
   - [ChatLLaMA](#chatllama)
   - [OpenChatKit](#openchatkit)
   - [LLM文本检测](#llm文本检测)
-- [图像、视频生成](#图像、视频生成)
-
-  - [图像、视频生成Blogs](#[图像、视频生成blog)
-  - [图像、视频生成Papers](#[图像、视频papers)
-
-- [代码生成](#代码生成)
-
-  - [代码生成Blogs](#代码生成blog)
-  - [代码生成Papers](#代码生成papers)
-
-- [音乐生成](#音乐生成)
-
-  - [音乐生成Blogs](#音乐生成blog)
-  - [音乐生成Papers](#音乐生成papers)
+- [Picture&Video](#picture&video)
 
 
+- [Code](#code)
 
-## 通用人工智能AGI
 
-- ### 通用人工智能AGI开源工具
+- [Music](#music)
 
-  - ### [Google发布统计深度学习框架平台：OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
 
-- ### 通用人工智能AGI相关会议
+## AGI
 
-- ### 通用人工智能AGI相关博客及论文
+- ### 开源工具
+
+  - [Google发布统计深度学习框架平台：OpenXLA](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)
+
+- ### 相关博客及论文
 
 - 【斯坦福大学研究大语言模型反映了谁的观点？】[[paper](https://arxiv.org/pdf/2303.17548.pdf)]，[[code](https://github.com/tatsu-lab/opinions_qa )]
 
@@ -151,6 +127,20 @@
 
 ## AIGC相关会议
 
+### 智源社区
+
+【AugGPT：利用ChatGPT进行文本数据增强 】[[link](https://event.baai.ac.cn/activities/664 )]
+
+【ChatGPT的鲁棒性探究——对抗性和分布外泛化的视角 】[[link](https://event.baai.ac.cn/activities/657 )]
+
+【传统检索模型和大语言模型在信息搜索中的应用和对比 】[[link](https://event.baai.ac.cn/activities/656 )]
+
+### DataFun
+
+
+
+### 智东西
+
 
 
 ## Prompt工程
@@ -158,7 +148,7 @@
 - 【OpenAI 应用人工智能研究负责人Lilian Weng新博文：关于提示工程的介绍】[[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
 - 【Prompt Engineering全面自动化】[[blog](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg)]
 
-## LLM测试体验
+## LLM体验效果
 
 - 【人工智能聊天机器人比较：Bard vs. Bing vs. ChatGPT】[[blog](https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4)]
 
@@ -170,7 +160,7 @@
 
 - 【GPT4 VS ChatGPT】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485952&idx=2&sn=e54a62e358bf7aee3c007d59600fd452&chksm=ced549e4f9a2c0f2868eb8877c14fbe287a469e63b09774cefcb9edc4c0601016f6d36561973&token=666852558&lang=zh_CN#rd)]
 
-## 文本生成
+## Text
 
 ### ChatGPT
 
@@ -322,18 +312,16 @@
 
 ### OpenChatKit 
 
-【ChatGPT开源平替OpenChatKit：参数量200亿，在4300万条指令上微调而成】[[blog](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)]，[[code]([https://github.com/togethercomputer/OpenChatKit ](https://github.com/togethercomputer/OpenChatKit%C2%A0) )]，[[测试链接]([https://huggingface.co/spaces/togethercomputer/OpenChatKit ](https://huggingface.co/spaces/togethercomputer/OpenChatKit%C2%A0) )]，[[模型权重]([https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B ](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B%C2%A0) )]，[[数据集](https://laion.ai/blog/oig-dataset/ )]
+- 【ChatGPT开源平替OpenChatKit：参数量200亿，在4300万条指令上微调而成】[[blog](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)]，[[code]([https://github.com/togethercomputer/OpenChatKit ](https://github.com/togethercomputer/OpenChatKit%C2%A0) )]，[[测试链接]([https://huggingface.co/spaces/togethercomputer/OpenChatKit ](https://huggingface.co/spaces/togethercomputer/OpenChatKit%C2%A0) )]，[[模型权重]([https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B ](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B%C2%A0) )]，[[数据集](https://laion.ai/blog/oig-dataset/ )]
 
 ### LLM文本检测
 
 - 【美国麻省大学&谷歌研究院：改写文本可以避开AI生成文本的检测器，但检索则是一种有效的防御】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=2cfe8cecc9f211edb95839eec3084ddd )]，[[code](https://github.com/martiansideofthemoon/ai-detection-paraphrases )]
 - 【人工智能生成的文本能被可靠地检测出来吗？】[[paper](https://arxiv.org/pdf/2303.11156.pdf )]
 
+## Picture&Video
 
-
-## 图像、视频生成
-
-### 图像、视频生成Blogs
+### Picture&Video Blogs
 
 - 【Genmo Chat】【这是一款创造性的copilot，使用GPT-4和一大套生成人工智能工具创建并编辑您需要的任何视频或图像。 】[[blog](https://www.genmo.ai/)]
 
@@ -342,19 +330,19 @@
 - 【Bing Image Creator】【微软推出Bing Image Creator，用户可根据文本提示创建图片】[[blog](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/ )]
 - 【Hugging Face 现已支持使用达摩院text-to-video模型从文本生成视频】[[模型地址 ](https://modelscope.cn/models/damo/text-to-video-synthesis/summary )]
 
-### 图像、视频生成Papers
+### Picture&Video Papers
 
 - 【最新女娲大模型，中科院提出NUWA-XL：扩散模型中的扩散，生成超长视频】[[paper](https://arxiv.org/pdf/2303.12346.pdf )]，[[blog](https://msra-nuwa.azurewebsites.net/#/ )]
 - 【艾伦AI研究院 & 华盛顿大学 | CHAMPAGNE：从大规模的网络视频中学习真实世界的对话】[[paper](https://arxiv.org/pdf/2303.09713.pdf )]，[[code](https://seungjuhan.me/champagne )]
 - 【用AI直接复现你在想什么，Stable Diffusion逼真复现图像】[[paper](https://sites.google.com/view/stablediffusion-with-brain/ )]，[[blog](https://mp.weixin.qq.com/s/gIwj2eqNph8jHWOhYYEXIg)]
 
-## 代码生成
+## Code
 
-### 代码生成Blogs
+### Code Blogs
 
 
 
-### 代码生成Papers
+### Code Papers
 
 - 【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
 
@@ -362,15 +350,15 @@
 
 - 【Baldur: 基于大型语言模型的完全证明生成与修复】[[paper](https://arxiv.org/abs/2303.04910 )]
 
-【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398 )]
+- 【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398 )]
 
-## 音乐生成
+## Music
 
-### 音乐生成Blogs
+### Music Blogs
 
 
 
-### 音乐生成Papers
+### Music Papers
 
 
 
