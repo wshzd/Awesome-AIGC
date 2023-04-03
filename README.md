@@ -57,9 +57,9 @@ https://xc.com/
 
 ## LLM论文、代码以及博客
 
-**【谷歌】**【面向决策的基础模型: 问题、方法与机会】[[paper]( <https://arxiv.org/abs/2303.04129 )]
+**【谷歌】**【面向决策的基础模型: 问题、方法与机会】[[paper]( https://arxiv.org/abs/2303.04129 )]
 
-**【谷歌】**【较大语言模型上下文学习的方式有所不同】[[paper]([https://arxiv.org/abs/2303.03846](https://arxiv.org/abs/2303.03846%C2%A0%C2%A0) )]
+**【谷歌】**【较大语言模型上下文学习的方式有所不同】[[paper](https://arxiv.org/abs/2303.03846)]
 
 **【谷歌】**【通用语音识别大模型已经支持100+语言】[[blog](https://mp.weixin.qq.com/s/fHr2vL-w4JtYt5utcZrbsw)]
 
@@ -243,7 +243,7 @@ https://xc.com/
 
 ### Claude 
 
-【ChatGPT最强竞品Claude今日开放API】[[产品地址 ]([https://www.anthropic.com/product](https://www.anthropic.com/product%C2%A0) )]，[[申请地址 ](https://www.anthropic.com/earlyaccess )]，[[API说明 ]([https://console.anthropic.com/docs/api ](https://console.anthropic.com/docs/api%C2%A0) )]
+【ChatGPT最强竞品Claude今日开放API】[[产品地址 ](https://www.anthropic.com/product)]，[[申请地址 ](https://www.anthropic.com/earlyaccess )]，[[API说明 ](https://console.anthropic.com/docs/api)]
 
 ### ChatGLM
 
@@ -251,7 +251,7 @@ https://xc.com/
 
 ### Dolly
 
-【声称它 "**像ChatGPT一样神奇**"，但只需要**使用一台机器**在**不到三个小时的时间里**训练的数据少得多。】[[blog]([https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html ](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html) )]，[[Databricks Inc地址 ]([https://www.databricks.com ](https://www.databricks.com%20/) )]
+【声称它 "**像ChatGPT一样神奇**"，但只需要**使用一台机器**在**不到三个小时的时间里**训练的数据少得多。】[[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html )]，[[Databricks Inc地址 ](https://www.databricks.com )]
 
 ### FlexGen
 
@@ -259,7 +259,7 @@ https://xc.com/
 
 ### OpenChatKit 
 
-【ChatGPT开源平替OpenChatKit：参数量200亿，在4300万条指令上微调而成】[[blog](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)]，[[code]([https://github.com/togethercomputer/OpenChatKit ](https://github.com/togethercomputer/OpenChatKit%C2%A0) )]，[[测试链接]([https://huggingface.co/spaces/togethercomputer/OpenChatKit ](https://huggingface.co/spaces/togethercomputer/OpenChatKit%C2%A0) )]，[[模型权重]([https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B ](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B%C2%A0) )]，[[数据集](https://laion.ai/blog/oig-dataset/ )]
+【ChatGPT开源平替OpenChatKit：参数量200亿，在4300万条指令上微调而成】[[blog](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)]，[[code](https://github.com/togethercomputer/OpenChatKit)]，[[测试链接]([https://huggingface.co/spaces/togethercomputer/OpenChatKit ](https://huggingface.co/spaces/togethercomputer/OpenChatKit%C2%A0) )]，[[模型权重]([https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B ](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B%C2%A0) )]，[[数据集](https://laion.ai/blog/oig-dataset/ )]
 
 ### LLaMA以及扩展
 
@@ -269,9 +269,9 @@ https://xc.com/
 
 **【Alpaca】**
 
-**【LLaMA-Adapter】**【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法🔥[，使用Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter )]
+**【LLaMA-Adapter】**【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法，使用[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter )]
 
-**【lit-llama】**【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练 】[[code](https://github.com/Lightning-AI/lit-llama)]
+**【lit-llama】**【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练】[[code](https://github.com/Lightning-AI/lit-llama)]
 
 **【Vicuna】**【通过对从ShareGPT收集的用户共享对话进行微调的LLaMA训练，Vicuna-13B达到了OpenAI ChatGPT和Google Bard 90%*以上的质量 】[Vicuna官网地址](https://vicuna.lmsys.org/)
 
