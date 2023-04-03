@@ -57,7 +57,7 @@ https://xc.com/
 
 ## LLM论文、代码以及博客
 
-**【谷歌】**【面向决策的基础模型: 问题、方法与机会】[[paper]( https://arxiv.org/abs/2303.04129 )]
+**【谷歌】**【面向决策的基础模型: 问题、方法与机会】[[paper](https://arxiv.org/abs/2303.04129)]
 
 **【谷歌】**【较大语言模型上下文学习的方式有所不同】[[paper](https://arxiv.org/abs/2303.03846)]
 
@@ -189,13 +189,13 @@ https://xc.com/
 
 【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461 )]
 
-【探讨ChatGPT在对抗攻击和分布外泛化下的鲁棒性】[[paper](https://arxiv.org/pdf/2302.12095.pdf )]，[[code]([https://github.com/microsoft/robustlearn](https://github.com/wyu97/GenRead) )]
+【探讨ChatGPT在对抗攻击和分布外泛化下的鲁棒性】[[paper](https://arxiv.org/pdf/2302.12095.pdf )]，[[code](https://github.com/microsoft/robustlearn)]
 
 **【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
 
 **【论文】**【ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models 】[[paper](https://arxiv.org/pdf/2303.16421.pdf )]
 
-**【论文】**【A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models 】[[paper]([https://arxiv.org/abs/2303.10420v1 ](https://arxiv.org/abs/2303.10420v1%C2%A0) )]
+**【论文】**【A Comprehensive Capability Analysis of GPT-3 and GPT-3.5 Series Models 】[[paper](https://arxiv.org/abs/2303.10420v1)]
 
 **【论文】**【ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks 】[[paper](https://arxiv.org/pdf/2303.15056.pdf )]
 
@@ -203,7 +203,7 @@ https://xc.com/
 
 **【论文】**【微软 | 大型语言模型的语境忠实提示法】[[paper](https://arxiv.org/pdf/2303.11315.pdf )]
 
-**【论文】**【KAUST | ChatGPT问，BLIP-2回答模型：面向丰富的视觉描述的自动提问】[[paper](https://arxiv.org/pdf/2303.06594.pdf )]，[[code]([https://github.com/Vision-CAIR/ChatCaptioner](https://github.com/Vision-CAIR/) )]
+**【论文】**【KAUST | ChatGPT问，BLIP-2回答模型：面向丰富的视觉描述的自动提问】[[paper](https://arxiv.org/pdf/2303.06594.pdf )]，[[code](https://github.com/Vision-CAIR/ChatCaptioner)]
 
 
 ### GPT4
