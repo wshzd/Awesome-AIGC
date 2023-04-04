@@ -25,7 +25,7 @@
 
 **【论文分享】**【传统检索模型和大语言模型在信息搜索中的应用和对比 】[[link](https://event.baai.ac.cn/activities/656 )]，[[paper](https://arxiv.org/abs/2209.10063)]，[[code](https://github.com/wyu97/GenRead )]，[[blog](https://hub.baai.ac.cn/view/24380 )]
 
-### 访谈
+### 访谈&视频
 
 **【访谈】**【OpenAI 的核心研发人员 Jack Rae 在参加 Stanford MLSys Seminar 的访谈时进行了一个名为 Compression for AGI的主题分享 】[[访谈记录](https://mp.weixin.qq.com/s/hQmvltuMlClBonM6UJmtLg)]
 
@@ -49,6 +49,10 @@
 
 **【访谈】**【口述历史，探析ChatGPT的创造历程，ChatGPT内部故事】[[访谈记录](https://mp.weixin.qq.com/s/RAdIxzdgs3elUiozB8cH8g)]
 
+**【访谈】**【对话ChatGPT之父！AI会改变什么？不会改变什么？】[[访谈记录](https://mp.weixin.qq.com/s/zNuOmVeVKP335iJ4RNJqNw)]
+
+**【视频】**【邱锡鹏教授介绍以ChatGPT为核心的大规模语言模型的相关知识及未来的发展方向 】[[B站](https://www.bilibili.com/video/BV1Xb411X7c3/)]
+
 ## 中国版ChatGPT
 
 无需注册即可体验ChatGPT效果的一些网站
@@ -61,7 +65,7 @@ https://aigcfun.com/
 
 https://xc.com/
 
-## LLM体验效果
+## LLM体验效果&专业评估
 
 **【LLM效果对比】**【Bard_VS_Bing_VS_ChatGPT】[[blog](https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4)]
 
@@ -77,6 +81,14 @@ https://xc.com/
 
 **【LLM效果对比】**【文心一言 vs GPT-4实测！】[[blog](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ)]
 
+**【ChatGPT专业评估】**【一文看遍各行业对ChatGPT的专业评估】[[blog](https://mp.weixin.qq.com/s/2JryWW33j9udOpi3dK5X9g)]
+
+**【ChatGPT专业评估】**【ChatGPT关于推理、幻觉和交互的多任务、多语言、多通道评估 】[[paper](https://arxiv.org/abs/2302.04023 )]
+
+**【ChatGPT专业评估】**【如何评价 OpenAI 的超级对话模型 ChatGPT ？】[[paper](https://www.zhihu.com/question/570189639)]
+
+**【ChatGPT专业评估】**【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461 )]
+
 ## LLM文本检测
 
 **【论文&代码】**【美国麻省大学&谷歌研究院：改写文本可以避开AI生成文本的检测器，但检索则是一种有效的防御】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=2cfe8cecc9f211edb95839eec3084ddd )]，[[code](https://github.com/martiansideofthemoon/ai-detection-paraphrases )]
@@ -86,6 +98,10 @@ https://xc.com/
 **【论文】**【DetectGPT（斯坦福大学）：利用概率曲率检测文本是否大模型生成】[[paper](https://arxiv.org/abs/2301.11305 )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485713&idx=2&sn=805caf25603cf15dbf71949f85b9d041&chksm=ced54af5f9a2c3e3e0dffd728592fd7ab8f738869e94240daba4fad9f6ac90a2f76a6b458e3f&token=447941009&lang=zh_CN#rd)]，[[code&data](https://ericmitchell.ai/detectgpt/ )]
 
 **【论文】**【Detecting LLM-Generated-Text综述】[[paper](https://github.com/datamllab/The-Science-of-LLM-generated-Text-Detection)]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485747&idx=1&sn=5e5029a70c54c08f6f8c40631962b1e1&chksm=ced54ad7f9a2c3c184ccb123199510bb09470e054fb5cb887e70bac204927b65e296f8921db1&token=447941009&lang=zh_CN#rd)]
+
+**【论文】**【一个专为**教育**者打造的全新 AI 检测模型】[[blog](https://gptzero.substack.com/p/gptzerox )]
+
+**【论文】**【OpenAI重磅发布官方「ChatGPT检测器」】[[blog](https://mp.weixin.qq.com/s/EcZE7TgHspf22rPRWhAybw)]
 
 ## LLM论文、代码以及博客
 
@@ -105,15 +121,17 @@ https://xc.com/
 
 **【LeCun】**【人工智能系统最终是否需要以现实为基础，而不仅仅是从语言中学习？】[[blog](https://spectrum.ieee.org/ai-hallucination )]
 
-**【LeCun】**【ChatGPT无法实现通用人工智能，但ALM技术路线也许可以】[[blog](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]
-
 **【LeCun】**【大型语言模型是否需要感官基础来理解意义和理解？】[[slices](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view )]
 
 **【LeCun】**【ChatGPT是「外星人」，所以才会胡说八道】[[paper](https://www.noemamag.com/ai-chatbots-dont-care-about-your-social-norms/?utm_source=noematwitter&utm_medium=noemasocial)]，[[blog](https://twitter.com/ylecun/status/1633459264508542978 )]
 
 **【LeCun】**【AI聊天机器人并不关注用户的社交属性】[[blog](https://www.noemamag.com/ai-chatbots-dont-care-about-your-social-norms/?utm_source=noematwitter&utm_medium=noemasocial)]
 
-**【LeCun】**【ChatGPT无法实现通用人工智能，但ALM技术路线也许可以 】[[blog](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]
+**【LeCun】**【LeCun和马库斯齐喷ChatGPT：大语言模型果然是邪路？】[[blog](https://mp.weixin.qq.com/s/5e0aTSEAym9rF5QxRndLgQ)]
+
+**【LeCun】**【ChatGPT无法实现通用人工智能，但ALM技术路线也许可以】[[blog](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]
+
+**【LeCun】**【「增强语言模型」的综述 】[[paper](https://arxiv.org/abs/2302.07842 )]
 
 **【李开复】**【AI进入2.0时代，所有应用都会被重写一遍 】[[blog](https://mp.weixin.qq.com/s/zV8Y9RQnIoExwa1mmarZmA)]
 
@@ -122,6 +140,10 @@ https://xc.com/
 **【OpenAI】**【GPT就是GPT：大模型对劳动力市场影响潜力的早期研究】[[paper](https://arxiv.org/pdf/2303.10130.pdf )]
 
 **【OpenAI】**【ABC News 专访OpenAI首席执行官萨姆·奥尔特曼：AI风险和重塑社会的问题】[[blog](https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122)]
+
+**【OpenAI】**【最新发布通用人工智能路线图！AGI比想象中来得更快！】[[blog](https://openai.com/blog/planning-for-agi-and-beyond/)]
+
+**【OpenAI】**【Sam Altman 担心“潜在的可怕的”人工智能工具以及“未来的人们如何看待我们” 】[[blog](https://finance.yahoo.com/news/openai-ceo-sam-altman-frets-165250285.html)]
 
 **【PWC】**【ChatGPT和生成式AI的11大安全趋势】[[blog](https://mp.weixin.qq.com/s/_RAx3vAx1ykQTJTEEoc37w)]
 
@@ -153,6 +175,8 @@ https://xc.com/
 
 **【博客】**【大型语言模型的涌现能力】[[blog](https://www.assemblyai.com/blog/emergent-abilities-of-large-language-models/)]
 
+**【博客】**【大型语言模型成本分析】[[blog](https://hub.baai.ac.cn/view/24047)]
+
 **【博客】**【超越ChatGPT：大模型的智能极限 】[[blog](https://yaofu.notion.site/e1cd16d1fae84f87aeddf872c838e07c)]
 
 **【博客】**【Nature：AI模型越大越好吗? 】[[blog](https://www.nature.com/articles/d41586-023-00641-w)]
@@ -171,6 +195,12 @@ https://xc.com/
 
 **【博客】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://hub.baai.ac.cn/view/24622)]
 
+**【博客】**【揭秘ChatGPT背后的AI“梦之队”：90后科研“后浪”展示强大创新能力｜智谱研究报告】[[blog](https://mp.weixin.qq.com/s/sncE01utzu_-r3dLFYU5QA)]
+
+**【博客】**【In-Context Learning玩法大全 】[[blog](https://mp.weixin.qq.com/s/sC3Xq1QQmtC8Tz84oRRwcw)]
+
+**【博客】**【一文理解“上下文学习”----大语言模型突现能力】[[blog](https://mp.weixin.qq.com/s/0kchPu20nwCKCXk4PZBkOg)]
+
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
 
 **【论文】**【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf )]
@@ -181,11 +211,23 @@ https://xc.com/
 
 **【论文】**【卡内基·梅隆大学 | 语言生成模型可能造成危害：那么我们能做些什么呢？】[[paper](https://arxiv.org/pdf/2210.07700.pdf)]
 
+**【论文】**【鹏程实验室等最新《大规模多模态预训练模型》全面综述 】[[paper](https://arxiv.org/abs/2302.10035)]
+
+**【论文】**【预训练基础模型综合调研：从 BERT 到 ChatGPT 的历史 】[[paper](https://arxiv.org/abs/2302.09419 )]
+
 ## Prompt工程
 
 **【博客】**【OpenAI 应用人工智能研究负责人Lilian Weng新博文：关于提示工程的介绍】[[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
 
 **【博客】**【Prompt Engineering全面自动化】[[blog](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg)]
+
+**【博客】**【ChatGPT提示示例集合】[[地址](https://prompts.chat)]，[[code](https://github.com/f/awesome-chatgpt-prompts/)]，[huggingface](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts )]
+
+**【博客】**【深入浅出Prompt Learning要旨及常用方法】[[blog](https://mp.weixin.qq.com/s/Wgj1ATMAkL1Gx4dsAlkJZw )]
+
+**【博客】**【ChatGPT火爆，最全prompt工程指南登GitHub热榜，标星4.7k！】[[code](https://github.com/dair-ai/Prompt-Engineering-Guide)]，[youtube](https://www.youtube.com/watch?v=dOxUroR57xs)]
+
+**【博客】**【ChatGPT Prompt工程：设计、实践与思考】[[blog](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)]
 
 ## AGI开源工具
 
@@ -201,6 +243,12 @@ https://xc.com/
 
 #### ChatGPT 应用篇
 
+**【58】**【从 GPT 到 ChatGPT 的演进与应用思考】[[blog](https://mp.weixin.qq.com/s/3Pr82xKpZ7mAWQcxPPB1xA)]
+
+**【中科院】**【ChatGPT助力芯片，传统 EDA如何演变成智能EDA】[[blog](https://mp.weixin.qq.com/s/JyveUDEYKLrFolfCFLqhhw)]
+
+**【微软】**【《ChatGPT机器人:设计原则和模型能力》论文 】[[paper](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)]
+
 **【博客】**【ChatGPT获得了「Wolfram」超能力】[[blog](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)]
 
 **【博客】**【OpenAI开发Plugin将 ChatGPT 连接到互联网】[[blog](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/ )]
@@ -213,15 +261,25 @@ https://xc.com/
 
 **【博客】**【Character.AI 在ChatGPT基础上加入个性化、UGC两大武器，有比 ChatGPT 更丰富的使用场景】[[blog](https://mp.weixin.qq.com/s/U4R8loz1G9PYM_l6IvNF_A )]
 
-**【博客】**【OpenGpt：创建ChatGPT小应用的AI平台 】[[官网](https://open-gpt.app/)]，[[code](https://github.com/futantan/OpenGpt )]
-
 **【博客】**【让ChatGPT可以**语音交互** 】[[blog](https://mp.weixin.qq.com/s/H4XLCQ-kR7T28yywHJL4uA)]
+
+**【医疗】**【ChatGPT爆火带来思考：医学界或将迎来与AI融合的奇点？】[[blog](https://mp.weixin.qq.com/s/x8ppg6GVCAeLNpv5uJ7B7g )]
+
+**【教育】**【论ChatGPT大语言模型在教育中的机遇与挑战 】[[blog](https://url39.ctfile.com/f/2501739-809898048-6394c7?p=2096 )]
+
+**【投资】**【ChatGPT在投资研究领域的应用初探及原理分析】[[blog](https://mp.weixin.qq.com/s/LFPeSLeEOTb1-2YJBXclbQ)]
+
+**【其他】**【分析了ChatGPT技术以及落地应用场景 】[[blog](https://url39.ctfile.com/f/2501739-805099789-098b62?p=2096)]
 
 #### ChatGPT 工具篇
 
 **【工具】**【ChatGPT 应用汇总及操作手册】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485794&idx=1&sn=6aa0500e3139b67246dd5f96007d1487&chksm=ced54a86f9a2c390d86856181f1fcd09091cf84d67e81535b6d592617f49fe24349779cfa1e5&token=447941009&lang=zh_CN#rd)]
 
 **【工具】**【ChatGPT提示和技巧速查手册】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485766&idx=1&sn=43ad627e4e183d7a108c3c57ab0e02dc&chksm=ced54aa2f9a2c3b4a2d529e4ed7c2acc7fa32e7465837045d3ec607701e0da2a55c0c557cad2&token=447941009&lang=zh_CN#rd)]
+
+**【工具】**【非常全面的ChatGPT、LLM相关资源整理分享】[[code](https://github.com/cedrickchee/chatgpt-universe)]
+
+**【工具】**【ChatGPT超全面课程】[[blog](https://tested-salto-cab.notion.site/The-Ultimate-Chat-GPT-Course-69ed24a317a942d288e740419b1ad6f6 )]
 
 **【工具】**【BloombergGPT: A Large Language Model for Finance】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=b0e4b03ecf5c11edb95839eec3084ddd)]
 
@@ -239,31 +297,41 @@ https://xc.com/
 
 **【工具】**【ChatWeb：可爬取网页正文，并根据正文回答问题 】[[code](https://github.com/SkywalkerDarren/chatWeb )]
 
+**【工具】**【OpenGpt：创建ChatGPT小应用的AI平台】[[官网](https://open-gpt.app/)]，[[code](https://github.com/futantan/OpenGpt )]
+
 #### ChatGPT 技术篇
 
-[ChatGPT_Inference_Cost](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Inference_Cost.md)
+**【符尧】**【深度拆解GPT-3.5能力起源】[[原文blog](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)]，[[译文blog](https://mp.weixin.qq.com/s/ckd6KxeTfdQas_UCsJ7HgQ)]
 
-[ChatGPT_Official_API_Learning](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Official_API_Learning.md)
+**【知乎】**【ChatGPT发展历程、原理、技术架构详解和产业未来】[[blog](https://zhuanlan.zhihu.com/p/590655677 )]
 
-[ChatGPT_Parameter_is_not_175B](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Parameter_is_not_175B.md)
+**【斯坦福】**【82页PPT ！最新ChatGPT: 提示学习, 指导微调和RLHF 】[[blog](https://pan.baidu.com/s/15Bs1u7z1RhCdfiR3oJ_gJQ)]，[提取码:chat]
 
-[ChatGPT_Road_Map_from_yao.fu](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Road_Map_from_yao.fu.md)
+**【微软】**【让天下没有难训练的大模型，微软亚洲研究院开源TorchScale 】[[code](https://github.com/microsoft/torchscale )]
 
-[Lessons_Learned_from_ChatGPT_Recurrence](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/Lessons_Learned_from_ChatGPT_Recurrence.md)
+**【亚马逊 】**【他们提出了包含视觉特征的 Multimodal-CoT，该架构在参数量小于 10 亿的情况下，在 ScienceQA 基准测试中，比 GPT-3.5 高出 16 个百分点 】[[paper](https://arxiv.org/abs/2302.00923 )]，[[code](https://github.com/amazon-science/mm-cot)]
 
-[LLM_Pre-training_Guide（Bloom-175B）](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/LLM_Pre-training_Guide（Bloom-175B）.md)
+**【博客】**[ChatGPT_Inference_Cost](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Inference_Cost.md)
 
-[The_guide_of_training_LLM](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/The_guide_of_training_LLM.md)
+**【博客】**[ChatGPT_Official_API_Learning](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Official_API_Learning.md)
 
-【AI芯片制造商Cerebras发布7个基于GPT的大语言模型，现已开源】[[官网地址](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) )]，[[GPT地址](https://www.cerebras.net/cerebras-gpt  )]，[[Hugging Face地址 ](https://huggingface.co/cerebras  )]
+**【博客】**[ChatGPT_Parameter_is_not_175B](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Parameter_is_not_175B.md)
 
-【大模型论文周报丨GPT-4发布，谷歌开放PaLM API，斯坦福7B开源模型Alpaca媲美GPT-3.5】[[blog](https://mp.weixin.qq.com/s/C6g_H6xfFn59IxnLpbjA1g)]
+**【博客】**[ChatGPT_Road_Map_from_yao.fu](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Road_Map_from_yao.fu.md)
 
-【LLaMA模型Meta版泄露，GitHub获8K星】[[blog](https://mp.weixin.qq.com/s/2M19WSq2YICo-3t5ibQcig)]
+**【博客】**[Lessons_Learned_from_ChatGPT_Recurrence](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/Lessons_Learned_from_ChatGPT_Recurrence.md)
 
-【ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark 】[[paper](https://arxiv.org/abs/2303.13648 )]
+**【博客】**[LLM_Pre-training_Guide（Bloom-175B）](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/LLM_Pre-training_Guide（Bloom-175B）.md)
 
-【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461 )]
+**【博客】**[The_guide_of_training_LLM](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/The_guide_of_training_LLM.md)
+
+**【博客】**【AI芯片制造商Cerebras发布7个基于GPT的大语言模型，现已开源】[[官网地址](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/) )]，[[GPT地址](https://www.cerebras.net/cerebras-gpt  )]，[[Hugging Face地址 ](https://huggingface.co/cerebras  )]
+
+**【博客】**【大模型论文周报丨GPT-4发布，谷歌开放PaLM API，斯坦福7B开源模型Alpaca媲美GPT-3.5】[[blog](https://mp.weixin.qq.com/s/C6g_H6xfFn59IxnLpbjA1g)]
+
+**【博客】**【LLaMA模型Meta版泄露，GitHub获8K星】[[blog](https://mp.weixin.qq.com/s/2M19WSq2YICo-3t5ibQcig)]
+
+**【博客】**【ChatGPT or Grammarly? Evaluating ChatGPT on Grammatical Error Correction Benchmark 】[[paper](https://arxiv.org/abs/2303.13648 )]
 
 **【博客】**【打造中国版ChatGPT，国内哪家实力最强】[[blog](https://mp.weixin.qq.com/s/B-n_qz110HmhSP66NKRCiQ)]
 
@@ -283,9 +351,17 @@ https://xc.com/
 
 **【博客】**【腾讯在ChatGPT的布局】[[blog](https://mp.weixin.qq.com/s/rdpGZII3pu3MHr-lFm3GyQ)]
 
+**【博客】**【浅析ChatGPT：历史沿革、应用现状及前景展望】[[blog](https://mp.weixin.qq.com/s/fQ8DmL_M3QMiFX23Tf0z7w)]
 
+**【博客】**【ChatGPT 背后的“功臣”——人类反馈强化学习RLHF 技术详解】[[blog](https://mp.weixin.qq.com/s/mZdZS9QNda26Ae0OIhRjFA)]
 
-**【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
+**【博客】**【万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的】[[blog](https://mp.weixin.qq.com/s/ILpbRRNP10Ef1z3lb2CqmA)]
+
+**【博客】**【想训练ChatGPT？得先弄明白Reward Model怎么训（附源码） 】[[blog](https://mp.weixin.qq.com/s/1v4Uuc1YAZ9MRr1UWMH9xw)]
+
+**【博客】**【ChatGPT核心技术：强化学习PPO算法】[[blog](https://mp.weixin.qq.com/s/z4oc9xQmduKMolWxztdHjA)]
+
+**【博客】**【解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗】[[blog](https://mp.weixin.qq.com/s/y4ywidZ55BQLgQzJa_Wjbg)]
 
 **【论文】**【ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models】[[paper](https://arxiv.org/pdf/2303.16421.pdf )]
 
@@ -309,6 +385,20 @@ https://xc.com/
 
 **【论文】**【复旦清华联合顶刊发文｜ChatGPT：潜力、前景和局限 】[[blog](https://mp.weixin.qq.com/s/1D62QuxXFDXWwwRXrB-Ivw )]，[[paper](https://link.springer.com/article/10.1631/FITEE.2300089 )]
 
+**【论文】**【引导ChatGPT不要输出有害信息】[[paper](https://arxiv.org/pdf/2302.07459.pdf )]
+
+**【论文】**【Junnan Li大佬发表最新多模态的杰作BLIP2】[[paper](https://arxiv.org/abs/2301.12597 )]，[[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2 )]，[[blog](https://mp.weixin.qq.com/s/xmSy4m7NheY8iComv7grxQ )]
+
+**【论文】**【Instruction Tuning：无/少样本学习新范式 】[[paper](https://arxiv.org/abs/2109.01652)]，[[code](https://github.com/google-research/flan)]
+
+**【论文】**【GPTScore：一种新的评估语言模型方法】[[paper](https://arxiv.org/abs/2302.04166 )]，[[code](https://github.com/jinlanfu/GPTScore )]
+
+**【论文】**【ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习】[[blog](https://zhuanlan.zhihu.com/p/589747432)]，[[B站](https://www.bilibili.com/video/BV1hd4y187CR)]
+
+**【论文】**【Fine-tune-CoT：小模型也能做推理，完美逆袭大模型 】[[paper](https://arxiv.org/pdf/2212.10071.pdf )]，[[code](https://github.com/itsnamgyu/reasoning-teacher)]
+
+**【代码】**【本科生60行代码教你手搓GPT大模型 】[[code](https://github.com/jaymody/picoGPT/tree/29e78cc52b58ed2c1c483ffea2eb46ff6bdec785)]
+
 
 ### GPT4
 
@@ -318,12 +408,6 @@ https://xc.com/
 **【博客】**【GPT4_Technical_Report中文翻译】[[blog](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Official/GPT4_Technical_Report_zh.md)]
 
 #### GPT4 博客篇
-[GPT4技术细节](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
-
-[GPT4技术关键点总结](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
-
-[GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
-
 **【纽约时报】**【GPT-4 令人印象深刻但仍在 10 个方面具有缺陷】[[blog](https://www.nytimes.com/2023/03/14/technology/openai-new-gpt4.html)]
 
 **【Open AI】**【多模态大模型GPT-4的新突破】[[blog](https://hub.baai.ac.cn/view/24852)]
@@ -336,6 +420,12 @@ https://xc.com/
 
 **【OpenAI】**【当GPT-4进入北京市2022高考考场能有什么表现？】[[blog](https://mp.weixin.qq.com/s/N_j01KSuEKuVwCCD69G92g)]
 
+**【博客】**[GPT4技术细节](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Detail.md)
+
+**【博客】**[GPT4技术关键点总结](https://github.com/wshzd/ChatGPT-Summary/blob/main/GPT4/Blog/GPT4_Technical_Summary.md)
+
+**【博客】**[GPT4和ChatGPT的效果对比](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT_VS_GPT4/GPT4_VS_ChatGPT（from_nytimes）.md)
+
 #### GPT4 论文篇
 **【论文】**【点燃通用人工智能的火花：GPT-4的早期实验】[[原始paper](https://arxiv.org/pdf/2303.12712.pdf )]，[[中文版paper](https://event-cdn.baai.ac.cn/file/file-browser/waTXJn85fm3FPyDXpsZ4faGk47trjjYb.pdf  )]
 
@@ -346,6 +436,10 @@ https://xc.com/
 ### Bard
 
 【谷歌再次开放Bard访问权，向着ChatGPT发起再一次攻击】[[报名地址 ]([http://Bard.google.com](http://bard.google.com/) )]，[[blog](https://twitter.com/sundarpichai/status/1638180697352593408 )]，[[theverge](https://www.theverge.com/23649897/google-Bard-chatbot-search-engine)]
+
+### GPT3.5
+
+【GPT3.5试用地址 】[[试用地址](https://platform.openai.com/playground )]
 
 ### Claude 
 
@@ -373,7 +467,7 @@ https://xc.com/
 
 ### LLaMA以及扩展
 
-**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]
+**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]
 
 **【LLaMA评测】**[[blog](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg)]
 
@@ -391,49 +485,51 @@ https://xc.com/
 
 ## 图像、视频生成
 
-### 图像、视频生成 Blogs
+**【博客】**【Genmo Chat】【这是一款创造性的copilot，使用GPT-4和一大套生成人工智能工具创建并编辑您需要的任何视频或图像。 】[[blog](https://www.genmo.ai/)]
 
-【Genmo Chat】【这是一款创造性的copilot，使用GPT-4和一大套生成人工智能工具创建并编辑您需要的任何视频或图像。 】[[blog](https://www.genmo.ai/)]
+**【博客】**【BlenderGPT】【**一款基于GPT-4的扩展程序BlenderGPT开源，这是一个由GPT3/4驱动的全能AI编辑助手，为Blender提供支持** 】[[code](https://github.com/gd3kr/BlenderGPT)]
 
-【BlenderGPT】【**一款基于GPT-4的扩展程序BlenderGPT开源，这是一个由GPT3/4驱动的全能AI编辑助手，为Blender提供支持** 】[[code](https://github.com/gd3kr/BlenderGPT)]
+**【博客】**【Firefly】【Adobe制造了一个人工智能图像生成器--并表示它没有窃取艺术家的作品来做这件事 】[[blog](https://www.theverge.com/2023/3/21/23648315/adobe-firefly-ai-image-generator-announced)]
 
-【Firefly】【Adobe制造了一个人工智能图像生成器--并表示它没有窃取艺术家的作品来做这件事 】[[blog](https://www.theverge.com/2023/3/21/23648315/adobe-firefly-ai-image-generator-announced)]
+**【博客】**【Bing Image Creator】【微软推出Bing Image Creator，用户可根据文本提示创建图片】[[blog](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/ )]
 
-【Bing Image Creator】【微软推出Bing Image Creator，用户可根据文本提示创建图片】[[blog](https://techcrunch.com/2023/03/21/microsoft-brings-openais-dall-e-image-creator-to-the-new-bing/ )]
+**【博客】**【Hugging Face 现已支持使用达摩院text-to-video模型从文本生成视频】[[模型地址 ](https://modelscope.cn/models/damo/text-to-video-synthesis/summary )]
 
-【Hugging Face 现已支持使用达摩院text-to-video模型从文本生成视频】[[模型地址 ](https://modelscope.cn/models/damo/text-to-video-synthesis/summary )]
+**【论文】**【最新女娲大模型，中科院提出NUWA-XL：扩散模型中的扩散，生成超长视频】[[paper](https://arxiv.org/pdf/2303.12346.pdf )]，[[blog](https://msra-nuwa.azurewebsites.net/#/ )]
 
-### 图像、视频生成 Papers
+**【论文】**【艾伦AI研究院 & 华盛顿大学 | CHAMPAGNE：从大规模的网络视频中学习真实世界的对话】[[paper](https://arxiv.org/pdf/2303.09713.pdf )]，[[code](https://seungjuhan.me/champagne )]
 
-【最新女娲大模型，中科院提出NUWA-XL：扩散模型中的扩散，生成超长视频】[[paper](https://arxiv.org/pdf/2303.12346.pdf )]，[[blog](https://msra-nuwa.azurewebsites.net/#/ )]
+**【论文】**【用AI直接复现你在想什么，Stable Diffusion逼真复现图像】[[paper](https://sites.google.com/view/stablediffusion-with-brain/ )]，[[blog](https://mp.weixin.qq.com/s/gIwj2eqNph8jHWOhYYEXIg)]
 
-【艾伦AI研究院 & 华盛顿大学 | CHAMPAGNE：从大规模的网络视频中学习真实世界的对话】[[paper](https://arxiv.org/pdf/2303.09713.pdf )]，[[code](https://seungjuhan.me/champagne )]
+**【论文】**【Stable Diffusion公司新作Gen-1：基于扩散模型的视频合成新模型，加特效杠杠的！】[[paper](https://arxiv.org/pdf/2302.03011 )]，[[site](https://research.runwayml.com/gen1)]
 
-【用AI直接复现你在想什么，Stable Diffusion逼真复现图像】[[paper](https://sites.google.com/view/stablediffusion-with-brain/ )]，[[blog](https://mp.weixin.qq.com/s/gIwj2eqNph8jHWOhYYEXIg)]
+**【论文】**【使用Diffusers 实现 ControlNet 高速推理】[[blog](https://mp.weixin.qq.com/s/k8rE9GrF97E-0TKJhih9kw)]
 
-【Stable Diffusion公司新作Gen-1：基于扩散模型的视频合成新模型，加特效杠杠的！】[[paper](https://arxiv.org/pdf/2302.03011 )]，[[site](https://research.runwayml.com/gen1)]
+**【论文】**【文生图引入ControlNet，深度、边缘信息全能复用 】[[paper](https://arxiv.org/pdf/2302.05543.pdf)]，[[code](https://github.com/lllyasviel/ControlNet )]
 
-【使用Diffusers 实现 ControlNet 高速推理】[[blog](https://mp.weixin.qq.com/s/k8rE9GrF97E-0TKJhih9kw)]
+**【论文】**【ChatGPT｜可用于AI绘画，效果飞升47% 】[[paper](https://arxiv.org/abs/2302.12192 )]
 
 ## 代码生成
 
-【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
+**【论文】**【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
 
-【MIT最新研究：利用大预言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510 )]，[[code](https://github.com/shunzh/Code-AI-Tree-Search )]，[[项目网址](https://codeaimcts.github.io/ )]
+**【论文】**【MIT最新研究：利用大预言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510 )]，[[code](https://github.com/shunzh/Code-AI-Tree-Search )]，[[项目网址](https://codeaimcts.github.io/ )]
 
-【Baldur: 基于大型语言模型的完全证明生成与修复】[[paper](https://arxiv.org/abs/2303.04910 )]
+**【论文】**【Baldur: 基于大型语言模型的完全证明生成与修复】[[paper](https://arxiv.org/abs/2303.04910 )]
 
-【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398 )]
+**【论文】**【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398 )]
 
-【MIT最新研究：利用大语言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510)]，[[code](https://github.com/shunzh/Code-AI-Tree-Search)]，[[官网地址](https://codeaimcts.github.io/)]
+**【论文】**【MIT最新研究：利用大语言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510)]，[[code](https://github.com/shunzh/Code-AI-Tree-Search)]，[[官网地址](https://codeaimcts.github.io/)]
 
-## 音乐生成
+**【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
 
+## 语音生成
 
+**【论文】**【文字、图片一键生成逼真音效，音频界AIGC来了 】[[paper](https://arxiv.org/abs/2301.12661)]，[[code](https://text-to-audio.github.io)]
 
 ## 多模态生成
 
-【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
+**【论文】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
 
 ## 欢迎共创
 
