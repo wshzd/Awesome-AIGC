@@ -146,6 +146,8 @@ https://xc.com/
 
 **【OpenAI】**【Sam Altman 担心“潜在的可怕的”人工智能工具以及“未来的人们如何看待我们” 】[[blog](https://finance.yahoo.com/news/openai-ceo-sam-altman-frets-165250285.html)]
 
+**【OpenAI】**【The Age of AI：拾象大模型及OpenAI投资思考】[[blog](https://mp.weixin.qq.com/s/AxX-Q7njegNTAxMkYFwsfA)]
+
 **【PWC】**【ChatGPT和生成式AI的11大安全趋势】[[blog](https://mp.weixin.qq.com/s/_RAx3vAx1ykQTJTEEoc37w)]
 
 **【清华大学】**【张学工教授：AI技术前沿——从ChatGPT到更多突破】[[blog](https://mp.weixin.qq.com/s/oeZd52BYKU3hhauZZ0eirQ)]
@@ -397,6 +399,8 @@ https://xc.com/
 **【论文】**【ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习】[[blog](https://zhuanlan.zhihu.com/p/589747432)]，[[B站](https://www.bilibili.com/video/BV1hd4y187CR)]
 
 **【论文】**【Fine-tune-CoT：小模型也能做推理，完美逆袭大模型 】[[paper](https://arxiv.org/pdf/2212.10071.pdf )]，[[code](https://github.com/itsnamgyu/reasoning-teacher)]
+
+**【论文】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
 
 **【代码】**【本科生60行代码教你手搓GPT大模型 】[[code](https://github.com/jaymody/picoGPT/tree/29e78cc52b58ed2c1c483ffea2eb46ff6bdec785)]
 
