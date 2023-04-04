@@ -2,6 +2,8 @@
 
 [![wshzd's github stats](https://github-readme-stats.vercel.app/api?username=wshzd "![wshzd's github stats")](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wshzd)](https://github.com/anuraghazra/github-readme-stats)
+
 自2022年11月份OpenAI公布ChatGPT以来，ChatGPT在五天之内注册用户数就突破了百万
 
 ![ChatGPT](images/chatgpt.png)
