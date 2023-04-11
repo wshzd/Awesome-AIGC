@@ -52,6 +52,8 @@
 
 **【访谈】**【对话ChatGPT之父！AI会改变什么？不会改变什么？】[[访谈记录](https://mp.weixin.qq.com/s/zNuOmVeVKP335iJ4RNJqNw)]
 
+**【访谈】**【对话OpenAI研究科学家：他们是如何让GPT4更像人的？】[[访谈记录](https://mp.weixin.qq.com/s/iJImioHXxelCxUsETSxuXw)]
+
 **【视频】**【邱锡鹏教授介绍以ChatGPT为核心的大规模语言模型的相关知识及未来的发展方向 】[[B站](https://www.bilibili.com/video/BV1Xb411X7c3/)]
 
 ## 中国版ChatGPT
@@ -106,7 +108,7 @@ https://xc.com/
 
 **【论文】**【斯坦福最新研究：不要过度依赖GPT生成内容，其检测器可能存在不利于非母语英语写作者的偏见】[[paper](https://arxiv.org/abs/2304.02819)]
 
-## LLM论文、代码以及博客
+## LLM博客、论文以及代码
 
 **【复旦大学】**【复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？】[[blog](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw)]
 
@@ -136,6 +138,8 @@ https://xc.com/
 
 **【LeCun】**【「增强语言模型」的综述 】[[paper](https://arxiv.org/abs/2302.07842 )]
 
+**【LeCun】**【自回归LLM的缺陷之一，大语言模型必须知道的8个要点】[[paper](https://cims.nyu.edu/~sbowman/eightthings.pdf)]
+
 **【李开复】**【AI进入2.0时代，所有应用都会被重写一遍 】[[blog](https://mp.weixin.qq.com/s/zV8Y9RQnIoExwa1mmarZmA)]
 
 **【纽约大学】**【提出ILF（从语言反馈中模仿学习）：利用语言反馈大规模训练语言模型】[[paper](https://arxiv.org/pdf/2303.16755.pdf )]
@@ -152,6 +156,8 @@ https://xc.com/
 
 **【PWC】**【ChatGPT和生成式AI的11大安全趋势】[[blog](https://mp.weixin.qq.com/s/_RAx3vAx1ykQTJTEEoc37w)]
 
+**【人大】**【人大最新大语言模型综述，51页全面回顾大语言模型】[[paper](https://arxiv.org/pdf/2303.18223.pdf)]
+
 **【清华大学】**【张学工教授：AI技术前沿——从ChatGPT到更多突破】[[blog](https://mp.weixin.qq.com/s/oeZd52BYKU3hhauZZ0eirQ)]
 
 **【斯坦福】**【研究大语言模型反映了谁的观点？】[[paper](https://arxiv.org/pdf/2303.17548.pdf)]，[[code](https://github.com/tatsu-lab/opinions_qa )]
@@ -165,6 +171,8 @@ https://xc.com/
 **【微软】**【一种新的大语言模型NLG评估框架】[[paper](https://arxiv.org/abs/2303.16634 )]
 
 **【微软 & Meta】**【ART：大型语言模型的自动多步骤推理和工具使用】[[paper](https://arxiv.org/pdf/2303.09014.pdf)]
+
+**【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
 
 **【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
 
@@ -212,13 +220,25 @@ https://xc.com/
 
 **【论文】**【**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators** 】[[paper](https://arxiv.org/pdf/2303.16854.pdf )]
 
-**【论文】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史 】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+**【论文】**【南加州大学:大语言模型统计偏好的挑战和危险 】[[paper](https://arxiv.org/pdf/2304.03738.pdf)]
 
 **【论文】**【卡内基·梅隆大学 | 语言生成模型可能造成危害：那么我们能做些什么呢？】[[paper](https://arxiv.org/pdf/2210.07700.pdf)]
 
 **【论文】**【鹏程实验室等最新《大规模多模态预训练模型》全面综述 】[[paper](https://arxiv.org/abs/2302.10035)]
 
 **【论文】**【预训练基础模型综合调研：从 BERT 到 ChatGPT 的历史 】[[paper](https://arxiv.org/abs/2302.09419 )]
+
+**【论文】**【洛桑联邦理工学院提出REFINER框架，用于微调大规模语言模型】[[paper](https://arxiv.org/pdf/2304.01904.pdf )]
+
+**【论文】**【LLM-Adapters： 用于大型语言模型的参数高效微调的适配器系列】[[paper](https://arxiv.org/pdf/2304.01933.pdf )]
+
+**【综述】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
+
+**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史 】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+
+**【论文】**【机器心理学：使用心理学方法研究大型语言模型中的涌现能力和行为】[[paper](https://arxiv.org/abs/2303.13988v1)]
+
+**【代码】**【大型语言模型相关文献资源列表】[[code](https://github.com/RUCAIBox/LLMSurvey)]
 
 ## Prompt工程
 
@@ -233,6 +253,10 @@ https://xc.com/
 **【博客】**【ChatGPT火爆，最全prompt工程指南登GitHub热榜，标星4.7k！】[[code](https://github.com/dair-ai/Prompt-Engineering-Guide)]，[youtube](https://www.youtube.com/watch?v=dOxUroR57xs)]
 
 **【博客】**【ChatGPT Prompt工程：设计、实践与思考】[[blog](https://mp.weixin.qq.com/s/a8hjzZ_Rzl6pOU1PRAARJQ)]
+
+**【博客】**【全面的提示工程指南】[[blog](https://www.promptingguide.ai/zh)]
+
+**【博客】**【指令学习综述｜ChatGPT背后的指令学习是什么】[[blog](https://mp.weixin.qq.com/s/BK30JkIlshwkdHRjaRCD2g)]，[[paper](https://arxiv.org/pdf/2303.10475v2.pdf)]
 
 ## AGI开源工具&博客&论文
 
@@ -254,6 +278,8 @@ https://xc.com/
 
 **【58】**【从 GPT 到 ChatGPT 的演进与应用思考】[[blog](https://mp.weixin.qq.com/s/3Pr82xKpZ7mAWQcxPPB1xA)]
 
+**【MIT & 哈佛大学 】**【语言模型可以预测公众舆论 】[[paper](https://arxiv.org/pdf/2303.16779.pdf )]
+
 **【中科院】**【ChatGPT助力芯片，传统 EDA如何演变成智能EDA】[[blog](https://mp.weixin.qq.com/s/JyveUDEYKLrFolfCFLqhhw)]
 
 **【微软】**【《ChatGPT机器人:设计原则和模型能力》论文 】[[paper](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)]
@@ -272,7 +298,9 @@ https://xc.com/
 
 **【博客】**【Character.AI 在ChatGPT基础上加入个性化、UGC两大武器，有比 ChatGPT 更丰富的使用场景】[[blog](https://mp.weixin.qq.com/s/U4R8loz1G9PYM_l6IvNF_A )]
 
-**【博客】**【让ChatGPT可以**语音交互** 】[[blog](https://mp.weixin.qq.com/s/H4XLCQ-kR7T28yywHJL4uA)]
+**【博客】**【让ChatGPT可以**语音交互**】[[blog](https://mp.weixin.qq.com/s/H4XLCQ-kR7T28yywHJL4uA)]
+
+**【博客】**【“ChatGPT们”的淘金时代】[[blog](https://mp.weixin.qq.com/s/otdenJh5FJsCgi5ONy9JIQ)]
 
 **【论文】**【人大提出WebBrain：NLP新任务，通过网络数据的挖掘生成真实文章】[[paper](https://arxiv.org/abs/2304.04358)]，[[code](https://github.com/qhjqhj00/WebBrain )]
 
@@ -283,6 +311,8 @@ https://xc.com/
 **【投资】**【ChatGPT在投资研究领域的应用初探及原理分析】[[blog](https://mp.weixin.qq.com/s/LFPeSLeEOTb1-2YJBXclbQ)]
 
 **【软件】**【OpenAI总裁Greg Brockman转发｜一种编译语言的调试器，利用ChatGPT旨在增强您使用GDB进行调试体验】[[code](https://github.com/pgosar/ChatGDB)]
+
+**【软件】**【不必排队等 OpenAI Plugins，OpenBMB 开源大模型工具学习引擎】[[blog](https://hub.baai.ac.cn/view/25189)]
 
 **【其他】**【分析了ChatGPT技术以及落地应用场景 】[[blog](https://url39.ctfile.com/f/2501739-805099789-098b62?p=2096)]
 
@@ -316,7 +346,7 @@ https://xc.com/
 
 **【工具】**【TagGPT：腾讯提出零样本多模态标签的大语言模型TagGPT】[[paper](https://arxiv.org/abs/2304.03022)]，[[code](https://github.com/TencentARC/TagGPT )]
 
-**【工具】**【chatgpt_academic：基于 ChatGPT 专属定制的学术研究及日常开发工具】[[blog](https://hub.baai.ac.cn/view/25298)]，[[code](https://github.com/binary-husky/chatgpt_academic)]
+**【工具】**【chatgpt_academic：中科院基于 ChatGPT 专属定制的学术研究及日常开发工具】[[blog](https://hub.baai.ac.cn/view/25298)]，[[code](https://github.com/binary-husky/chatgpt_academic)]，[[demo](https://huggingface.co/spaces/qingxu98/gpt-academic)]
 
 #### ChatGPT 技术篇
 
@@ -384,6 +414,8 @@ https://xc.com/
 
 **【博客】**【解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗】[[blog](https://mp.weixin.qq.com/s/y4ywidZ55BQLgQzJa_Wjbg)]
 
+**【伦理】**【加拿大魁北克大学教授详述：我们该拿ChatGPT怎么办？】[[blog](https://lemire.me/blog/2023/04/03/what-are-we-going-to-do-about-chatgpt/)]
+
 **【论文】**【ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models】[[paper](https://arxiv.org/pdf/2303.16421.pdf )]
 
 **【论文】**【GPT-3 和 GPT-3.5 系列模型的全面分析】[[paper](https://arxiv.org/abs/2303.10420v1)]
@@ -417,10 +449,6 @@ https://xc.com/
 **【论文】**【ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习】[[blog](https://zhuanlan.zhihu.com/p/589747432)]，[[B站](https://www.bilibili.com/video/BV1hd4y187CR)]
 
 **【论文】**【Fine-tune-CoT：小模型也能做推理，完美逆袭大模型 】[[paper](https://arxiv.org/pdf/2212.10071.pdf )]，[[code](https://github.com/itsnamgyu/reasoning-teacher)]
-
-**【论文】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
-
-**【论文】**【南加州大学:大语言模型统计偏好的挑战和危险 】[[paper](https://arxiv.org/pdf/2304.03738.pdf)]
 
 **【论文】**【ChatGPT的潜力解锁：自然语言处理中应用、优势、限制和未来方向的全面探索】[[paper](https://arxiv.org/pdf/2304.02017.pdf )]
 
@@ -464,9 +492,17 @@ https://xc.com/
 
 **【论文】**【美国东北大学：可以通过要求GPT4反思“你为什么错了？”来提高30%的性能】[[paper](https://arxiv.org/abs/2303.11366 )]，[[code](https://github.com/noahshinn024/reflexion )]
 
+**【论文】**【对ChatGPT/GPT-4研究的总结以及对大型语言模型未来的展望】[[paper](https://arxiv.org/pdf/2304.01852.pdf )]
+
+**【论文】**【评估日本医疗执照考试的GPT-4和ChatGPT】[[paper](https://arxiv.org/pdf/2303.18027.pdf )]
+
 ### Bard
 
 【谷歌再次开放Bard访问权，向着ChatGPT发起再一次攻击】[[报名地址 ]([http://Bard.google.com](http://bard.google.com/) )]，[[blog](https://twitter.com/sundarpichai/status/1638180697352593408 )]，[[theverge](https://www.theverge.com/23649897/google-Bard-chatbot-search-engine)]
+
+### Baize
+
+【用ChatGPT训练羊驼：「Baize」开源，轻松构建专属模型】[[blog](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw)]，[[paper](https://arxiv.org/abs/2304.01196  )]，[[code](https://github.com/project-baize/baize/blob/main/README.md )]，[[demo](https://huggingface.co/spaces/project-baize/baize-lora-7B )]
 
 ### GPT3.5
 
@@ -491,6 +527,10 @@ https://xc.com/
 ### Dolly
 
 【声称它 "**像ChatGPT一样神奇**"，但只需要**使用一台机器**在**不到三个小时的时间里**训练的数据少得多。】[[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html )]，[[Databricks Inc地址](https://www.databricks.com )]
+
+### JittorLLMs
+
+【笔记本没有显卡也能跑大模型，具有高性能、配置要求低、中文支持好、可移植等特点 】[[code](https://github.com/Jittor/JittorLLMs)]
 
 ### OpenChatKit 
 
@@ -517,6 +557,8 @@ https://xc.com/
 **【ChatLLaMA】**【初创公司 Nebuly AI在LLaMA基础上加入RLHF 开源 ChatLLaMA 训练方法】[[code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama )]
 
 **【StackLLaMA】**【使用 RLHF 训练 LLaMA 的实践指南】[[blog_zh](https://hub.baai.ac.cn/view/25341)]，[[blog_en](https://huggingface.co/blog/stackllama)]
+
+**【Koala 】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
 
 ## 图像、视频生成
 
