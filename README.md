@@ -70,19 +70,21 @@ https://xc.com/
 
 ## LLM体验效果&专业评估
 
+**【LLM效果对比】**【Bard_VS_Baize-7B_VS_文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486317&idx=1&sn=ea3cc745d2991b8c657325392ce68f71&chksm=ced54889f9a2c19f3c2f85d8d7af7fff366027f79d1f4a5b2c650fea1b5dee9efde0b7c992ca&token=1173964254&lang=zh_CN#rd)]
+
 **【LLM效果对比】**【Bard_VS_Bing_VS_ChatGPT】[[blog](https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4)]
 
 **【LLM效果对比】**【Bard_VS_文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486260&idx=1&sn=a41224fee7ed4cb4a48eb40a420d7479&chksm=ced548d0f9a2c1c6f4930f30447468f9f01bb2af6031368e302b13a6354fc4bca6636e3b297e&token=666852558&lang=zh_CN#rd)]
 
-**【LLM效果对比】**【文心一言_VS_ChatGLM-6B】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486081&idx=2&sn=fd87305419158d66dd4b05b57bee1324&chksm=ced54965f9a2c073ba1badfedbc6610036455cd769a3c8ee3445f7fbff9364b5624091be9914&token=666852558&lang=zh_CN#rd)]
-
 **【LLM效果对比】**【文心一言新闻发布会内容复现】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486081&idx=1&sn=034480a8b00778cb6a4f2b5ea4214974&chksm=ced54965f9a2c0733ff09fbff4953da484180f48545da3d9b476f1e7375c162f9e8d4eaa0afd&token=666852558&lang=zh_CN#rd)]
 
-**【LLM效果对比】**【ChatGPT_VS_GPT4】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485952&idx=2&sn=e54a62e358bf7aee3c007d59600fd452&chksm=ced549e4f9a2c0f2868eb8877c14fbe287a469e63b09774cefcb9edc4c0601016f6d36561973&token=666852558&lang=zh_CN#rd)]
+**【LLM效果对比】**【文心一言_VS_ChatGLM-6B】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486081&idx=2&sn=fd87305419158d66dd4b05b57bee1324&chksm=ced54965f9a2c073ba1badfedbc6610036455cd769a3c8ee3445f7fbff9364b5624091be9914&token=666852558&lang=zh_CN#rd)]
 
 **【LLM效果对比】**【文心一言 VS GPT-4：20道问答PK】[[blog](https://mp.weixin.qq.com/s/l1pTPlohMmiYEMc4x6QKhw)]
 
 **【LLM效果对比】**【文心一言 vs GPT-4实测！】[[blog](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ)]
+
+**【LLM效果对比】**【ChatGPT_VS_GPT4】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485952&idx=2&sn=e54a62e358bf7aee3c007d59600fd452&chksm=ced549e4f9a2c0f2868eb8877c14fbe287a469e63b09774cefcb9edc4c0601016f6d36561973&token=666852558&lang=zh_CN#rd)]
 
 **【ChatGPT专业评估】**【一文看遍各行业对ChatGPT的专业评估】[[blog](https://mp.weixin.qq.com/s/2JryWW33j9udOpi3dK5X9g)]
 
@@ -336,10 +338,6 @@ https://xc.com/
 
 **【工具】**【Visual ChatGPT: 在视觉模型加持下的ChatGPT，聊天生图全拿捏了。】[[paper](https://arxiv.org/pdf/2303.04671.pdf )]
 
-**【工具】**【ColossalAI：完整复现ChatGPT全流程】[[code](https://github.com/hpcaitech/ColossalAI)]
-
-**【工具】**【ColossalChat：用于克隆 ChatGPT 和完整 RLHF 管道的开源解决方案】[[code](https://github.com/hpcaitech/ColossalAI)]，[[blog](https://syncedreview.com/2023/03/29/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline/)]
-
 **【工具】**【ChatWeb：可爬取网页正文，并根据正文回答问题 】[[code](https://github.com/SkywalkerDarren/chatWeb )]
 
 **【工具】**【OpenGpt：创建ChatGPT小应用的AI平台】[[官网](https://open-gpt.app/)]，[[code](https://github.com/futantan/OpenGpt )]
@@ -544,6 +542,16 @@ https://xc.com/
 
 **【Alpaca】**【斯坦福发布了一个由LLaMA 7B微调的模型Alpaca（羊驼），训练3小时，性能比肩GPT-3.5】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485890&idx=1&sn=2d1414fc3751353c31b946b3e954a465&chksm=ced54a26f9a2c330082e8c0014c96a6d9bef62e3581875031f203268a11fad09645a75b482b0&token=447941009&lang=zh_CN#rd)]，[[官网](https://crfm.stanford.edu/2023/03/13/alpaca.html )]，[[model](https://crfm.stanford.edu/alpaca)]，[[code](https://github.com/tatsu-lab/stanford_alpaca)]
 
+**【ChatLLaMA】**【初创公司 Nebuly AI在LLaMA基础上加入RLHF 开源 ChatLLaMA 训练方法】[[code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama )]
+
+**【ColossalAI】**【完整复现ChatGPT全流程】[[code](https://github.com/hpcaitech/ColossalAI)]
+
+**【ColossalChat】**【用于克隆 ChatGPT 和完整 RLHF 管道的开源解决方案】[[code](https://github.com/hpcaitech/ColossalAI)]，[[blog](https://syncedreview.com/2023/03/29/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline/)]
+
+**【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。 】[[官网地址](https://freedomgpt.com/)]
+
+**【Koala 】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
+
 **【LLaMA-Adapter】**【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法，使用[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter )]
 
 **【lit-llama】**【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练】[[code](https://github.com/Lightning-AI/lit-llama)]
@@ -552,13 +560,9 @@ https://xc.com/
 
 **【llama.cpp优化版】**【Edge AI 变得更快|在 C/C++ 中移植 Facebook 的 LLaMA 模型】[[blog](https://hub.baai.ac.cn/view/25307)]
 
-**【Vicuna】**【通过对从ShareGPT收集的用户共享对话进行微调的LLaMA训练，Vicuna-13B达到了OpenAI ChatGPT和Google Bard 90%*以上的质量 】[[Vicuna官网地址](https://vicuna.lmsys.org/)]，[[blog](https://hub.baai.ac.cn/view/25328)]
-
-**【ChatLLaMA】**【初创公司 Nebuly AI在LLaMA基础上加入RLHF 开源 ChatLLaMA 训练方法】[[code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama )]
-
 **【StackLLaMA】**【使用 RLHF 训练 LLaMA 的实践指南】[[blog_zh](https://hub.baai.ac.cn/view/25341)]，[[blog_en](https://huggingface.co/blog/stackllama)]
 
-**【Koala 】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
+**【Vicuna】**【通过对从ShareGPT收集的用户共享对话进行微调的LLaMA训练，Vicuna-13B达到了OpenAI ChatGPT和Google Bard 90%*以上的质量 】[[Vicuna官网地址](https://vicuna.lmsys.org/)]，[[blog](https://hub.baai.ac.cn/view/25328)]
 
 ## 图像、视频生成
 
@@ -603,6 +607,8 @@ https://xc.com/
 **【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
 
 **【论文】**【通过自我改进实现更好的代码语言模型，显著提高模型生成任务的性能】[[paper](https://arxiv.org/pdf/2304.01228.pdf )]
+
+【工具】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。 】[[官网地址](https://www.cursor.so/)]
 
 ## 语音生成
 
