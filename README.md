@@ -360,7 +360,7 @@ https://xc.com/
 
 **【OpenBMB】**【Nature ：生成式 AI 的前景与风险】[[blog](https://mp.weixin.qq.com/s/d6t2xpdvSDCHzO2gG1N6eQ)]
 
-**【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]
+**【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
 
 **【博客】**[ChatGPT_Inference_Cost](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Inference_Cost.md)
 
