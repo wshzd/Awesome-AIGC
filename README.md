@@ -608,6 +608,8 @@ https://xc.com/
 
 **【Vicuna】**【通过对从ShareGPT收集的用户共享对话进行微调的LLaMA训练，Vicuna-13B达到了OpenAI ChatGPT和Google Bard 90%*以上的质量 】[[Vicuna官网地址](https://vicuna.lmsys.org/)]，[[blog](https://hub.baai.ac.cn/view/25328)]
 
+**【Wombat】**【Wombat：93%ChatGPT性能！无需RLHF就能对齐人类的语言模型】[[paper](https://arxiv.org/abs/2304.05302v1)]，[[code](https://github.com/GanjinZero/RRHF)]，[[model](https://huggingface.co/GanjinZero/wombat-7b-delta)]，[[blog](https://mp.weixin.qq.com/s/lkaYrzuSzv522b6fr-e5rw)]
+
 ## 图像、视频生成
 
 **【博客】**【Genmo Chat】【这是一款创造性的copilot，使用GPT-4和一大套生成人工智能工具创建并编辑您需要的任何视频或图像。 】[[blog](https://www.genmo.ai/)]
