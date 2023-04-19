@@ -174,6 +174,8 @@ https://xc.com/
 
 **【微软】**【低代码LLM: LLM的可视化编程】[[paper](https://arxiv.org/abs/2304.08103)]
 
+**【微软】**【微软提出LLMA:大型语言模型的无损加速,可以无损地加速带有引用的大型语言模型 (LLM) 推理】[[paper](https://arxiv.org/pdf/2304.04487.pdf )]
+
 **【微软 & Meta】**【ART：大型语言模型的自动多步骤推理和工具使用】[[paper](https://arxiv.org/pdf/2303.09014.pdf)]
 
 **【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
