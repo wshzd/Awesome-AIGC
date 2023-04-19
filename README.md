@@ -172,6 +172,8 @@ https://xc.com/
 
 **【微软】**【一种新的大语言模型NLG评估框架】[[paper](https://arxiv.org/abs/2303.16634 )]
 
+**【微软】**【低代码LLM: LLM的可视化编程】[[paper](https://arxiv.org/abs/2304.08103)]
+
 **【微软 & Meta】**【ART：大型语言模型的自动多步骤推理和工具使用】[[paper](https://arxiv.org/pdf/2303.09014.pdf)]
 
 **【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
@@ -216,6 +218,8 @@ https://xc.com/
 
 **【博客】**【一文理解“上下文学习”----大语言模型突现能力】[[blog](https://mp.weixin.qq.com/s/0kchPu20nwCKCXk4PZBkOg)]
 
+**【博客】**【回应吴军老师 | "ChatGPT不算新技术革命"】[[blog](https://mp.weixin.qq.com/s/dZldwGaYnUcDlB4nUpASMg)]
+
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
 
 **【论文】**【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf )]
@@ -242,6 +246,16 @@ https://xc.com/
 
 **【代码】**【大型语言模型相关文献资源列表】[[code](https://github.com/RUCAIBox/LLMSurvey)]
 
+## LLM数据集
+
+【**RedPajama**】【RedPajama开源项目｜复制超过1.2万亿个令牌的LLaMA训练数据集】[[原始blog](https://www.together.xyz/blog/redpajama)]，[[中文blog](https://hub.baai.ac.cn/view/25485)]，[[dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]，[[code](https://github.com/togethercomputer/RedPajama-Data)]
+
+【**OpenAssistant Conversations**】【该数据集是一个由人工生成、人工注释的助理式对话语料库，覆盖了广泛的主题和写作风格，由 161443 条消息组成，分布在 66497 个会话树中，使用 35 种不同的语言。该语料库是全球众包工作的产物，涉及超过 13500 名志愿者。为了证明 OpenAssistant Conversations 数据集的有效性，该研究还提出了一个基于聊天的助手 OpenAssistant，其可以理解任务、与第三方系统交互、动态检索信息。  】[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]，[[code](https://github.com/LAION-AI/Open-Assistant )]
+
+【**MiniGPT-4**】【GPT-4平替版：MiniGPT-4，支持图像理解和对话，现已开源】[[dataset](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)]
+
+【**Multimodal C4**】【多模态C4：一个开放的、10亿规模的、与文本交错的图像语料库】[[paper](https://arxiv.org/abs/2304.06939)]，[[code](https://github.com/allenai/mmc4)]
+
 ## Prompt工程
 
 **【博客】**【OpenAI 应用人工智能研究负责人Lilian Weng新博文：关于提示工程的介绍】[[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
@@ -259,6 +273,8 @@ https://xc.com/
 **【博客】**【全面的提示工程指南】[[blog](https://www.promptingguide.ai/zh)]
 
 **【博客】**【指令学习综述｜ChatGPT背后的指令学习是什么】[[blog](https://mp.weixin.qq.com/s/BK30JkIlshwkdHRjaRCD2g)]，[[paper](https://arxiv.org/pdf/2303.10475v2.pdf)]
+
+**【论文】**【面向大型语言模型的**提升提示集成**】[[paper](https://arxiv.org/abs/2304.05970 )]
 
 ## AGI开源工具&博客&论文
 
@@ -332,19 +348,21 @@ https://xc.com/
 
 **【工具】**【ChatPDF：一键上传PDF文件即可解读 】[[blog](https://mp.weixin.qq.com/s/S1DUJrNK5_H5krvHotOwHQ)]，[[试用地址](https://www.chatpdf.com/ )]
 
+**【工具】**【ChatWeb：可爬取网页正文，并根据正文回答问题 】[[code](https://github.com/SkywalkerDarren/chatWeb )]
+
+**【工具】**【chatgpt_academic：中科院基于 ChatGPT 专属定制的学术研究及日常开发工具】[[blog](https://hub.baai.ac.cn/view/25298)]，[[code](https://github.com/binary-husky/chatgpt_academic)]，[[demo](https://huggingface.co/spaces/qingxu98/gpt-academic)]
+
 **【工具】**【Einstein GPT：SaaS 行业巨头 Salesforce 宣布与 OpenAI 合作，推出 Einstein GPT，这是全球首个用于客户关系管理（CRM）的生成式 AI 产品 】[[Einstein GPT地址](https://www.salesforce.com/products/einstein/overview/?d=cta-body-promo-8 )]，[[试用地址](https://openai.com/waitlist/slack )]
 
 **【工具】**【HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace 】[[paper](https://arxiv.org/pdf/2303.17580.pdf )]
 
-**【工具】**【Visual ChatGPT: 在视觉模型加持下的ChatGPT，聊天生图全拿捏了。】[[paper](https://arxiv.org/pdf/2303.04671.pdf )]
-
-**【工具】**【ChatWeb：可爬取网页正文，并根据正文回答问题 】[[code](https://github.com/SkywalkerDarren/chatWeb )]
+**【工具】**【ImpressionGPT： 利用ChatGPT对放射科报告进行总结的迭代优化框架】[[paper](https://arxiv.org/abs/2304.08448)]
 
 **【工具】**【OpenGpt：创建ChatGPT小应用的AI平台】[[官网](https://open-gpt.app/)]，[[code](https://github.com/futantan/OpenGpt )]
 
 **【工具】**【TagGPT：腾讯提出零样本多模态标签的大语言模型TagGPT】[[paper](https://arxiv.org/abs/2304.03022)]，[[code](https://github.com/TencentARC/TagGPT )]
 
-**【工具】**【chatgpt_academic：中科院基于 ChatGPT 专属定制的学术研究及日常开发工具】[[blog](https://hub.baai.ac.cn/view/25298)]，[[code](https://github.com/binary-husky/chatgpt_academic)]，[[demo](https://huggingface.co/spaces/qingxu98/gpt-academic)]
+**【工具】**【Visual ChatGPT: 在视觉模型加持下的ChatGPT，聊天生图全拿捏了。】[[paper](https://arxiv.org/pdf/2303.04671.pdf )]
 
 #### ChatGPT 技术篇
 
@@ -361,6 +379,8 @@ https://xc.com/
 **【OpenBMB】**【Nature ：生成式 AI 的前景与风险】[[blog](https://mp.weixin.qq.com/s/d6t2xpdvSDCHzO2gG1N6eQ)]
 
 **【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
+
+**【博客】**【万字长文解读：从Transformer到ChatGPT，通用人工智能曙光初现】[[blog](https://mp.weixin.qq.com/s/iZyKmWgXUkPv3Phyaw4Ppg)]
 
 **【博客】**[ChatGPT_Inference_Cost](https://github.com/wshzd/ChatGPT-Summary/blob/main/ChatGPT/Blog/ChatGPT_Technology/ChatGPT_Inference_Cost.md)
 
@@ -415,6 +435,8 @@ https://xc.com/
 **【博客】**【解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗】[[blog](https://mp.weixin.qq.com/s/y4ywidZ55BQLgQzJa_Wjbg)]
 
 **【伦理】**【加拿大魁北克大学教授详述：我们该拿ChatGPT怎么办？】[[blog](https://lemire.me/blog/2023/04/03/what-are-we-going-to-do-about-chatgpt/)]
+
+**【论文】**【AIGC时代的ChatGPT全面综述】[[paper](https://arxiv.org/abs/2304.06488)]
 
 **【论文】**【ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models】[[paper](https://arxiv.org/pdf/2303.16421.pdf )]
 
@@ -486,7 +508,7 @@ https://xc.com/
 #### GPT4 论文篇
 **【微软】**【用GPT-4进行指令调优】[[paper](https://arxiv.org/pdf/2304.03277.pdf )]，[[code](https://instruction-tuning-with-gpt-4.github.io/ )]
 
-**【论文】**【点燃通用人工智能的火花：GPT-4的早期实验】[[原始paper](https://arxiv.org/pdf/2303.12712.pdf )]，[[中文版paper](https://event-cdn.baai.ac.cn/file/file-browser/waTXJn85fm3FPyDXpsZ4faGk47trjjYb.pdf  )]
+**【论文】**【点燃通用人工智能的火花：GPT-4的早期实验】[[原始paper](https://arxiv.org/pdf/2303.12712.pdf )]，[[中文版paper](https://event-cdn.baai.ac.cn/file/file-browser/waTXJn85fm3FPyDXpsZ4faGk47trjjYb.pdf  )]，[[blog](https://mp.weixin.qq.com/s/H1RVdH0fmwM0GjfV3uvd4g)]
 
 **【论文】**【GPT4All：用GPT-3.5-Turbo的大规模数据提炼训练一个助理式聊天机器人】[[paper](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf )]，[[code](https://github.com/nomic-ai/gpt4all )]
 
@@ -528,13 +550,29 @@ https://xc.com/
 
 【声称它 "**像ChatGPT一样神奇**"，但只需要**使用一台机器**在**不到三个小时的时间里**训练的数据少得多。】[[blog](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html )]，[[Databricks Inc地址](https://www.databricks.com )]
 
+### Dolly2.0
+
+【Databricks的dolly-v2-12b，是一个在Databricks机器学习平台上训练的指令跟随型大型语言模型】[[blog_en](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)]，[[blog_zh](https://hub.baai.ac.cn/view/25434)]
+
+### DeepSpeed-Chat
+
+【DeepSpeed对话：易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://hub.baai.ac.cn/view/25414)]
+
 ### JittorLLMs
 
 【笔记本没有显卡也能跑大模型，具有高性能、配置要求低、中文支持好、可移植等特点 】[[code](https://github.com/Jittor/JittorLLMs)]
 
+### **MiniGPT-4** 
+
+【类似GPT-4图像理解与对话能力的AI大模型，已开源】[[主页](https://minigpt-4.github.io/ )]，[[paper](https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf )]，[[code](https://github.com/Vision-CAIR/MiniGPT-4 )]，[[video](https://youtu.be/__tftoxpBAw )]，[[dataset](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view )]，[[Demo](https://6b89c70eb5e14dca33.gradio.live/)]，[[Demo1](https://b2517615b965687635.gradio.live/ )]，[[Demo2](https://c8de8ff74b6a6c6a9b.gradio.live/ )]，[[Demo3](https://0a111504e072685259.gradio.live/)]，[[Demo4](https://90bc0bac96e6457e8f.gradio.live/)]
+
 ### OpenChatKit 
 
 【ChatGPT开源平替OpenChatKit：参数量200亿，在4300万条指令上微调而成】[[blog](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)]，[[code](https://github.com/togethercomputer/OpenChatKit)]，[[测试链接](https://huggingface.co/spaces/togethercomputer/OpenChatKit)]，[[模型权重](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B)]，[[数据集](https://laion.ai/blog/oig-dataset/ )]
+
+### OpenAssistant
+
+【ChatGPT全球最大开源平替OpenAssistant，基于Pythia和LLaMA微调而来，主要用于训练人类标注的数据，支持35种语言，免费可用RLHF数据】[[官网](https://open-assistant.io/chat)]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view)]，[[code](https://github.com/LAION-AI/Open-Assistant )]，[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[youtube](https://youtu.be/ddG2fM9i4Kk )]
 
 ### LLaMA以及扩展
 
@@ -596,6 +634,8 @@ https://xc.com/
 
 **【论文】**【智源研究院提出SegGPT： 一个用于分割上下文中所有事物的通用模型】[[paper](https://arxiv.org/pdf/2304.03284.pdf )]
 
+**【论文】**【OpenAI开源新模型代码库Consistency Models，无需对抗训练即可快速获得高质量样本】[[paper](https://arxiv.org/abs/2303.01469 )]，[[code](https://github.com/openai/consistency_models)]，[[blog](https://hub.baai.ac.cn/view/25445)]
+
 ## 代码生成
 
 **【论文】**【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
@@ -612,11 +652,15 @@ https://xc.com/
 
 **【论文】**【通过自我改进实现更好的代码语言模型，显著提高模型生成任务的性能】[[paper](https://arxiv.org/pdf/2304.01228.pdf )]
 
-【工具】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。 】[[官网地址](https://www.cursor.so/)]
+**【论文】**【谷歌提出Self-Debugging:教导大型语言模型进行自我调试】[[paper](https://arxiv.org/pdf/2304.05128.pdf )]
+
+【**工具**】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。 】[[官网地址](https://www.cursor.so/)]
 
 ## 语音生成
 
 **【论文】**【文字、图片一键生成逼真音效，音频界AIGC来了 】[[paper](https://arxiv.org/abs/2301.12661)]，[[code](https://text-to-audio.github.io)]
+
+【**论文**】【音乐可视化｜利用大型语言模型和文本到图像模型帮助生成「音乐迪斯科」】[[paper](https://arxiv.org/pdf/2304.08551.pdf)]，[[blog](https://hub.baai.ac.cn/view/25517)]
 
 ## 多模态生成
 
