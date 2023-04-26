@@ -112,6 +112,10 @@ https://xc.com/
 
 ## LLM博客、论文以及代码
 
+**【综述】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
+
+**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史 】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+
 **【复旦大学】**【复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？】[[blog](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw)]
 
 **【谷歌】**【面向决策的基础模型: 问题、方法与机会】[[paper](https://arxiv.org/abs/2303.04129)]
@@ -180,6 +184,8 @@ https://xc.com/
 
 **【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
 
+**【低资源】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
+
 **【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
 
 **【博客】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
@@ -212,8 +218,6 @@ https://xc.com/
 
 **【博客】**【大模型时代的“Linux”生态，开启人工智能新十年】[[blog](https://mp.weixin.qq.com/s/sUmA3nSSVfNQFBgSjiSn0g)]
 
-**【博客】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://hub.baai.ac.cn/view/24622)]
-
 **【博客】**【揭秘ChatGPT背后的AI“梦之队”：90后科研“后浪”展示强大创新能力｜智谱研究报告】[[blog](https://mp.weixin.qq.com/s/sncE01utzu_-r3dLFYU5QA)]
 
 **【博客】**【In-Context Learning玩法大全 】[[blog](https://mp.weixin.qq.com/s/sC3Xq1QQmtC8Tz84oRRwcw)]
@@ -240,11 +244,11 @@ https://xc.com/
 
 **【论文】**【LLM-Adapters： 用于大型语言模型的参数高效微调的适配器系列】[[paper](https://arxiv.org/pdf/2304.01933.pdf )]
 
-**【综述】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
-
-**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史 】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+**【论文】**【大型语言模型的涌现记忆和可预测记忆】[[paper](https://arxiv.org/abs/2304.11158 )]
 
 **【论文】**【机器心理学：使用心理学方法研究大型语言模型中的涌现能力和行为】[[paper](https://arxiv.org/abs/2303.13988v1)]
+
+**【论文】**【Chameleon：使用大型语言模型进行即插即用的组合推理】[[paper](https://arxiv.org/abs/2304.09842)]
 
 **【代码】**【大型语言模型相关文献资源列表】[[code](https://github.com/RUCAIBox/LLMSurvey)]
 
@@ -365,6 +369,8 @@ https://xc.com/
 **【工具】**【TagGPT：腾讯提出零样本多模态标签的大语言模型TagGPT】[[paper](https://arxiv.org/abs/2304.03022)]，[[code](https://github.com/TencentARC/TagGPT )]
 
 **【工具】**【Visual ChatGPT: 在视觉模型加持下的ChatGPT，聊天生图全拿捏了。】[[paper](https://arxiv.org/pdf/2303.04671.pdf )]
+
+**【工具】**【NetGPT：用于网络流量的生成预训练Transformer模型】[[paper](https://arxiv.org/pdf/2304.09513.pdf)]
 
 #### ChatGPT 技术篇
 
@@ -669,6 +675,8 @@ https://xc.com/
 **【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
 
 **【BLIP-2】**【高效训练多模态大模型（BLIP-2）】[[paper](https://arxiv.org/abs/2301.12597)]，[[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]，[[demo](https://huggingface.co/spaces/Salesforce/BLIP2)]，[[doc](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)]，[[fine-tuing](https://github.com/salesforce/LAVIS)]，[[hugging face spaces](https://hf.co/spaces/Salesforce/BLIP2)]
+
+**【LLaVA】**【熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩】[[paper](https://arxiv.org/pdf/2304.08485.pdf)]，[[introduce](https://llava-vl.github.io/)]
 
 ## 欢迎共创
 
