@@ -14,7 +14,7 @@
 
 | 交流群二维码                    | 拉你入群(备注AIGC-github)  |
 | ------------------------------- | :------------------------: |
-| ![Arron](images/AIGC_group.jpg) | ![Arron](images/Arron.jpg) |
+| ![Arron](images/AIGC_group.jpeg) | ![Arron](images/Arron.jpg) |
 
 ## AIGC视频会议&访谈
 
@@ -256,7 +256,7 @@ https://xc.com/
 
 【**RedPajama**】【RedPajama开源项目｜复制超过1.2万亿个令牌的LLaMA训练数据集】[[原始blog](https://www.together.xyz/blog/redpajama)]，[[中文blog](https://hub.baai.ac.cn/view/25485)]，[[dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]，[[code](https://github.com/togethercomputer/RedPajama-Data)]
 
-【**OpenAssistant Conversations**】【该数据集是一个由人工生成、人工注释的助理式对话语料库，覆盖了广泛的主题和写作风格，由 161443 条消息组成，分布在 66497 个会话树中，使用 35 种不同的语言。该语料库是全球众包工作的产物，涉及超过 13500 名志愿者。为了证明 OpenAssistant Conversations 数据集的有效性，该研究还提出了一个基于聊天的助手 OpenAssistant，其可以理解任务、与第三方系统交互、动态检索信息。  】[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]，[[code](https://github.com/LAION-AI/Open-Assistant )]
+【**OpenAssistant Conversations**】【该数据集是一个由人工生成、人工注释的助理式对话语料库，覆盖了广泛的主题和写作风格，由 161443 条消息组成，分布在 66497 个会话树中，使用 35 种不同的语言。该语料库是全球众包工作的产物，涉及超过 13500 名志愿者。为了证明 OpenAssistant Conversations 数据集的有效性，该研究还提出了一个基于聊天的助手 OpenAssistant，其可以理解任务、与第三方系统交互、动态检索信息。】[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]，[[code](https://github.com/LAION-AI/Open-Assistant )]
 
 【**MiniGPT-4**】【GPT-4平替版：MiniGPT-4，支持图像理解和对话，现已开源】[[dataset](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)]
 
