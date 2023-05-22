@@ -114,7 +114,9 @@ https://xc.com/
 
 **【综述】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
 
-**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史 】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+
+**【综述】**【大模型综述来了！一文带你理清全球AI巨头的大模型进化史】[[paper](https://arxiv.org/pdf/2304.13712.pdf)]，[[code](https://github.com/Mooler0410/LLMsPracticalGuide)]
 
 **【复旦大学】**【复旦大学教授肖仰华：ChatGPT 浪潮下，面向大模型如何做数据治理？】[[blog](https://mp.weixin.qq.com/s/od24PYvFLUJe4NQxjvsbMw)]
 
@@ -188,6 +190,8 @@ https://xc.com/
 
 **【低资源】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
 
+**【LLM微调】**【大语言模型（LLM）微调技术笔记】[[code](https://github.com/ninehills/ninehills.github.io/issues/92)]
+
 **【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
 
 **【博客】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
@@ -227,6 +231,16 @@ https://xc.com/
 **【博客】**【一文理解“上下文学习”----大语言模型突现能力】[[blog](https://mp.weixin.qq.com/s/0kchPu20nwCKCXk4PZBkOg)]
 
 **【博客】**【回应吴军老师 | "ChatGPT不算新技术革命"】[[blog](https://mp.weixin.qq.com/s/dZldwGaYnUcDlB4nUpASMg)]
+
+**【博客】**【Poe向所有开发者推出Poe API，以便广泛获取基于LLM的服务】[[code](https://github.com/poe-platform/api-bot-tutorial)]
+
+**【博客】**【【LLM系列之底座模型对比】LLaMA、Palm、GLM、BLOOM、GPT模型结构对比】[[blog](https://mp.weixin.qq.com/s/UkifGP2OXxGWeMV7Jm4zWQ)]
+
+**【博客】**【大模型实践总结】[[blog](https://mp.weixin.qq.com/s/FPweLbvDrCnIzb5PETHMLQ)]
+
+**【博客】**【【LLM系列之GPT】GPT（Generative Pre-trained Transformer）生成式预训练模型】[[blog](https://mp.weixin.qq.com/s/1Bpt5MG6mbZCYAXDJmIr3A)]
+
+**【博客】**【【LLM系列之Tokenizer】如何科学地训练一个LLM分词器】[[blog](https://mp.weixin.qq.com/s/4_P2G2Q0YmunQh7DwDas3w)]
 
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
 
@@ -282,6 +296,8 @@ https://xc.com/
 
 **【博客】**【指令学习综述｜ChatGPT背后的指令学习是什么】[[blog](https://mp.weixin.qq.com/s/BK30JkIlshwkdHRjaRCD2g)]，[[paper](https://arxiv.org/pdf/2303.10475v2.pdf)]
 
+**【博客】**【免费教你提示工程，全中文教学】[[主页](https://www.learnprompt.pro/)]，[[code](https://github.com/LearnPrompt/LearnPrompt)]
+
 **【论文】**【面向大型语言模型的**提升提示集成**】[[paper](https://arxiv.org/abs/2304.05970 )]
 
 ## AGI开源工具&博客&论文
@@ -327,6 +343,8 @@ https://xc.com/
 **【博客】**【让ChatGPT可以**语音交互**】[[blog](https://mp.weixin.qq.com/s/H4XLCQ-kR7T28yywHJL4uA)]
 
 **【博客】**【“ChatGPT们”的淘金时代】[[blog](https://mp.weixin.qq.com/s/otdenJh5FJsCgi5ONy9JIQ)]
+
+**【博客】**【70 款 ChatGPT 插件评测（含样例分析）】[[blog](https://mp.weixin.qq.com/s/vHwAk63ukRteF1u1myrTlA)]
 
 **【论文】**【人大提出WebBrain：NLP新任务，通过网络数据的挖掘生成真实文章】[[paper](https://arxiv.org/abs/2304.04358)]，[[code](https://github.com/qhjqhj00/WebBrain )]
 
@@ -538,9 +556,9 @@ https://xc.com/
 
 【用ChatGPT训练羊驼：「Baize」开源，轻松构建专属模型】[[blog](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw)]，[[paper](https://arxiv.org/abs/2304.01196  )]，[[code](https://github.com/project-baize/baize/blob/main/README.md )]，[[demo](https://huggingface.co/spaces/project-baize/baize-lora-7B )]
 
-### GPT3.5
+### BLOOM
 
-【GPT3.5试用地址 】[[试用地址](https://platform.openai.com/playground )]
+【【LLM系列之BLOOM】BLOOM: 多语言大模型】[[blog](https://mp.weixin.qq.com/s/_Vj-KNxS5SfuF_h7bfMb5Q)]，[[paper](https://arxiv.org/abs/2211.05100)]，[[code](https://github.com/huggingface/transformers-bloom-inference/tree/main)]，[[huggingface](https://huggingface.co/bigscience/bloom)]
 
 ### Claude 
 
@@ -570,6 +588,10 @@ https://xc.com/
 
 【DeepSpeed对话：易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://hub.baai.ac.cn/view/25414)]
 
+### GPT3.5
+
+【GPT3.5试用地址 】[[试用地址](https://platform.openai.com/playground )]
+
 ### JittorLLMs
 
 【笔记本没有显卡也能跑大模型，具有高性能、配置要求低、中文支持好、可移植等特点 】[[code](https://github.com/Jittor/JittorLLMs)]
@@ -592,7 +614,7 @@ https://xc.com/
 
 ### LLaMA以及扩展
 
-**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]
+**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog1](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]，[[blog2](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w)]
 
 **【LLaMA评测】**[[blog](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg)]
 
@@ -608,11 +630,18 @@ https://xc.com/
 
 **【CAMEL】**【从LLaMA衍生并适应临床的模型】[[code](https://github.com/starmpcc/CAMEL)]，[[blog](https://starmpcc.github.io/CAMEL/)]
 
-**【华驼】**【让LLaMA模型成为中医专家】[[paper](https://arxiv.org/pdf/2304.06975v1.pdf)]，[[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)]，[[blog](https://mp.weixin.qq.com/s/TYpc_63qDlR6MwscxCKKhA)]
+**【Chinese-LangChain】**【基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成】[[code](https://github.com/yanqiangmiffy/Chinese-LangChain)]，[[blog](https://mp.weixin.qq.com/s/xAsZZ_LOkr9Nj-JafSbXnA)]
+
+**【草本（原华驼）】**【让LLaMA模型成为中医专家】[[paper](https://arxiv.org/pdf/2304.06975v1.pdf)]，[[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)]，[[blog1](https://mp.weixin.qq.com/s/TYpc_63qDlR6MwscxCKKhA)]，[[blog2](https://mp.weixin.qq.com/s/iuQANmwCS7AXQRik7HwQPg)]
 
 **【DB-GPT】**【基于vicuna-13b和FastChat的开源实验项目】[[code](https://github.com/csunny/DB-GPT)]
 
+**【DeepSpeed-Chat】**【最强ChatGPT训练框架，一键完成RLHF训练！
+】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://mp.weixin.qq.com/s/kVEBUF20u4SUsHelF39o8Q)]
+
 **【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。 】[[官网地址](https://freedomgpt.com/)]
+
+**【FLAN】**【【LLM系列之FLAN】Scaling Instruction-Finetuned Language Models】[[blog](https://mp.weixin.qq.com/s/5jEJH6UBHrk_ILbrLsd6TQ)]
 
 **【Koala 】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
 
@@ -620,9 +649,13 @@ https://xc.com/
 
 **【lit-llama】**【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练】[[code](https://github.com/Lightning-AI/lit-llama)]
 
+**【LlamaIndex】**【面向QA 系统的全新文档摘要索引】[[blog](https://mp.weixin.qq.com/s/1zvXlcGfVdxU8_Pj5f2E1g)]
+
 **【llama.cpp】**【量化130亿参数LLaMA模型的llama.cpp，推理仅需4GB内存】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485875&idx=1&sn=a4e09d31802c087f1f47bd292e380c19&chksm=ced54a57f9a2c341935b81aa27824dfa740beb7ce33289e0cb5190b5910040c0904371b7e8a0&token=447941009&lang=zh_CN#rd)]
 
 **【llama.cpp优化版】**【Edge AI 变得更快|在 C/C++ 中移植 Facebook 的 LLaMA 模型】[[blog](https://hub.baai.ac.cn/view/25307)]
+
+**【PaLM】**【【LLM系列之PaLM】PaLM: Scaling Language Modeling with Pathways】[[blog](https://mp.weixin.qq.com/s/MT1xCsJp98BM-lkuOKJF-A)]
 
 **【StackLLaMA】**【使用 RLHF 训练 LLaMA 的实践指南】[[blog_zh](https://hub.baai.ac.cn/view/25341)]，[[blog_en](https://huggingface.co/blog/stackllama)]
 
@@ -688,13 +721,18 @@ https://xc.com/
 
 ## 多模态生成
 
-**【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
-
 **【BLIP-2】**【高效训练多模态大模型（BLIP-2）】[[paper](https://arxiv.org/abs/2301.12597)]，[[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]，[[demo](https://huggingface.co/spaces/Salesforce/BLIP2)]，[[doc](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)]，[[fine-tuing](https://github.com/salesforce/LAVIS)]，[[hugging face spaces](https://hf.co/spaces/Salesforce/BLIP2)]
+
+**【HuggingFace Transformers Agents】**【一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」】[[demo](https://huggingface.co/docs/transformers/transformers_agents)]，[[blog](https://mp.weixin.qq.com/s/8gyTqT1B4C2Da_6dmtaNiw)]
+
 
 **【LLaVA】**【熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩】[[paper](https://arxiv.org/pdf/2304.08485.pdf)]，[[introduce](https://llava-vl.github.io/)]
 
-**【HuggingFace Transformers Agents】**【一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」】[[demo](https://huggingface.co/docs/transformers/transformers_agents)]，[[blog](https://mp.weixin.qq.com/s/8gyTqT1B4C2Da_6dmtaNiw)]
+**【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
+
+
+**【X-LLM】**【多模态语言训练大模型】[[项目地址](https://x-llm.github.io/)]，[[paper](https://arxiv.org/abs/2305.04160)]
+
 
 ## 欢迎共创
 
