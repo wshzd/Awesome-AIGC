@@ -94,9 +94,11 @@ https://xc.com/
 
 **【ChatGPT专业评估】**【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461 )]
 
+**【国内大模型评测】**【评测国内各种对标 ChatGPT 的大语言模型】[[blog](https://mp.weixin.qq.com/s/Oe1Rc0kXjMOD2G_Sqambow)]，[[code](https://github.com/dongrixinyu/JioNLP/wiki/LLM%E8%AF%84%E6%B5%8B%E6%95%B0%E6%8D%AE%E9%9B%86)]
+
 ## LLM文本检测
 
-**【论文&代码】**【美国麻省大学&谷歌研究院：改写文本可以避开AI生成文本的检测器，但检索则是一种有效的防御】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=2cfe8cecc9f211edb95839eec3084ddd )]，[[code](https://github.com/martiansideofthemoon/ai-detection-paraphrases )]
+**【论文&代码】**【美国麻省大学&谷歌研究院：改写文本可以避开AI生成文本的检测器，但检索则是一种有效的防御】[[paper](https://papers.labml.ai/api/v1/redirect/pdf?paper_key=2cfe8cecc9f211edb95839eec3084ddd )]，[[code](https://github.com/martiansideofthemoon/ai-detection-paraphrases)]
 
 **【论文】**【人工智能生成的文本能被可靠地检测出来吗？】[[paper](https://arxiv.org/pdf/2303.11156.pdf )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486128&idx=3&sn=e5ea32b7d7cb4c8c41f29a9ea15ac3ac&chksm=ced54954f9a2c0425a65761f1766550f6b90857da0106f6fd55f3c6773fbdbd1fc45bbb9369a&token=447941009&lang=zh_CN#rd)]
 
@@ -109,6 +111,28 @@ https://xc.com/
 **【论文】**【OpenAI重磅发布官方「ChatGPT检测器」】[[blog](https://mp.weixin.qq.com/s/EcZE7TgHspf22rPRWhAybw)]
 
 **【论文】**【斯坦福最新研究：不要过度依赖GPT生成内容，其检测器可能存在不利于非母语英语写作者的偏见】[[paper](https://arxiv.org/abs/2304.02819)]
+
+## LLM长文本解决方案
+
+**【苏剑林】**【Transformer升级之路：一种全局长度外推的新思路】[[blog](https://mp.weixin.qq.com/s/YJ647EUfzWaJsGoMdgsguA)]
+
+**【博客】**【ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成】[[paper](https://arxiv.org/abs/2305.13304)]，[[code](https://github.com/aiwaves-cn/RecurrentGPT)]，[[blog](https://mp.weixin.qq.com/s/5UVTwSWgoz7uhozMeps3EQ)]，[[demo1](https://www.aiwaves.org/recurrentgpt (长篇小说写作))]，[[demo2](https://www.aiwaves.org/interactivefiction (交互式小说))]
+
+## LLM加速训练与微调
+
+**【Megatron-LM】**【如何使用 Megatron-LM 训练语言模型】[[blog](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g)]
+
+**【低资源】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
+
+**【LLM微调】**【大语言模型（LLM）微调技术笔记】[[code](https://github.com/ninehills/ninehills.github.io/issues/92)]
+
+**【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
+
+**【博客】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+
+**【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
+
+**【QLoRA】**【Washington大学2023年5月新提出一种高效的微调方法QLoRA，通过降低显存使用，实现在单个48GB GPU上对65B参数的大模型进行微调，只需微调12个小时就可以达到97%的ChatGPT水平。同时只用int4就可以保持fp16精度的效果。】[[paper](https://arxiv.org/pdf/2305.14314.pdf)]
 
 ## LLM博客、论文以及代码
 
@@ -150,7 +174,7 @@ https://xc.com/
 
 **【李开复】**【AI进入2.0时代，所有应用都会被重写一遍 】[[blog](https://mp.weixin.qq.com/s/zV8Y9RQnIoExwa1mmarZmA)]
 
-**【纽约大学】**【提出ILF（从语言反馈中模仿学习）：利用语言反馈大规模训练语言模型】[[paper](https://arxiv.org/pdf/2303.16755.pdf )]
+**【纽约大学】**【提出ILF（从语言反馈中模仿学习）：利用语言反馈大规模训练语言模型】[[paper](https://arxiv.org/pdf/2303.16755.pdf)]
 
 **【OpenAI】**【GPT就是GPT：大模型对劳动力市场影响潜力的早期研究】[[paper](https://arxiv.org/pdf/2303.10130.pdf )]
 
@@ -170,7 +194,7 @@ https://xc.com/
 
 **【清华大学】**【张学工教授：AI技术前沿——从ChatGPT到更多突破】[[blog](https://mp.weixin.qq.com/s/oeZd52BYKU3hhauZZ0eirQ)]
 
-**【斯坦福】**【研究大语言模型反映了谁的观点？】[[paper](https://arxiv.org/pdf/2303.17548.pdf)]，[[code](https://github.com/tatsu-lab/opinions_qa )]
+**【斯坦福】**【研究大语言模型反映了谁的观点？】[[paper](https://arxiv.org/pdf/2303.17548.pdf)]，[[code](https://github.com/tatsu-lab/opinions_qa)]
 
 **【斯坦福】**【大模型及其公平使用】[[paper](https://arxiv.org/pdf/2303.15715.pdf )]
 
@@ -178,23 +202,15 @@ https://xc.com/
 
 **【斯坦福】**【斯坦福报告：基础模型的机遇与风险】[[blog](https://mp.weixin.qq.com/s/iEwvkqMT7KEqmnHk8NVz6w)]
 
-**【微软】**【一种新的大语言模型NLG评估框架】[[paper](https://arxiv.org/abs/2303.16634 )]
+**【微软】**【一种新的大语言模型NLG评估框架】[[paper](https://arxiv.org/abs/2303.16634)]
 
 **【微软】**【低代码LLM: LLM的可视化编程】[[paper](https://arxiv.org/abs/2304.08103)]
 
-**【微软】**【微软提出LLMA:大型语言模型的无损加速,可以无损地加速带有引用的大型语言模型 (LLM) 推理】[[paper](https://arxiv.org/pdf/2304.04487.pdf )]
+**【微软】**【微软提出LLMA:大型语言模型的无损加速,可以无损地加速带有引用的大型语言模型 (LLM) 推理】[[paper](https://arxiv.org/pdf/2304.04487.pdf)]
 
 **【微软 & Meta】**【ART：大型语言模型的自动多步骤推理和工具使用】[[paper](https://arxiv.org/pdf/2303.09014.pdf)]
 
 **【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
-
-**【低资源】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
-
-**【LLM微调】**【大语言模型（LLM）微调技术笔记】[[code](https://github.com/ninehills/ninehills.github.io/issues/92)]
-
-**【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
-
-**【博客】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
 
 **【博客】**【智慧信息的压缩：模型智能的涌现之道】[[blog](https://mp.weixin.qq.com/s/hQmvltuMlClBonM6UJmtLg)]
 
@@ -241,6 +257,12 @@ https://xc.com/
 **【博客】**【【LLM系列之GPT】GPT（Generative Pre-trained Transformer）生成式预训练模型】[[blog](https://mp.weixin.qq.com/s/1Bpt5MG6mbZCYAXDJmIr3A)]
 
 **【博客】**【【LLM系列之Tokenizer】如何科学地训练一个LLM分词器】[[blog](https://mp.weixin.qq.com/s/4_P2G2Q0YmunQh7DwDas3w)]
+
+**【博客】**【大模型词表扩充必备工具SentencePiece】[[blog](https://mp.weixin.qq.com/s/qQMZ1s7lt-LLkQKx7HIDMw)]
+
+**【博客】**【大模型知识&推理评估基准】[[blog](https://mp.weixin.qq.com/s/P0ohd5DpwJOkL8DFVC4qoA)]
+
+**【博客】**【万字长文说清大模型在自动驾驶领域的应用】[[blog](https://mp.weixin.qq.com/s/5tSwRz-fI4ccLPEn2KrgqA)]
 
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
 
@@ -298,6 +320,8 @@ https://xc.com/
 
 **【博客】**【免费教你提示工程，全中文教学】[[主页](https://www.learnprompt.pro/)]，[[code](https://github.com/LearnPrompt/LearnPrompt)]
 
+**【博客】**【吴恩达Prompt课程笔记】[[主页](https://islinxu.github.io/prompt-engineering-note/)]
+
 **【论文】**【面向大型语言模型的**提升提示集成**】[[paper](https://arxiv.org/abs/2304.05970 )]
 
 ## AGI开源工具&博客&论文
@@ -330,7 +354,7 @@ https://xc.com/
 
 **【博客】**【ChatGPT获得了「Wolfram」超能力】[[blog](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/)]
 
-**【博客】**【OpenAI开发Plugin将 ChatGPT 连接到互联网】[[blog](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/ )]
+**【博客】**【OpenAI开发Plugin将 ChatGPT 连接到互联网】[[blog](https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/)]
 
 **【博客】**【ChatAug：利用ChatGPT进行文本数据增强】[[paper](https://arxiv.org/abs/2302.13007 )]
 
@@ -338,7 +362,7 @@ https://xc.com/
 
 **【博客】**【基于ChatGPT的数据增强方法：ChatAug和AugGPT】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486140&idx=1&sn=bba4342966c99559938824f2d747d231&chksm=ced54958f9a2c04ec121b8c198d69a5a17c8b3e0a96a0cfcd8d1271bd6097a2cbf66895dd8a9&token=447941009&lang=zh_CN#rd)]
 
-**【博客】**【Character.AI 在ChatGPT基础上加入个性化、UGC两大武器，有比 ChatGPT 更丰富的使用场景】[[blog](https://mp.weixin.qq.com/s/U4R8loz1G9PYM_l6IvNF_A )]
+**【博客】**【Character.AI 在ChatGPT基础上加入个性化、UGC两大武器，有比 ChatGPT 更丰富的使用场景】[[blog](https://mp.weixin.qq.com/s/U4R8loz1G9PYM_l6IvNF_A)]
 
 **【博客】**【让ChatGPT可以**语音交互**】[[blog](https://mp.weixin.qq.com/s/H4XLCQ-kR7T28yywHJL4uA)]
 
@@ -346,11 +370,11 @@ https://xc.com/
 
 **【博客】**【70 款 ChatGPT 插件评测（含样例分析）】[[blog](https://mp.weixin.qq.com/s/vHwAk63ukRteF1u1myrTlA)]
 
-**【论文】**【人大提出WebBrain：NLP新任务，通过网络数据的挖掘生成真实文章】[[paper](https://arxiv.org/abs/2304.04358)]，[[code](https://github.com/qhjqhj00/WebBrain )]
+**【论文】**【人大提出WebBrain：NLP新任务，通过网络数据的挖掘生成真实文章】[[paper](https://arxiv.org/abs/2304.04358)]，[[code](https://github.com/qhjqhj00/WebBrain)]
 
 **【医疗】**【ChatGPT爆火带来思考：医学界或将迎来与AI融合的奇点？】[[blog](https://mp.weixin.qq.com/s/x8ppg6GVCAeLNpv5uJ7B7g )]
 
-**【教育】**【论ChatGPT大语言模型在教育中的机遇与挑战 】[[blog](https://url39.ctfile.com/f/2501739-809898048-6394c7?p=2096 )]
+**【教育】**【论ChatGPT大语言模型在教育中的机遇与挑战 】[[blog](https://url39.ctfile.com/f/2501739-809898048-6394c7?p=2096)]
 
 **【投资】**【ChatGPT在投资研究领域的应用初探及原理分析】[[blog](https://mp.weixin.qq.com/s/LFPeSLeEOTb1-2YJBXclbQ)]
 
@@ -405,8 +429,6 @@ https://xc.com/
 **【亚马逊 】**【他们提出了包含视觉特征的 Multimodal-CoT，该架构在参数量小于 10 亿的情况下，在 ScienceQA 基准测试中，比 GPT-3.5 高出 16 个百分点 】[[paper](https://arxiv.org/abs/2302.00923 )]，[[code](https://github.com/amazon-science/mm-cot)]
 
 **【OpenBMB】**【Nature ：生成式 AI 的前景与风险】[[blog](https://mp.weixin.qq.com/s/d6t2xpdvSDCHzO2gG1N6eQ)]
-
-**【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
 
 **【博客】**【万字长文解读：从Transformer到ChatGPT，通用人工智能曙光初现】[[blog](https://mp.weixin.qq.com/s/iZyKmWgXUkPv3Phyaw4Ppg)]
 
@@ -564,17 +586,31 @@ https://xc.com/
 
 【ChatGPT最强竞品Claude今日开放API】[[产品地址 ](https://www.anthropic.com/product)]，[[申请地址 ](https://www.anthropic.com/earlyaccess )]，[[API说明 ](https://console.anthropic.com/docs/api)]，[[blog](https://mp.weixin.qq.com/s/Wx5q-rEwG4sROvnewGxWrw)]，[[Claude支持100k上下文](https://mp.weixin.qq.com/s/Yu551-z14lpiFGSOfXE2Tw)]
 
-### ChatGLM-6B
+### ChatGLM-6B以及扩展
 
-【ChatGLM：千亿基座的对话模型开启内测 ⸺对应单卡版本开源】[[blog](https://chatglm.cn/blog )]，[[code](https://github.com/THUDM/ChatGLM-6B.git )]
+【ChatGLM：千亿基座的对话模型开启内测 ⸺对应单卡版本开源】[[blog](https://chatglm.cn/blog)]，[[code](https://github.com/THUDM/ChatGLM-6B.git)]
+
+【chatglm+langchain+互联网，你可以将大模型接入网络了】[[blog](https://mp.weixin.qq.com/s/lO6SrEuv4-vNbL8B3G-f8g)]，[[code](https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering/)]
+
+【ChatGLM_multi_gpu_zero_Tuning：简单高效实现多卡微调大模型】[[code](https://github.com/CSHaitao/ChatGLM_mutli_gpu_tuning)]
+
+【浅尝prompt咒语设计：one-shot微调chatglm-6b实践信息抽取】[[blog](https://mp.weixin.qq.com/s/l7lCbdJ9XGzLPTb3zKDAzQ)]
 
 ### ChatYuan
 
 【ChatYuan：基于PromptCLUE-large的中文对话开源大模型】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485655&idx=1&sn=ad80d8a17d4aaab90b17a79b638c712d&chksm=ced54b33f9a2c225ce292b4e3d5725a668d0bfc9fe0be610c847b31b61714ecf75c06dac1cb5&token=447941009&lang=zh_CN#rd)]
 
-### Copilot X 
+### Copilot X
 
-【GitHub Copilot X编辑器发布，大大提升编码速度 】[[blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)]
+【GitHub Copilot X编辑器发布，大大提升编码速度】[[blog](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)]
+
+### ColossalAI
+
+【穷孩子如何体验ColossalAI SFT（Colab篇）】[[blog](https://mp.weixin.qq.com/s/NS4yySeYd7QUYb7CB9V0lA)]
+
+### CPM-Bee
+
+【中文基座模型CPM-Bee开源了】[[blog](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA)]，[[code](https://github.com/OpenBMB/CPM-Bee)]，[[HuggingFace](https://huggingface.co/openbmb/cpm-bee-10b)]
 
 ### Dolly
 
@@ -638,6 +674,8 @@ https://xc.com/
 
 **【DeepSpeed-Chat】**【最强ChatGPT训练框架，一键完成RLHF训练！
 】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://mp.weixin.qq.com/s/kVEBUF20u4SUsHelF39o8Q)]
+
+**【ExpertLLaMA】**【一个使用ExpertPrompting构建的开源聊天机器人，其能力达到ChatGPT的96%。】[[code](https://github.com/OFA-Sys/ExpertLLaMA)]
 
 **【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。 】[[官网地址](https://freedomgpt.com/)]
 
@@ -710,6 +748,8 @@ https://xc.com/
 **【论文】**【通过自我改进实现更好的代码语言模型，显著提高模型生成任务的性能】[[paper](https://arxiv.org/pdf/2304.01228.pdf )]
 
 **【论文】**【谷歌提出Self-Debugging:教导大型语言模型进行自我调试】[[paper](https://arxiv.org/pdf/2304.05128.pdf )]
+
+**【论文】**【CodeT5+：非常灵活的、面向代码理解和生成的开放大型代码语言模型】[[paper](https://arxiv.org/abs/2305.07922)]
 
 【**工具**】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。 】[[官网地址](https://www.cursor.so/)]
 
