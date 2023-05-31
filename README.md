@@ -582,6 +582,10 @@ https://xc.com/
 
 【【LLM系列之BLOOM】BLOOM: 多语言大模型】[[blog](https://mp.weixin.qq.com/s/_Vj-KNxS5SfuF_h7bfMb5Q)]，[[paper](https://arxiv.org/abs/2211.05100)]，[[code](https://github.com/huggingface/transformers-bloom-inference/tree/main)]，[[huggingface](https://huggingface.co/bigscience/bloom)]
 
+### BiomedGPT
+
+【BiomedGPT: 统一通用的生物医学生成式预训练Transformer】[[paper](https://arxiv.org/abs/2305.17100)]
+
 ### Claude 
 
 【ChatGPT最强竞品Claude今日开放API】[[产品地址 ](https://www.anthropic.com/product)]，[[申请地址 ](https://www.anthropic.com/earlyaccess )]，[[API说明 ](https://console.anthropic.com/docs/api)]，[[blog](https://mp.weixin.qq.com/s/Wx5q-rEwG4sROvnewGxWrw)]，[[Claude支持100k上下文](https://mp.weixin.qq.com/s/Yu551-z14lpiFGSOfXE2Tw)]
@@ -623,6 +627,10 @@ https://xc.com/
 ### DeepSpeed-Chat
 
 【DeepSpeed对话：易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://hub.baai.ac.cn/view/25414)]
+
+### Falcon
+
+【基于1万亿token开源大模型Falcon，超越650亿的LLaMA，可商用】[[blog](https://mp.weixin.qq.com/s/jbRRjG2ferhFPWsMtCaJyg)]
 
 ### GPT3.5
 
@@ -685,6 +693,8 @@ https://xc.com/
 
 **【LLaMA-Adapter】**【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法，使用[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
 
+**【LaVIN】**【MMA方案让羊驼模型实现多模态：训练时间减少71.4%，成本节省99.9%】[[paper](https://arxiv.org/pdf/2305.15023.pdf)]，[[code](https://github.com/luogen1996/LaVIN)]，[[blog](https://mp.weixin.qq.com/s/MRLYk1b7VJ_b6OmJ9mzkdw)]
+
 **【lit-llama】**【基于nanoGPT的LLaMA语言模型，支持量化、LoRA微调和预训练】[[code](https://github.com/Lightning-AI/lit-llama)]
 
 **【LlamaIndex】**【面向QA 系统的全新文档摘要索引】[[blog](https://mp.weixin.qq.com/s/1zvXlcGfVdxU8_Pj5f2E1g)]
@@ -729,7 +739,11 @@ https://xc.com/
 
 **【论文】**【OpenAI开源新模型代码库Consistency Models，无需对抗训练即可快速获得高质量样本】[[paper](https://arxiv.org/abs/2303.01469 )]，[[code](https://github.com/openai/consistency_models)]，[[blog](https://hub.baai.ac.cn/view/25445)]
 
+**【可控图文大模型】**【伯克利&微软｜用GPT-4进行可控的文本-图像生成】[[paper](https://arxiv.org/abs/2305.18583)]
+
 ## 代码生成
+
+**【综述】**【代码大模型综述：中科院和MSRA调研27个LLMs，并给出5个有趣挑战】[[blog](https://mp.weixin.qq.com/s/t2SMftox6546E7kvRgQMnA)]，[[paper](https://arxiv.org/abs/2212.09420)]，[[项目主页](https://nl2code.github.io)]
 
 **【博客】**【StarCoder: 最先进的代码大模型】[[blog](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q)]
 
