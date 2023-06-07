@@ -56,25 +56,21 @@
 
 **【视频】**【邱锡鹏教授介绍以ChatGPT为核心的大规模语言模型的相关知识及未来的发展方向 】[[B站](https://www.bilibili.com/video/BV1Xb411X7c3/)]
 
-## 中国版ChatGPT
-
-无需注册即可体验ChatGPT效果的一些网站
-
-http://chat.h2ai.cn/home
-
-https://chat.forchange.cn/
-
-https://aigcfun.com/
-
-https://xc.com/
-
 ## LLM体验效果&专业评估
+
+**【LLM效果对比】**【360智脑_VS_讯飞星火】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486609&idx=2&sn=7fedb8ab37588d43968fdec2d7e5fcdd&chksm=ced54f75f9a2c663b9a2671f2548e2940730735605356cc0ffe72bc737470136a40032c80bfe&token=1282379489&lang=zh_CN#rd)]
+
+**【LLM效果对比】**【阿里通义千问_VS_讯飞星火】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486534&idx=1&sn=6f36d41b618790cba62e63eb25bb033b&chksm=ced54fa2f9a2c6b4a901528f87a7e74628dfd79d835f4cdea1ee4dea442f339adfd2736b2305&token=1282379489&lang=zh_CN#rd)]
 
 **【LLM效果对比】**【Bard_VS_Baize-7B_VS_文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486317&idx=1&sn=ea3cc745d2991b8c657325392ce68f71&chksm=ced54889f9a2c19f3c2f85d8d7af7fff366027f79d1f4a5b2c650fea1b5dee9efde0b7c992ca&token=1173964254&lang=zh_CN#rd)]
 
 **【LLM效果对比】**【Bard_VS_Bing_VS_ChatGPT】[[blog](https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4)]
 
 **【LLM效果对比】**【Bard_VS_文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486260&idx=1&sn=a41224fee7ed4cb4a48eb40a420d7479&chksm=ced548d0f9a2c1c6f4930f30447468f9f01bb2af6031368e302b13a6354fc4bca6636e3b297e&token=666852558&lang=zh_CN#rd)]
+
+**【LLM效果对比】**【ChatGPT_VS_GPT4】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485952&idx=2&sn=e54a62e358bf7aee3c007d59600fd452&chksm=ced549e4f9a2c0f2868eb8877c14fbe287a469e63b09774cefcb9edc4c0601016f6d36561973&token=666852558&lang=zh_CN#rd)]
+
+**【LLM效果对比】**【OpenAssistant_VS_百度文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486413&idx=2&sn=3816e5a4bccceee5e2af868166b18897&chksm=ced54829f9a2c13fb787b7a7e3c2aa0799eb7ff6d124f6847349346146900e05684ceb8cc7f7&token=1282379489&lang=zh_CN#rd)]
 
 **【LLM效果对比】**【文心一言新闻发布会内容复现】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486081&idx=1&sn=034480a8b00778cb6a4f2b5ea4214974&chksm=ced54965f9a2c0733ff09fbff4953da484180f48545da3d9b476f1e7375c162f9e8d4eaa0afd&token=666852558&lang=zh_CN#rd)]
 
@@ -84,7 +80,7 @@ https://xc.com/
 
 **【LLM效果对比】**【文心一言 vs GPT-4实测！】[[blog](https://mp.weixin.qq.com/s/uO8N3RpcrYU8rV1RkwBxzQ)]
 
-**【LLM效果对比】**【ChatGPT_VS_GPT4】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485952&idx=2&sn=e54a62e358bf7aee3c007d59600fd452&chksm=ced549e4f9a2c0f2868eb8877c14fbe287a469e63b09774cefcb9edc4c0601016f6d36561973&token=666852558&lang=zh_CN#rd)]
+**【LLM效果对比】**【讯飞星火_VS_文心一言】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486490&idx=1&sn=c8d756f7f26a4e35f8b67ae485efabce&chksm=ced54ffef9a2c6e8d66f8b744d6af524e320d5aec384d142621cee53fd2150f2c7db1fa7596a&token=1282379489&lang=zh_CN#rd)]
 
 **【ChatGPT专业评估】**【一文看遍各行业对ChatGPT的专业评估】[[blog](https://mp.weixin.qq.com/s/2JryWW33j9udOpi3dK5X9g)]
 
@@ -92,9 +88,25 @@ https://xc.com/
 
 **【ChatGPT专业评估】**【如何评价 OpenAI 的超级对话模型 ChatGPT ？】[[paper](https://www.zhihu.com/question/570189639)]
 
-**【ChatGPT专业评估】**【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461 )]
+**【ChatGPT专业评估】**【用ChatGPT参加计算机科学考试】[[paper](https://arxiv.org/abs/2303.09461)]
+
+**【LLM知识评估】**【C-Eval：构造中文大模型的知识评估基准】[[主页](https://cevalbenchmark.com/)]，[[paper](https://mp.weixin.qq.com/s/4560jl7ctWmHz3xGVIKkRw)]，[[code](https://github.com/SJTU-LIT/ceval)]，[[blog](https://mp.weixin.qq.com/s/4560jl7ctWmHz3xGVIKkRw)]
+
+**【各大大模型评测】**【粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍】[[paper](https://arxiv.org/pdf/2304.12986.pdf)]，[[code](github.com/Felixgithub2017/MMCU)]，[[blog](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg)]
 
 **【国内大模型评测】**【评测国内各种对标 ChatGPT 的大语言模型】[[blog](https://mp.weixin.qq.com/s/Oe1Rc0kXjMOD2G_Sqambow)]，[[code](https://github.com/dongrixinyu/JioNLP/wiki/LLM%E8%AF%84%E6%B5%8B%E6%95%B0%E6%8D%AE%E9%9B%86)]
+
+**【大模型排行榜】**【OpenLLM大模型排行榜】[[主页](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]，[[blog](https://mp.weixin.qq.com/s/t1Th8iFOGoyuqqysUiIcXQ)]
+
+## LLM垂直领域大模型
+
+**【法律】**【再看基于LLaMA的最新微调模型变体：CaMA、ExpertLLaMA以及第四个中文法律微调模型LexiLaw】[[blog](https://mp.weixin.qq.com/s/FYWmMH2ndN5XfWvwI9dcUA)]
+
+**【法律】**【基于中文法律知识的大语言模型——LaWGPT】[[blog](https://mp.weixin.qq.com/s/dI839IF0hdBTAfOBUg7Pfw)]
+
+**【医疗】**【MedQA-ChatGLM - 基于真实医疗对话数据在ChatGLM上进行微调】[[code](http://github.com/WangRongsheng/MedQA-ChatGLM)]，[[主页](https://www.wangrs.co/MedQA-ChatGLM/)]
+
+**【数据】**【南洋理工开源海外中文大语言模型Panda LLM | 探索数据因素和训练策略如何影响大模型性能表现】[[paper](https://arxiv.org/pdf/2305.03025v1.pdf)]，[[code](https://github.com/dandelionsllm/pandallm)]，[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
 
 ## LLM文本检测
 
@@ -102,7 +114,7 @@ https://xc.com/
 
 **【论文】**【人工智能生成的文本能被可靠地检测出来吗？】[[paper](https://arxiv.org/pdf/2303.11156.pdf )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486128&idx=3&sn=e5ea32b7d7cb4c8c41f29a9ea15ac3ac&chksm=ced54954f9a2c0425a65761f1766550f6b90857da0106f6fd55f3c6773fbdbd1fc45bbb9369a&token=447941009&lang=zh_CN#rd)]
 
-**【论文】**【DetectGPT（斯坦福大学）：利用概率曲率检测文本是否大模型生成】[[paper](https://arxiv.org/abs/2301.11305 )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485713&idx=2&sn=805caf25603cf15dbf71949f85b9d041&chksm=ced54af5f9a2c3e3e0dffd728592fd7ab8f738869e94240daba4fad9f6ac90a2f76a6b458e3f&token=447941009&lang=zh_CN#rd)]，[[code&data](https://ericmitchell.ai/detectgpt/ )]
+**【论文】**【DetectGPT（斯坦福大学）：利用概率曲率检测文本是否大模型生成】[[paper](https://arxiv.org/abs/2301.11305 )]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485713&idx=2&sn=805caf25603cf15dbf71949f85b9d041&chksm=ced54af5f9a2c3e3e0dffd728592fd7ab8f738869e94240daba4fad9f6ac90a2f76a6b458e3f&token=447941009&lang=zh_CN#rd)]，[[code&data](https://ericmitchell.ai/detectgpt/)]
 
 **【论文】**【Detecting LLM-Generated-Text综述】[[paper](https://github.com/datamllab/The-Science-of-LLM-generated-Text-Detection)]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485747&idx=1&sn=5e5029a70c54c08f6f8c40631962b1e1&chksm=ced54ad7f9a2c3c184ccb123199510bb09470e054fb5cb887e70bac204927b65e296f8921db1&token=447941009&lang=zh_CN#rd)]
 
@@ -118,21 +130,35 @@ https://xc.com/
 
 **【博客】**【ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成】[[paper](https://arxiv.org/abs/2305.13304)]，[[code](https://github.com/aiwaves-cn/RecurrentGPT)]，[[blog](https://mp.weixin.qq.com/s/5UVTwSWgoz7uhozMeps3EQ)]，[[demo1](https://www.aiwaves.org/recurrentgpt (长篇小说写作))]，[[demo2](https://www.aiwaves.org/interactivefiction (交互式小说))]
 
-## LLM加速训练与微调
+## LLM可控性
 
-**【Megatron-LM】**【如何使用 Megatron-LM 训练语言模型】[[blog](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g)]
+**【Control-GPT】**【微软提出Control-GPT：用GPT-4实现可控文本到图像生成！】[[paper](https://arxiv.org/abs/2305.18583)]，[[blog](https://mp.weixin.qq.com/s/U3eWeGOEt9nhW-Xwbuah9w)]
 
-**【低资源】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
+**【论文】**【AIGC如何安全可控?中山大学等最新《AIGC中对隐私和安全的挑战及其补救措施：探索隐私计算、区块链潜在应用》全面阐述】[[paper](https://www.zhuanzhi.ai/paper/0dd95e1d5aae9eb2e60aabf36a107482)]，[[blog](https://mp.weixin.qq.com/s/V8QjMQSO2tX6PFx_LfLIEA)]
+
+## LLM加速训练、微调、压缩以及部署
+
+**【LLM训练】**【DeepSpeed的Tutorials】[[主页](https://www.deepspeed.ai)]，[[DeepSpeed Getting Starte](https://mp.weixin.qq.com/s/xpNQtl7hPs3fy9S7VRbIkg)]
+
+**【LLM训练】**【如何使用 Megatron-LM 训练语言模型】[[blog](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g)]
+
+**【LLM训练】**【Muti Query Attention 和 Attention with Linear Bias（附源码）】[[blog](https://mp.weixin.qq.com/s/GXMwnbWLce9Aq4alEHCHJA)]，[[paper](https://arxiv.org/pdf/1911.02150.pdf)]
+
+**【LLM微调】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
 
 **【LLM微调】**【大语言模型（LLM）微调技术笔记】[[code](https://github.com/ninehills/ninehills.github.io/issues/92)]
 
-**【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
+**【LLM微调】**【大模型LLM-微调经验分享&总结】[[code](https://github.com/liucongg/ChatGLM-Finetuning)]，[[blog](https://mp.weixin.qq.com/s/pkBvL0k7sZWaW6jMlSSIZA)]
 
-**【博客】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+**【LLM微调】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
 
-**【LoRA】**【LoRA：卷完图像生成领域，卷文本生成领域的东西，到时是个啥？】[[blog](https://mp.weixin.qq.com/s/emLpTAOhr8khO1hTgQhU9w)]，[[code](https://github.com/microsoft/LoRA)]
+**【LLM微调】**【Washington大学2023年5月新提出一种高效的微调方法QLoRA，通过降低显存使用，实现在单个48GB GPU上对65B参数的大模型进行微调，只需微调12个小时就可以达到97%的ChatGPT水平。同时只用int4就可以保持fp16精度的效果。】[[paper](https://arxiv.org/pdf/2305.14314.pdf)]
 
-**【QLoRA】**【Washington大学2023年5月新提出一种高效的微调方法QLoRA，通过降低显存使用，实现在单个48GB GPU上对65B参数的大模型进行微调，只需微调12个小时就可以达到97%的ChatGPT水平。同时只用int4就可以保持fp16精度的效果。】[[paper](https://arxiv.org/pdf/2305.14314.pdf)]
+**【LLM微调】**【陈丹琦团队提出低内存高效零阶优化器MeZO，单卡A100可训练300亿参数模型】[[paper](https://arxiv.org/abs/2305.17333)]，[[code](https://github.com/princeton-nlp/MeZO)]，[[blog](https://mp.weixin.qq.com/s/JteUpY4fEbENQFvReRLPJg)]
+
+**【LLM压缩】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+
+**【LLM部署】**【工程实践！以LLAMA为例的大模型部署方案】[[blog](https://mp.weixin.qq.com/s/zGkkekFqKsnM66uQwfUPcw)]
 
 ## LLM博客、论文以及代码
 
@@ -264,6 +290,10 @@ https://xc.com/
 
 **【博客】**【万字长文说清大模型在自动驾驶领域的应用】[[blog](https://mp.weixin.qq.com/s/5tSwRz-fI4ccLPEn2KrgqA)]
 
+**【博客】**【一文速览大语言模型在推荐系统中的应用】[[blog](https://mp.weixin.qq.com/s/RdRLKjzbTWCATmtRMfxW0Q)]
+
+**【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
+
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
 
 **【论文】**【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf )]
@@ -300,6 +330,8 @@ https://xc.com/
 
 【**Multimodal C4**】【多模态C4：一个开放的、10亿规模的、与文本交错的图像语料库】[[paper](https://arxiv.org/abs/2304.06939)]，[[code](https://github.com/allenai/mmc4)]
 
+【**Panda LLM**】【为了让Panda LLM在中文数据集上获得强大的性能，作者使用了强大的指令微调instruction-tuning技术，将LLaMA基础模型在五个开源的中文数据集进行混合训练，其中包括来自各种语言领域的1530万个样本，例如维基百科语料，新闻语料，百科问答语料，社区问答语料，和翻译语料。】[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
+
 ## Prompt工程
 
 **【博客】**【OpenAI 应用人工智能研究负责人Lilian Weng新博文：关于提示工程的介绍】[[blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)]
@@ -322,13 +354,19 @@ https://xc.com/
 
 **【博客】**【吴恩达Prompt课程笔记】[[主页](https://islinxu.github.io/prompt-engineering-note/)]
 
-**【论文】**【面向大型语言模型的**提升提示集成**】[[paper](https://arxiv.org/abs/2304.05970 )]
+**【博客】**【ChatGPT使用进阶，Prompt工程】[[blog](https://mp.weixin.qq.com/s/Uy_wX6DsASBDU2f_6qAy-Q)]
+
+**【论文】**【面向大型语言模型的**提升提示集成**】[[paper](https://arxiv.org/abs/2304.05970)]
+
+**【论文】**【DTG：一种简单有效的Prompt方法，激发大模型思考判断能力！】[[blog](https://mp.weixin.qq.com/s/Eio62_Hn0mML3Pfb3G36cA)]
 
 ## AGI开源工具&博客&论文
 
 **【工具】**【Google发布统计深度学习框架平台：OpenXLA】[[blog](https://github.com/wshzd/ChatGPT-Summary/blob/main/AGI/Google_OpenXLA.md)]
 
 **【博客】**【AGI的火花一作Sébastien Bubeck演讲万字全文】[[blog](https://mp.weixin.qq.com/s/H1RVdH0fmwM0GjfV3uvd4g)]
+
+**【博客】**【AGI通用智能发展的思考：是否存在足够通用的处理器？】[[blog](https://mp.weixin.qq.com/s/16TfOu4qfqlbQHpDgDUM2A)]
 
 **【论文】**【OpenAGI:当大语言模型遇到领域专家】[[paper](https://arxiv.org/abs/2304.04370)]，[[code](https://github.com/agiresearch/OpenAGI )]
 
@@ -558,17 +596,19 @@ https://xc.com/
 **【博客】**[The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)
 
 #### GPT4 论文篇
-**【微软】**【用GPT-4进行指令调优】[[paper](https://arxiv.org/pdf/2304.03277.pdf )]，[[code](https://instruction-tuning-with-gpt-4.github.io/)]
+**【微软】**【用GPT-4进行指令调优】[[paper](https://arxiv.org/pdf/2304.03277.pdf)]，[[code](https://instruction-tuning-with-gpt-4.github.io/)]
 
 **【论文】**【点燃通用人工智能的火花：GPT-4的早期实验】[[原始paper](https://arxiv.org/pdf/2303.12712.pdf)]，[[中文版paper](https://event-cdn.baai.ac.cn/file/file-browser/waTXJn85fm3FPyDXpsZ4faGk47trjjYb.pdf)]，[[blog](https://mp.weixin.qq.com/s/H1RVdH0fmwM0GjfV3uvd4g)]
 
-**【论文】**【GPT4All：用GPT-3.5-Turbo的大规模数据提炼训练一个助理式聊天机器人】[[paper](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf )]，[[code](https://github.com/nomic-ai/gpt4all)]
+**【论文】**【GPT4All：用GPT-3.5-Turbo的大规模数据提炼训练一个助理式聊天机器人】[[paper](https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf)]，[[code](https://github.com/nomic-ai/gpt4all)]
 
-**【论文】**【美国东北大学：可以通过要求GPT4反思“你为什么错了？”来提高30%的性能】[[paper](https://arxiv.org/abs/2303.11366)]，[[code](https://github.com/noahshinn024/reflexion )]
+**【论文】**【美国东北大学：可以通过要求GPT4反思“你为什么错了？”来提高30%的性能】[[paper](https://arxiv.org/abs/2303.11366)]，[[code](https://github.com/noahshinn024/reflexion)]
 
 **【论文】**【对ChatGPT/GPT-4研究的总结以及对大型语言模型未来的展望】[[paper](https://arxiv.org/pdf/2304.01852.pdf)]
 
-**【论文】**【评估日本医疗执照考试的GPT-4和ChatGPT】[[paper](https://arxiv.org/pdf/2303.18027.pdf )]
+**【论文】**【评估日本医疗执照考试的GPT-4和ChatGPT】[[paper](https://arxiv.org/pdf/2303.18027.pdf)]
+
+**【论文】**【Amazon | 深入研究LLMs与AutoGPT的结合：揭示出GPT-4惊人的人类决策能力！】[[blog](https://mp.weixin.qq.com/s/Gbz7ZVVdeTq64mj1-__aQA)]，[[paper](https://arxiv.org/pdf/2306.02224.pdf)]，[[code](https://github.com/younghuman/LLMAgent)]
 
 ### Bard
 
@@ -576,7 +616,7 @@ https://xc.com/
 
 ### Baize
 
-【用ChatGPT训练羊驼：「Baize」开源，轻松构建专属模型】[[blog](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw)]，[[paper](https://arxiv.org/abs/2304.01196  )]，[[code](https://github.com/project-baize/baize/blob/main/README.md )]，[[demo](https://huggingface.co/spaces/project-baize/baize-lora-7B )]
+【用ChatGPT训练羊驼：「Baize」开源，轻松构建专属模型】[[blog](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw)]，[[paper](https://arxiv.org/abs/2304.01196)]，[[code](https://github.com/project-baize/baize/blob/main/README.md)]，[[demo](https://huggingface.co/spaces/project-baize/baize-lora-7B)]
 
 ### BLOOM
 
@@ -599,6 +639,10 @@ https://xc.com/
 【ChatGLM_multi_gpu_zero_Tuning：简单高效实现多卡微调大模型】[[code](https://github.com/CSHaitao/ChatGLM_mutli_gpu_tuning)]
 
 【浅尝prompt咒语设计：one-shot微调chatglm-6b实践信息抽取】[[blog](https://mp.weixin.qq.com/s/l7lCbdJ9XGzLPTb3zKDAzQ)]
+
+【ChatGLM-6B模型结构组件源码阅读】[[blog](https://mp.weixin.qq.com/s/r7KEJmrpJZmY7KBP4veS6A)]
+
+【基于1万亿token开源大模型Falcon，超越650亿的LLaMA，可商用】[[blog1](https://mp.weixin.qq.com/s/jbRRjG2ferhFPWsMtCaJyg)]，[[blog2](https://mp.weixin.qq.com/s/Vy_xWBuZU0AaaPMCIhKIyw)]
 
 ### ChatYuan
 
@@ -628,17 +672,17 @@ https://xc.com/
 
 【DeepSpeed对话：易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://hub.baai.ac.cn/view/25414)]
 
-### Falcon
-
-【基于1万亿token开源大模型Falcon，超越650亿的LLaMA，可商用】[[blog](https://mp.weixin.qq.com/s/jbRRjG2ferhFPWsMtCaJyg)]
-
 ### GPT3.5
 
 【GPT3.5试用地址 】[[试用地址](https://platform.openai.com/playground )]
 
 ### JittorLLMs
 
-【笔记本没有显卡也能跑大模型，具有高性能、配置要求低、中文支持好、可移植等特点 】[[code](https://github.com/Jittor/JittorLLMs)]
+【笔记本没有显卡也能跑大模型，具有高性能、配置要求低、中文支持好、可移植等特点】[[code](https://github.com/Jittor/JittorLLMs)]
+
+### LLM as Controller
+
+【LLM as Controller—无限拓展LLM的能力边界】[[blog](https://mp.weixin.qq.com/s/jeb7ugGC6zxsOsfE-w-I0A)]
 
 ### **MiniGPT-4** 
 
@@ -665,6 +709,10 @@ https://xc.com/
 **【Alpaca】**【斯坦福发布了一个由LLaMA 7B微调的模型Alpaca（羊驼），训练3小时，性能比肩GPT-3.5】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485890&idx=1&sn=2d1414fc3751353c31b946b3e954a465&chksm=ced54a26f9a2c330082e8c0014c96a6d9bef62e3581875031f203268a11fad09645a75b482b0&token=447941009&lang=zh_CN#rd)]，[[官网](https://crfm.stanford.edu/2023/03/13/alpaca.html )]，[[model](https://crfm.stanford.edu/alpaca)]，[[code](https://github.com/tatsu-lab/stanford_alpaca)]
 
 **【Alpaca-CoT】**【Alpaca-CoT：多接口统一的轻量级LLM指令微调平台】[[code](https://github.com/PhoebusSi/Alpaca-CoT)]，[[官网](https://sota.jiqizhixin.com/project/alpaca-cot)]
+
+**【BiLLa】**【BiLLa 是开源的推理能力增强的中英双语 LLaMA 模型】[[blog](https://mp.weixin.qq.com/s/8KDpDC6Fkb_61gFfkcT8TQ)]，[[code](https://github.com/Neutralzz/BiLLa)]
+
+**【CaMA】**【一种支持中英语言的LLaMA模型】[[code](https://github.com/zjunlp/CaMA)]
 
 **【ChatLLaMA】**【初创公司 Nebuly AI在LLaMA基础上加入RLHF 开源 ChatLLaMA 训练方法】[[code](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama )]
 
