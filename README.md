@@ -672,6 +672,10 @@
 
 【DeepSpeed对话：易于使用、快速而实惠的RLHF训练，在各种规模下训练ChatGPT模型】[[code](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)]，[[blog](https://hub.baai.ac.cn/view/25414)]
 
+### FrugalGPT
+
+【斯坦福提出FrugalGPT｜性能媲美GPT4，成本降低98%】[[paper](https://arxiv.org/pdf/2305.05176.pdf)]，[[blog](https://www.reddit.com/r/singularity/comments/13dnfd7/frugalgpt_can_match_the_performance_of_the_best/ )]
+
 ### GPT3.5
 
 【GPT3.5试用地址 】[[试用地址](https://platform.openai.com/playground )]
@@ -817,7 +821,9 @@
 
 ## 语音生成
 
-**【论文】**【文字、图片一键生成逼真音效，音频界AIGC来了 】[[paper](https://arxiv.org/abs/2301.12661)]，[[code](https://text-to-audio.github.io)]
+**【论文】**【Meta AI研究者推出MUSICGEN】[[paper](https://arxiv.org/pdf/2306.05284.pdf)]，[[blog](https://the-decoder.com/metas-open-source-ai-musicgen-turns-text-and-melody-into-new-songs/)]，[[demo](https://huggingface.co/spaces/facebook/MusicGen)]
+
+**【论文】**【文字、图片一键生成逼真音效，音频界AIGC来了】[[paper](https://arxiv.org/abs/2301.12661)]，[[code](https://text-to-audio.github.io)]
 
 【**论文**】【音乐可视化｜利用大型语言模型和文本到图像模型帮助生成「音乐迪斯科」】[[paper](https://arxiv.org/pdf/2304.08551.pdf)]，[[blog](https://hub.baai.ac.cn/view/25517)]
 
@@ -827,14 +833,13 @@
 
 **【HuggingFace Transformers Agents】**【一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」】[[demo](https://huggingface.co/docs/transformers/transformers_agents)]，[[blog](https://mp.weixin.qq.com/s/8gyTqT1B4C2Da_6dmtaNiw)]
 
-
 **【LLaVA】**【熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩】[[paper](https://arxiv.org/pdf/2304.08485.pdf)]，[[introduce](https://llava-vl.github.io/)]
 
 **【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
 
+**【Video-LLaMA】**【人机视频对话｜Video-LLaMA多模态框架，使大型语言模型具备了理解视频内容的能力】[[paper](https://arxiv.org/abs/2306.02858)]
 
 **【X-LLM】**【多模态语言训练大模型】[[项目地址](https://x-llm.github.io/)]，[[paper](https://arxiv.org/abs/2305.04160)]
-
 
 ## 欢迎共创
 
