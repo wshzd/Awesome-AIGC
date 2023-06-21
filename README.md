@@ -98,13 +98,25 @@
 
 **【大模型排行榜】**【OpenLLM大模型排行榜】[[主页](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)]，[[blog](https://mp.weixin.qq.com/s/t1Th8iFOGoyuqqysUiIcXQ)]
 
+**【大模型排行榜】**【斯坦福发布LLM排行榜AlpacaEval，微软WizardLM登顶开源模型第一】[[blog](https://mp.weixin.qq.com/s/7X8pRaexWJ4c0kVswawU1A)]，[[主页](https://tatsu-lab.github.io/alpaca_eval)]，[[code](https://github.com/tatsu-lab/alpaca_eval)]
+
 ## LLM垂直领域大模型
+
+### 法律
 
 **【法律】**【再看基于LLaMA的最新微调模型变体：CaMA、ExpertLLaMA以及第四个中文法律微调模型LexiLaw】[[blog](https://mp.weixin.qq.com/s/FYWmMH2ndN5XfWvwI9dcUA)]
 
 **【法律】**【基于中文法律知识的大语言模型——LaWGPT】[[blog](https://mp.weixin.qq.com/s/dI839IF0hdBTAfOBUg7Pfw)]
 
+### 医疗
+
 **【医疗】**【MedQA-ChatGLM - 基于真实医疗对话数据在ChatGLM上进行微调】[[code](http://github.com/WangRongsheng/MedQA-ChatGLM)]，[[主页](https://www.wangrs.co/MedQA-ChatGLM/)]
+
+### 金融
+
+**【金融】**【FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！】[[blog](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)]，[[paper](https://arxiv.org/pdf/2306.06031v1.pdf)]，[[code](https://github.com/ai4finance-foundation/fingpt)]
+
+### 其他
 
 **【数据】**【南洋理工开源海外中文大语言模型Panda LLM | 探索数据因素和训练策略如何影响大模型性能表现】[[paper](https://arxiv.org/pdf/2305.03025v1.pdf)]，[[code](https://github.com/dandelionsllm/pandallm)]，[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
 
@@ -118,7 +130,7 @@
 
 **【论文】**【Detecting LLM-Generated-Text综述】[[paper](https://github.com/datamllab/The-Science-of-LLM-generated-Text-Detection)]，[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485747&idx=1&sn=5e5029a70c54c08f6f8c40631962b1e1&chksm=ced54ad7f9a2c3c184ccb123199510bb09470e054fb5cb887e70bac204927b65e296f8921db1&token=447941009&lang=zh_CN#rd)]
 
-**【论文】**【一个专为**教育**者打造的全新 AI 检测模型】[[blog](https://gptzero.substack.com/p/gptzerox )]
+**【论文】**【一个专为**教育**者打造的全新 AI 检测模型】[[blog](https://gptzero.substack.com/p/gptzerox)]
 
 **【论文】**【OpenAI重磅发布官方「ChatGPT检测器」】[[blog](https://mp.weixin.qq.com/s/EcZE7TgHspf22rPRWhAybw)]
 
@@ -130,19 +142,27 @@
 
 **【博客】**【ChatGPT能写长篇小说了，ETH提出RecurrentGPT实现交互式超长文本生成】[[paper](https://arxiv.org/abs/2305.13304)]，[[code](https://github.com/aiwaves-cn/RecurrentGPT)]，[[blog](https://mp.weixin.qq.com/s/5UVTwSWgoz7uhozMeps3EQ)]，[[demo1](https://www.aiwaves.org/recurrentgpt (长篇小说写作))]，[[demo2](https://www.aiwaves.org/interactivefiction (交互式小说))]
 
+**【博客】**【语言大模型100K上下文窗口的秘诀】[[blog](https://mp.weixin.qq.com/s/_i0eQgYNSLJydv3qOTqr-Q)]
+
 ## LLM可控性
 
 **【Control-GPT】**【微软提出Control-GPT：用GPT-4实现可控文本到图像生成！】[[paper](https://arxiv.org/abs/2305.18583)]，[[blog](https://mp.weixin.qq.com/s/U3eWeGOEt9nhW-Xwbuah9w)]
 
 **【论文】**【AIGC如何安全可控?中山大学等最新《AIGC中对隐私和安全的挑战及其补救措施：探索隐私计算、区块链潜在应用》全面阐述】[[paper](https://www.zhuanzhi.ai/paper/0dd95e1d5aae9eb2e60aabf36a107482)]，[[blog](https://mp.weixin.qq.com/s/V8QjMQSO2tX6PFx_LfLIEA)]
 
-## LLM加速训练、微调、压缩以及部署
+**【论文】**【ControlVideo: 可控的Training-free的文本生成视频】[[blog](https://mp.weixin.qq.com/s/CAH6u-MT3cFM359d5_Xpxg)]，[[paper](https://arxiv.org/pdf/2305.13077.pdf)]，[[code](https://github.com/YBYBZhang/ControlVideo)]
+
+## LLM加速训练、微调、压缩、推理以及部署
+
+### LLM训练
 
 **【LLM训练】**【DeepSpeed的Tutorials】[[主页](https://www.deepspeed.ai)]，[[DeepSpeed Getting Starte](https://mp.weixin.qq.com/s/xpNQtl7hPs3fy9S7VRbIkg)]
 
 **【LLM训练】**【如何使用 Megatron-LM 训练语言模型】[[blog](https://mp.weixin.qq.com/s/QPg6gOWGbQDezTl8OFZU3g)]
 
 **【LLM训练】**【Muti Query Attention 和 Attention with Linear Bias（附源码）】[[blog](https://mp.weixin.qq.com/s/GXMwnbWLce9Aq4alEHCHJA)]，[[paper](https://arxiv.org/pdf/1911.02150.pdf)]
+
+### LLM微调
 
 **【LLM微调】**【PEFT: 在低资源硬件上对十亿规模模型进行参数高效微调 】[[blog](https://mp.weixin.qq.com/s/x2mQBE0pfTv8w3Czp8JkDg)]
 
@@ -154,9 +174,23 @@
 
 **【LLM微调】**【Washington大学2023年5月新提出一种高效的微调方法QLoRA，通过降低显存使用，实现在单个48GB GPU上对65B参数的大模型进行微调，只需微调12个小时就可以达到97%的ChatGPT水平。同时只用int4就可以保持fp16精度的效果。】[[paper](https://arxiv.org/pdf/2305.14314.pdf)]
 
+**【LLM微调】**【华盛顿大学提出全新量化和微调方法，在DB-GPT上享受33B参数的LLM】[[blog](https://mp.weixin.qq.com/s/A3flqm2FeOn0WQr5mrD1-Q)]
+
 **【LLM微调】**【陈丹琦团队提出低内存高效零阶优化器MeZO，单卡A100可训练300亿参数模型】[[paper](https://arxiv.org/abs/2305.17333)]，[[code](https://github.com/princeton-nlp/MeZO)]，[[blog](https://mp.weixin.qq.com/s/JteUpY4fEbENQFvReRLPJg)]
 
+### LLM压缩
+
 **【LLM压缩】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+
+**【LLM压缩】**【LLM-Pruner: 剪枝+少量数据+少量训练 = 高效的LLM压缩】[[blog](https://mp.weixin.qq.com/s/feqFfy4n31eztoZfodMieQ)]
+
+**【LLM压缩】**【邱锡鹏团队提出新优化器LOMO｜650亿参数，8块GPU全参数微调】[[blog](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw)]，[[paper](https://arxiv.org/abs/2306.09782)]
+
+### LLM推理
+
+**【LLM推理】**【伯克利开源LLM推理与服务库：GPU减半、吞吐数十倍猛增】[[中文blog](https://hub.baai.ac.cn/view/27505)]，[[英文blog](https://vllm.ai/?continueFlag=24b2e01413fd53e24a2779b4a664ca16)]
+
+### LLM部署
 
 **【LLM部署】**【工程实践！以LLAMA为例的大模型部署方案】[[blog](https://mp.weixin.qq.com/s/zGkkekFqKsnM66uQwfUPcw)]
 
@@ -164,7 +198,7 @@
 
 **【综述】**【大型语言模型综述全新出炉：从T5到GPT-4最全盘点，国内20余位研究者联合撰写】[[paper](https://arxiv.org/abs/2303.18223)]
 
-**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史】[[paper](https://arxiv.org/abs/2303.04226v1 )]
+**【综述】**【AIGC综述: 从GAN到ChatGPT的生成式人工智能简史】[[paper](https://arxiv.org/abs/2303.04226v1)]
 
 **【综述】**【大模型综述来了！一文带你理清全球AI巨头的大模型进化史】[[paper](https://arxiv.org/pdf/2304.13712.pdf)]，[[code](https://github.com/Mooler0410/LLMsPracticalGuide)]
 
@@ -176,17 +210,17 @@
 
 **【谷歌】**【通用语音识别大模型已经支持100+语言】[[blog](https://mp.weixin.qq.com/s/fHr2vL-w4JtYt5utcZrbsw)]
 
-**【谷歌】**【发布5620亿参数多模态模型PaLM-E，机器人操控再上台阶】[[paper](https://arxiv.org/abs/2303.03378 )]，[[blog](https://palm-e.github.io/ )]，[[twitter](https://twitter.com/DannyDriess/status/1632904675124035585 )]，[[video](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA )]
+**【谷歌】**【发布5620亿参数多模态模型PaLM-E，机器人操控再上台阶】[[paper](https://arxiv.org/abs/2303.03378)]，[[blog](https://palm-e.github.io/)]，[[twitter](https://twitter.com/DannyDriess/status/1632904675124035585)]，[[video](https://mp.weixin.qq.com/s/yZt3sEQPzVjnIvqXsNOnPA )]
 
-**【Huawei】**【PanGu-Σ: 稀疏异构计算万亿参数语言模型研究参数语言模型】[[paper](https://arxiv.org/abs/2303.10845 )]
+**【Huawei】**【PanGu-Σ: 稀疏异构计算万亿参数语言模型研究参数语言模型】[[paper](https://arxiv.org/abs/2303.10845)]
 
-**【剑桥大学】**【奖励聊天机器人在现实世界中与数以百万计的用户进行互动】[[paper](https://arxiv.org/pdf/2303.06135.pdf )]
+**【剑桥大学】**【奖励聊天机器人在现实世界中与数以百万计的用户进行互动】[[paper](https://arxiv.org/pdf/2303.06135.pdf)]
 
-**【LeCun】**【人工智能系统最终是否需要以现实为基础，而不仅仅是从语言中学习？】[[blog](https://spectrum.ieee.org/ai-hallucination )]
+**【LeCun】**【人工智能系统最终是否需要以现实为基础，而不仅仅是从语言中学习？】[[blog](https://spectrum.ieee.org/ai-hallucination)]
 
-**【LeCun】**【大型语言模型是否需要感官基础来理解意义和理解？】[[slices](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view )]
+**【LeCun】**【大型语言模型是否需要感官基础来理解意义和理解？】[[slices](https://drive.google.com/file/d/1BU5bV3X5w65DwSMapKcsr0ZvrMRU_Nbi/view)]
 
-**【LeCun】**【ChatGPT是「外星人」，所以才会胡说八道】[[paper](https://www.noemamag.com/ai-chatbots-dont-care-about-your-social-norms/?utm_source=noematwitter&utm_medium=noemasocial)]，[[blog](https://twitter.com/ylecun/status/1633459264508542978 )]
+**【LeCun】**【ChatGPT是「外星人」，所以才会胡说八道】[[paper](https://www.noemamag.com/ai-chatbots-dont-care-about-your-social-norms/?utm_source=noematwitter&utm_medium=noemasocial)]，[[blog](https://twitter.com/ylecun/status/1633459264508542978)]
 
 **【LeCun】**【AI聊天机器人并不关注用户的社交属性】[[blog](https://www.noemamag.com/ai-chatbots-dont-care-about-your-social-norms/?utm_source=noematwitter&utm_medium=noemasocial)]
 
@@ -194,7 +228,7 @@
 
 **【LeCun】**【ChatGPT无法实现通用人工智能，但ALM技术路线也许可以】[[blog](https://mp.weixin.qq.com/s/MEdl3zmiYJU1iFsTXmibng)]
 
-**【LeCun】**【「增强语言模型」的综述 】[[paper](https://arxiv.org/abs/2302.07842 )]
+**【LeCun】**【「增强语言模型」的综述 】[[paper](https://arxiv.org/abs/2302.07842)]
 
 **【LeCun】**【自回归LLM的缺陷之一，大语言模型必须知道的8个要点】[[paper](https://cims.nyu.edu/~sbowman/eightthings.pdf)]
 
@@ -202,7 +236,7 @@
 
 **【纽约大学】**【提出ILF（从语言反馈中模仿学习）：利用语言反馈大规模训练语言模型】[[paper](https://arxiv.org/pdf/2303.16755.pdf)]
 
-**【OpenAI】**【GPT就是GPT：大模型对劳动力市场影响潜力的早期研究】[[paper](https://arxiv.org/pdf/2303.10130.pdf )]
+**【OpenAI】**【GPT就是GPT：大模型对劳动力市场影响潜力的早期研究】[[paper](https://arxiv.org/pdf/2303.10130.pdf)]
 
 **【OpenAI】**【ABC News 专访OpenAI首席执行官萨姆·奥尔特曼：AI风险和重塑社会的问题】[[blog](https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122)]
 
@@ -294,25 +328,27 @@
 
 **【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
 
-**【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf )]
+**【博客】**【a16Z：大模型应用程序的新兴架构】[[中文blog](https://hub.baai.ac.cn/view/27506)]，[[英文blog](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
 
-**【论文】**【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf )]
+**【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf)]
 
-**【论文】**【**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators** 】[[paper](https://arxiv.org/pdf/2303.16854.pdf )]
+**【论文】**【**TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs** 】[[paper](https://arxiv.org/pdf/2303.16434.pdf)]
 
-**【论文】**【南加州大学:大语言模型统计偏好的挑战和危险 】[[paper](https://arxiv.org/pdf/2304.03738.pdf)]
+**【论文】**【**AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators** 】[[paper](https://arxiv.org/pdf/2303.16854.pdf)]
+
+**【论文】**【南加州大学:大语言模型统计偏好的挑战和危险】[[paper](https://arxiv.org/pdf/2304.03738.pdf)]
 
 **【论文】**【卡内基·梅隆大学 | 语言生成模型可能造成危害：那么我们能做些什么呢？】[[paper](https://arxiv.org/pdf/2210.07700.pdf)]
 
-**【论文】**【鹏程实验室等最新《大规模多模态预训练模型》全面综述 】[[paper](https://arxiv.org/abs/2302.10035)]
+**【论文】**【鹏程实验室等最新《大规模多模态预训练模型》全面综述】[[paper](https://arxiv.org/abs/2302.10035)]
 
-**【论文】**【预训练基础模型综合调研：从 BERT 到 ChatGPT 的历史 】[[paper](https://arxiv.org/abs/2302.09419 )]
+**【论文】**【预训练基础模型综合调研：从 BERT 到 ChatGPT 的历史 】[[paper](https://arxiv.org/abs/2302.09419)]
 
-**【论文】**【洛桑联邦理工学院提出REFINER框架，用于微调大规模语言模型】[[paper](https://arxiv.org/pdf/2304.01904.pdf )]
+**【论文】**【洛桑联邦理工学院提出REFINER框架，用于微调大规模语言模型】[[paper](https://arxiv.org/pdf/2304.01904.pdf)]
 
-**【论文】**【LLM-Adapters： 用于大型语言模型的参数高效微调的适配器系列】[[paper](https://arxiv.org/pdf/2304.01933.pdf )]
+**【论文】**【LLM-Adapters： 用于大型语言模型的参数高效微调的适配器系列】[[paper](https://arxiv.org/pdf/2304.01933.pdf)]
 
-**【论文】**【大型语言模型的涌现记忆和可预测记忆】[[paper](https://arxiv.org/abs/2304.11158 )]
+**【论文】**【大型语言模型的涌现记忆和可预测记忆】[[paper](https://arxiv.org/abs/2304.11158)]
 
 **【论文】**【机器心理学：使用心理学方法研究大型语言模型中的涌现能力和行为】[[paper](https://arxiv.org/abs/2303.13988v1)]
 
@@ -331,6 +367,10 @@
 【**Multimodal C4**】【多模态C4：一个开放的、10亿规模的、与文本交错的图像语料库】[[paper](https://arxiv.org/abs/2304.06939)]，[[code](https://github.com/allenai/mmc4)]
 
 【**Panda LLM**】【为了让Panda LLM在中文数据集上获得强大的性能，作者使用了强大的指令微调instruction-tuning技术，将LLaMA基础模型在五个开源的中文数据集进行混合训练，其中包括来自各种语言领域的1530万个样本，例如维基百科语料，新闻语料，百科问答语料，社区问答语料，和翻译语料。】[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
+
+【**Instruct/Prompt Tuning可用数据**】【总结当前开源可用的Instruct/Prompt Tuning数据】[[blog](https://mp.weixin.qq.com/s/vDbTJo3F7sy3-NY8xxg8jw)]
+
+【**Mind2Web**】【Mind2Web: 首个全面衡量大模型上网能力的数据集】[[blog](https://mp.weixin.qq.com/s/vge4CJbBfLXFIYYyNC12Hw)]
 
 ## Prompt工程
 
@@ -566,7 +606,6 @@
 
 **【代码】**【本科生60行代码教你手搓GPT大模型 】[[code](https://github.com/jaymody/picoGPT/tree/29e78cc52b58ed2c1c483ffea2eb46ff6bdec785)]
 
-
 ### GPT4
 
 #### GPT4 官方文档
@@ -610,6 +649,10 @@
 
 **【论文】**【Amazon | 深入研究LLMs与AutoGPT的结合：揭示出GPT-4惊人的人类决策能力！】[[blog](https://mp.weixin.qq.com/s/Gbz7ZVVdeTq64mj1-__aQA)]，[[paper](https://arxiv.org/pdf/2306.02224.pdf)]，[[code](https://github.com/younghuman/LLMAgent)]
 
+### Anima
+
+【33B QLoRA大语言模型Anima的性能超越了对比的所有的中文开源模型。】[[blog](https://zhuanlan.zhihu.com/p/638058537?utm_source=wechat_session&utm_medium=social&s_r=0)]，[[code](https://github.com/lyogavin/Anima)]，[[model](https://huggingface.co/lyogavin/Anima33B)]
+
 ### Bard
 
 【谷歌再次开放Bard访问权，向着ChatGPT发起再一次攻击】[[报名地址 ]([http://Bard.google.com](http://bard.google.com/) )]，[[blog](https://twitter.com/sundarpichai/status/1638180697352593408 )]，[[theverge](https://www.theverge.com/23649897/google-Bard-chatbot-search-engine)]
@@ -617,6 +660,12 @@
 ### Baize
 
 【用ChatGPT训练羊驼：「Baize」开源，轻松构建专属模型】[[blog](https://mp.weixin.qq.com/s/zxElGfclNbBwTuDG4Qrxnw)]，[[paper](https://arxiv.org/abs/2304.01196)]，[[code](https://github.com/project-baize/baize/blob/main/README.md)]，[[demo](https://huggingface.co/spaces/project-baize/baize-lora-7B)]
+
+### baichuan以及扩展
+
+**【baichuan-7b】**【王小川大模型首亮相！70亿参数霸榜，清北抢先用｜独家专访】[[blog](https://mp.weixin.qq.com/s/qA_E_3dUe1sSOUM87ZgHdQ)]，[[Hugging Face](https://huggingface.co/baichuan-inc/baichuan-7B)]，[[code](https://github.com/baichuan-inc/baichuan-7B)]，[[Model Scope](https://modelscope.cn/models/baichuan-inc/baichuan-7B/summary)]，[[C-EVAL](https://cevalbenchmark.com/static/leaderboard_zh.html)]
+
+**【firefly-baichuan-7b-qlora-sft】**[使用Firefly项目中的QLoRA训练流程，在moss-003-sft-data百万多轮指令数据上进行了指令微调baichuan-7b模型]，[[blog](https://mp.weixin.qq.com/s/_eTkDGG5DmxyWeiQ6DIxBw)]，[[Hugging Face model](https://huggingface.co/YeungNLP/firefly-baichuan-7b-qlora-sft)]，[[code](https://github.com/baichuan-inc/baichuan-7B)]，[[Model Scope](https://modelscope.cn/models/baichuan-inc/baichuan-7B/summary)]，[[C-EVAL](https://cevalbenchmark.com/static/leaderboard_zh.html)]
 
 ### BLOOM
 
@@ -659,6 +708,10 @@
 ### CPM-Bee
 
 【中文基座模型CPM-Bee开源了】[[blog](https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA)]，[[code](https://github.com/OpenBMB/CPM-Bee)]，[[HuggingFace](https://huggingface.co/openbmb/cpm-bee-10b)]
+
+### ChatDB
+
+【清华大学和北京智源人工智能研究院的研究者们提出了ChatDB：用数据库作为符号性记忆模块来增强大语言模型】[[blog](https://mp.weixin.qq.com/s/o3j1vNLHlJ6qTea219A4Qw)]，[[paper](https://arxiv.org/abs/2306.03901)]，[[主页](https://chatdatabase.github.io)]，[[code](https://github.com/huchenxucs/ChatDB)]
 
 ### Dolly
 
@@ -799,6 +852,8 @@
 
 **【博客】**【StarCoder: 最先进的代码大模型】[[blog](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q)]
 
+**【博客】**【GPT-Engineer｜提需求即可生成整个代码库，已20K星】[[blog](https://mp.weixin.qq.com/s/rtsVsQbh7NnTh5vjgNMJHQ)]，[[code](https://github.com/AntonOsika/gpt-engineer)]
+
 **【论文】**【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
 
 **【论文】**【MIT最新研究：利用大预言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510 )]，[[code](https://github.com/shunzh/Code-AI-Tree-Search )]，[[项目网址](https://codeaimcts.github.io/ )]
@@ -826,6 +881,8 @@
 **【论文】**【文字、图片一键生成逼真音效，音频界AIGC来了】[[paper](https://arxiv.org/abs/2301.12661)]，[[code](https://text-to-audio.github.io)]
 
 【**论文**】【音乐可视化｜利用大型语言模型和文本到图像模型帮助生成「音乐迪斯科」】[[paper](https://arxiv.org/pdf/2304.08551.pdf)]，[[blog](https://hub.baai.ac.cn/view/25517)]
+
+【**论文**】【MetaAI发布第一个生成的人工智能语音模型Voicebox】[[blog](https://hub.baai.ac.cn/view/27492)]，[[paper](https://research.facebook.com/file/649409006862002/paper_fixed.pdf)]
 
 ## 多模态生成
 
