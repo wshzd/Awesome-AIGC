@@ -104,21 +104,23 @@
 
 ### 法律
 
-**【法律】**【再看基于LLaMA的最新微调模型变体：CaMA、ExpertLLaMA以及第四个中文法律微调模型LexiLaw】[[blog](https://mp.weixin.qq.com/s/FYWmMH2ndN5XfWvwI9dcUA)]
+【再看基于LLaMA的最新微调模型变体：CaMA、ExpertLLaMA以及第四个中文法律微调模型LexiLaw】[[blog](https://mp.weixin.qq.com/s/FYWmMH2ndN5XfWvwI9dcUA)]
 
-**【法律】**【基于中文法律知识的大语言模型——LaWGPT】[[blog](https://mp.weixin.qq.com/s/dI839IF0hdBTAfOBUg7Pfw)]
+【基于中文法律知识的大语言模型——LaWGPT】[[blog](https://mp.weixin.qq.com/s/dI839IF0hdBTAfOBUg7Pfw)]
 
 ### 医疗
 
-**【医疗】**【MedQA-ChatGLM - 基于真实医疗对话数据在ChatGLM上进行微调】[[code](http://github.com/WangRongsheng/MedQA-ChatGLM)]，[[主页](https://www.wangrs.co/MedQA-ChatGLM/)]
+【AD-AutoGPT：用于阿尔茨海默病信息流行病学的自主GPT】[[paper](https://arxiv.org/abs/2306.10095)]
+
+【MedQA-ChatGLM - 基于真实医疗对话数据在ChatGLM上进行微调】[[code](http://github.com/WangRongsheng/MedQA-ChatGLM)]，[[主页](https://www.wangrs.co/MedQA-ChatGLM/)]
 
 ### 金融
 
-**【金融】**【FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！】[[blog](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)]，[[paper](https://arxiv.org/pdf/2306.06031v1.pdf)]，[[code](https://github.com/ai4finance-foundation/fingpt)]
+【FinGPT：一个「专用于金融领域」的开源大语言模型（LLM）框架，源码公开！】[[blog](https://mp.weixin.qq.com/s/A9euFin675nxGGciiX6rJQ)]，[[paper](https://arxiv.org/pdf/2306.06031v1.pdf)]，[[code](https://github.com/ai4finance-foundation/fingpt)]
 
 ### 其他
 
-**【数据】**【南洋理工开源海外中文大语言模型Panda LLM | 探索数据因素和训练策略如何影响大模型性能表现】[[paper](https://arxiv.org/pdf/2305.03025v1.pdf)]，[[code](https://github.com/dandelionsllm/pandallm)]，[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
+【南洋理工开源海外中文大语言模型Panda LLM | 探索数据因素和训练策略如何影响大模型性能表现】[[paper](https://arxiv.org/pdf/2305.03025v1.pdf)]，[[code](https://github.com/dandelionsllm/pandallm)]，[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
 
 ## LLM文本检测
 
@@ -152,7 +154,9 @@
 
 **【论文】**【ControlVideo: 可控的Training-free的文本生成视频】[[blog](https://mp.weixin.qq.com/s/CAH6u-MT3cFM359d5_Xpxg)]，[[paper](https://arxiv.org/pdf/2305.13077.pdf)]，[[code](https://github.com/YBYBZhang/ControlVideo)]
 
-## LLM加速训练、微调、压缩、推理以及部署
+## LLM训练、微调、优化以及部署
+
+**【LLM学习网站】**【训练、微调、优化和部署大模型最新技术LLM Learning Lab】[[官网](https://lightning.ai/pages/llm-learning-lab/)]
 
 ### LLM训练
 
@@ -178,17 +182,15 @@
 
 **【LLM微调】**【陈丹琦团队提出低内存高效零阶优化器MeZO，单卡A100可训练300亿参数模型】[[paper](https://arxiv.org/abs/2305.17333)]，[[code](https://github.com/princeton-nlp/MeZO)]，[[blog](https://mp.weixin.qq.com/s/JteUpY4fEbENQFvReRLPJg)]
 
-### LLM压缩
+### LLM优化
 
-**【LLM压缩】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
+**【LLM优化】**【LLM，压缩即泛化，泛化即智能】[[blog](https://mp.weixin.qq.com/s/tSj9npIPg8IlYr2jbtg-Og)]
 
-**【LLM压缩】**【LLM-Pruner: 剪枝+少量数据+少量训练 = 高效的LLM压缩】[[blog](https://mp.weixin.qq.com/s/feqFfy4n31eztoZfodMieQ)]
+**【LLM优化】**【LLM-Pruner: 剪枝+少量数据+少量训练 = 高效的LLM压缩】[[blog](https://mp.weixin.qq.com/s/feqFfy4n31eztoZfodMieQ)]
 
-**【LLM压缩】**【邱锡鹏团队提出新优化器LOMO｜650亿参数，8块GPU全参数微调】[[blog](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw)]，[[paper](https://arxiv.org/abs/2306.09782)]
+**【LLM优化】**【邱锡鹏团队提出新优化器LOMO｜650亿参数，8块GPU全参数微调】[[blog](https://mp.weixin.qq.com/s/339iXf2bimusfq6zQmFpWw)]，[[paper](https://arxiv.org/abs/2306.09782)]
 
-### LLM推理
-
-**【LLM推理】**【伯克利开源LLM推理与服务库：GPU减半、吞吐数十倍猛增】[[中文blog](https://hub.baai.ac.cn/view/27505)]，[[英文blog](https://vllm.ai/?continueFlag=24b2e01413fd53e24a2779b4a664ca16)]
+**【LLM优化】**【伯克利开源LLM推理与服务库：GPU减半、吞吐数十倍猛增】[[中文blog](https://hub.baai.ac.cn/view/27505)]，[[英文blog](https://vllm.ai/?continueFlag=24b2e01413fd53e24a2779b4a664ca16)]
 
 ### LLM部署
 
@@ -231,6 +233,8 @@
 **【LeCun】**【「增强语言模型」的综述 】[[paper](https://arxiv.org/abs/2302.07842)]
 
 **【LeCun】**【自回归LLM的缺陷之一，大语言模型必须知道的8个要点】[[paper](https://cims.nyu.edu/~sbowman/eightthings.pdf)]
+
+**【MIT】**【从词模型到世界模型：从自然语言到思维概率语言的转变】[[paper](https://arxiv.org/abs/2306.12672)]
 
 **【李开复】**【AI进入2.0时代，所有应用都会被重写一遍 】[[blog](https://mp.weixin.qq.com/s/zV8Y9RQnIoExwa1mmarZmA)]
 
@@ -358,19 +362,21 @@
 
 ## LLM数据集
 
-【**RedPajama**】【RedPajama开源项目｜复制超过1.2万亿个令牌的LLaMA训练数据集】[[原始blog](https://www.together.xyz/blog/redpajama)]，[[中文blog](https://hub.baai.ac.cn/view/25485)]，[[dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]，[[code](https://github.com/togethercomputer/RedPajama-Data)]
+【**COIG-PC**】【智源研究院发布国内首个大规模、可商用中文开源指令数据集COIG：最大规模中文多任务指令集，上新千个中文数据集】[[blog](https://mp.weixin.qq.com/s/PvJa8dPHk6aGEv1G1B3PUw)]，[[paper](https://arxiv.org/pdf/2304.07987.pdf)]，[[COIG-PC数据下载地址](https://huggingface.co/datasets/BAAI/COIG-PC)]，[[COIG数据下载地址](https://huggingface.co/datasets/BAAI/COIG)]
 
-【**OpenAssistant Conversations**】【该数据集是一个由人工生成、人工注释的助理式对话语料库，覆盖了广泛的主题和写作风格，由 161443 条消息组成，分布在 66497 个会话树中，使用 35 种不同的语言。该语料库是全球众包工作的产物，涉及超过 13500 名志愿者。为了证明 OpenAssistant Conversations 数据集的有效性，该研究还提出了一个基于聊天的助手 OpenAssistant，其可以理解任务、与第三方系统交互、动态检索信息。】[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]，[[code](https://github.com/LAION-AI/Open-Assistant )]
+【**Instruct/Prompt Tuning可用数据**】【总结当前开源可用的Instruct/Prompt Tuning数据】[[blog](https://mp.weixin.qq.com/s/vDbTJo3F7sy3-NY8xxg8jw)]
 
 【**MiniGPT-4**】【GPT-4平替版：MiniGPT-4，支持图像理解和对话，现已开源】[[dataset](https://drive.google.com/file/d/1nJXhoEcy3KTExr17I7BXqY5Y9Lx_-n-9/view)]
 
 【**Multimodal C4**】【多模态C4：一个开放的、10亿规模的、与文本交错的图像语料库】[[paper](https://arxiv.org/abs/2304.06939)]，[[code](https://github.com/allenai/mmc4)]
 
+【**Mind2Web**】【Mind2Web: 首个全面衡量大模型上网能力的数据集】[[blog](https://mp.weixin.qq.com/s/vge4CJbBfLXFIYYyNC12Hw)]
+
+【**OpenAssistant Conversations**】【该数据集是一个由人工生成、人工注释的助理式对话语料库，覆盖了广泛的主题和写作风格，由 161443 条消息组成，分布在 66497 个会话树中，使用 35 种不同的语言。该语料库是全球众包工作的产物，涉及超过 13500 名志愿者。为了证明 OpenAssistant Conversations 数据集的有效性，该研究还提出了一个基于聊天的助手 OpenAssistant，其可以理解任务、与第三方系统交互、动态检索信息。】[[dataset](https://huggingface.co/datasets/OpenAssistant/oasst1 )]，[[paper](https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view )]，[[code](https://github.com/LAION-AI/Open-Assistant )]
+
 【**Panda LLM**】【为了让Panda LLM在中文数据集上获得强大的性能，作者使用了强大的指令微调instruction-tuning技术，将LLaMA基础模型在五个开源的中文数据集进行混合训练，其中包括来自各种语言领域的1530万个样本，例如维基百科语料，新闻语料，百科问答语料，社区问答语料，和翻译语料。】[[blog](https://mp.weixin.qq.com/s/IsWSPAvwgT263wjO7TYTZQ)]
 
-【**Instruct/Prompt Tuning可用数据**】【总结当前开源可用的Instruct/Prompt Tuning数据】[[blog](https://mp.weixin.qq.com/s/vDbTJo3F7sy3-NY8xxg8jw)]
-
-【**Mind2Web**】【Mind2Web: 首个全面衡量大模型上网能力的数据集】[[blog](https://mp.weixin.qq.com/s/vge4CJbBfLXFIYYyNC12Hw)]
+【**RedPajama**】【RedPajama开源项目｜复制超过1.2万亿个令牌的LLaMA训练数据集】[[原始blog](https://www.together.xyz/blog/redpajama)]，[[中文blog](https://hub.baai.ac.cn/view/25485)]，[[dataset](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)]，[[code](https://github.com/togethercomputer/RedPajama-Data)]
 
 ## Prompt工程
 
