@@ -192,6 +192,10 @@
 
 **【LLM优化】**【伯克利开源LLM推理与服务库：GPU减半、吞吐数十倍猛增】[[中文blog](https://hub.baai.ac.cn/view/27505)]，[[英文blog](https://vllm.ai/?continueFlag=24b2e01413fd53e24a2779b4a664ca16)]
 
+**【LLM优化】**【LLM Accelerator：使用参考文本无损加速大语言模型推理】[[blog](https://mp.weixin.qq.com/s/H1JaQZ9-m2gkZaIwzJTTtg)]，[[paper](https://arxiv.org/pdf/2304.04487.pdf)]，[[code](https://github.com/microsoft/LMOps)]
+
+**【LLM优化】**【大模型推理性能优化之KV Cache解读】[[blog](https://mp.weixin.qq.com/s/ydjcUOF9iUM581hUTSXPdw)]
+
 ### LLM部署
 
 **【LLM部署】**【工程实践！以LLAMA为例的大模型部署方案】[[blog](https://mp.weixin.qq.com/s/zGkkekFqKsnM66uQwfUPcw)]
@@ -796,11 +800,11 @@
 
 **【ExpertLLaMA】**【一个使用ExpertPrompting构建的开源聊天机器人，其能力达到ChatGPT的96%。】[[code](https://github.com/OFA-Sys/ExpertLLaMA)]
 
-**【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。 】[[官网地址](https://freedomgpt.com/)]
+**【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。】[[官网地址](https://freedomgpt.com/)]
 
 **【FLAN】**【【LLM系列之FLAN】Scaling Instruction-Finetuned Language Models】[[blog](https://mp.weixin.qq.com/s/5jEJH6UBHrk_ILbrLsd6TQ)]
 
-**【Koala 】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
+**【Koala】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
 
 **【LLaMA-Adapter】**【**LLaMA-Adapter**，一种用于微调指令遵循[LLaMA](https://github.com/facebookresearch/llama)模型的轻量级自适应方法，使用[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)提供的 52K 数据。】[[paper](https://arxiv.org/pdf/2303.16199.pdf )]，[[code](https://github.com/ZrrSkywalker/LLaMA-Adapter)]
 
@@ -813,6 +817,8 @@
 **【llama.cpp】**【量化130亿参数LLaMA模型的llama.cpp，推理仅需4GB内存】[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485875&idx=1&sn=a4e09d31802c087f1f47bd292e380c19&chksm=ced54a57f9a2c341935b81aa27824dfa740beb7ce33289e0cb5190b5910040c0904371b7e8a0&token=447941009&lang=zh_CN#rd)]
 
 **【llama.cpp优化版】**【Edge AI 变得更快|在 C/C++ 中移植 Facebook 的 LLaMA 模型】[[blog](https://hub.baai.ac.cn/view/25307)]
+
+**【LIMA】**【使用 LoRA 技术对 LLaMA 65B 大模型进行微调及推理】[[blog](https://mp.weixin.qq.com/s?search_click_id=7213828026277652651-1688375605291-1083947599&__biz=MjM5ODExNDA2MA==&mid=2449961473&idx=2&sn=f080fa7b1b5657db9872724caee56519&chksm=b13c7462864bfd741f0f061b87187f2cde36b68020cfe3402717a6858563311cb642eb340989&rd2werd=1&key=ea1d916ce49bb536ce48f3aba8e329d1e1aa6fdcda4f73580b0a5adbd624721e6a974570fd6ef2823ecfa6c95e2dc09179b51e440e9179f79d0ba01f62cf795d6c697f95bf05a28904f4172b11e1ce873a2d7a0e85c74d509e916176aacb43657fd11a6de7611d65bd4ae82315835aa138a423887a219f2971c6a525679fd805&ascene=65&uin=MTkwNzA5OTA4Mw%3D%3D&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+12.6.7+build(21G651)&version=13080109&nettype=WIFI&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQ0Z339%2BFUk%2Bp0YpfMQjB%2BhxKDAgIE97dBBAEAAAAAANJyNCKr%2F3UAAAAOpnltbLcz9gKNyK89dVj0q5AacL9r2sPbvlDuJo6SwYSJ2wbfYGvc3EDxuk%2BMQS0vl8RLluMN%2Fuh9u2LxBZTHTiuQct62Bjib68qd1EvB8CgGKMV34B5%2BKHCutInPzdE9Uac6dxp0VYtd%2BJnEwljL8jf7mWZdwTkPdEZl1P0OEb3HFzczXelqDR3h7D2xEVmQuFHGIeVi7iPOHMT0AWhhGLdbrVhCKbPT3%2BX9FPOLjJSql2UD95dTmSzZKqdvOIMGpD5t%2F98jDuMUojr9HUMdvljQ1XkiJVnd%2FbqSsLS3S5t7E%2Ftjmjb9g7IxWkY%3D&acctmode=0&pass_ticket=mJ3t3nBN%2BXhKCYp9bzJSkTl%2B9PwobzvYen%2F5Kv4kpcj1Lig98d0DXbcAyqBW0vaB&wx_header=0)]
 
 **【PaLM】**【【LLM系列之PaLM】PaLM: Scaling Language Modeling with Pathways】[[blog](https://mp.weixin.qq.com/s/MT1xCsJp98BM-lkuOKJF-A)]
 
