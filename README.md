@@ -802,7 +802,11 @@
 
 ### LLaMA以及扩展
 
-**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog1](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]，[[blog2](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w)]
+**【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog1](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]，[[blog2](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w)]，[[详聊LLaMA大模型的技术细节](https://mp.weixin.qq.com/s/B9Ue0ihUGAFjT_X__R2u8Q)]
+
+**【LLaMA 2】【LLaMA 2技术细节详细介绍！】**[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486800&idx=1&sn=9b629ca41b9f6b4feedad94363a17253&chksm=ced54eb4f9a2c7a2a5b20c182981b4323b18509f2ca8f482c2a8cdbb29bf570488bdcd280eb6&token=882149695&lang=zh_CN#rd)]，[[在 Hugging Face 上玩转LLaMA 2](https://mp.weixin.qq.com/s/UnzhBJjZfPXsaSu8gNnosw)]，[[伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A)]
+
+**【llama2.c】**【OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星】[[blog](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ)]，[[code](https://github.com/karpathy/llama2.c)]
 
 **【LLaMA评测】**[[blog](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg)]
 
@@ -834,6 +838,8 @@
 **【FreedomGPT】**【FreedomGPT使用Electron 和 React构建，它是一个桌面应用程序，允许用户在他们的本地机器上运行LLaMA。】[[官网地址](https://freedomgpt.com/)]
 
 **【FLAN】**【【LLM系列之FLAN】Scaling Instruction-Finetuned Language Models】[[blog](https://mp.weixin.qq.com/s/5jEJH6UBHrk_ILbrLsd6TQ)]
+
+**【GoGPT/GoGPT2】**【基于Llama/Llama 2训练的底座大模型,再扩充词表+继续预训练】[[GoGPT code](https://github.com/yanqiangmiffy/GoGPT)]，[[GoGPT2 code](https://huggingface.co/golaxy/gogpt2-7b)]
 
 **【Koala】**【加州大学BAIR团队提出Koala：学术研究的对话模型】[[blog_zh](https://hub.baai.ac.cn/view/25284)]，[[blog_en](https://bair.berkeley.edu/blog/2023/04/03/koala/)]
 
@@ -930,6 +936,8 @@
 ## 多模态生成
 
 **【BLIP-2】**【高效训练多模态大模型（BLIP-2）】[[paper](https://arxiv.org/abs/2301.12597)]，[[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]，[[demo](https://huggingface.co/spaces/Salesforce/BLIP2)]，[[doc](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)]，[[fine-tuing](https://github.com/salesforce/LAVIS)]，[[hugging face spaces](https://hf.co/spaces/Salesforce/BLIP2)]
+
+**【VisCPM】**【SOTA 开源中文多模态大模型】[[blog](https://mp.weixin.qq.com/s/Fgfbs1vV7RF6kpyk4bfIYw)]，[[code](https://github.com/OpenBMB/VisCPM)]
 
 **【HuggingFace Transformers Agents】**【一键控制10万多个AI模型，HuggingFace给类ChatGPT模型们做了个「APP Store」】[[demo](https://huggingface.co/docs/transformers/transformers_agents)]，[[blog](https://mp.weixin.qq.com/s/8gyTqT1B4C2Da_6dmtaNiw)]
 
