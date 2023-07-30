@@ -92,6 +92,8 @@
 
 **【LLM知识评估】**【C-Eval：构造中文大模型的知识评估基准】[[主页](https://cevalbenchmark.com/)]，[[paper](https://mp.weixin.qq.com/s/4560jl7ctWmHz3xGVIKkRw)]，[[code](https://github.com/SJTU-LIT/ceval)]，[[blog](https://mp.weixin.qq.com/s/4560jl7ctWmHz3xGVIKkRw)]
 
+**【MLLM幻觉评估】**【多模态大模型的幻觉问题与评估】[[blog](https://mp.weixin.qq.com/s/s0z-mAyjAaqvNcaTg2VFEA)]，[[paper](https://arxiv.org/abs/2305.10355)]，[[code](https://github.com/RUCAIBox/POPE)]
+
 **【各大大模型评测】**【粗看大模型ChatGLM、MOSS、Bloomz在中文垂域评测中的性能表现：医学、法律、心理学、教育等四大类试题下的测试报告介绍】[[paper](https://arxiv.org/pdf/2304.12986.pdf)]，[[code](github.com/Felixgithub2017/MMCU)]，[[blog](https://mp.weixin.qq.com/s/Hq6bn_4vD559TMQxx806tg)]
 
 **【国内大模型评测】**【评测国内各种对标 ChatGPT 的大语言模型】[[blog](https://mp.weixin.qq.com/s/Oe1Rc0kXjMOD2G_Sqambow)]，[[code](https://github.com/dongrixinyu/JioNLP/wiki/LLM%E8%AF%84%E6%B5%8B%E6%95%B0%E6%8D%AE%E9%9B%86)]
@@ -125,6 +127,14 @@
 ### 环境
 
 【清华&中国气象局大模型登Nature：预报时效首次达3小时】[[blog](https://mp.weixin.qq.com/s/Aygm03CdA0zFNf9F3_JU5A)]，[[paper](https://www.nature.com/articles/s41586-023-06184-4)]
+
+### 网络安全
+
+【专用于网络攻击的模型FraudGPT】[[blog](https://mp.weixin.qq.com/s/OtLNybsbxDlbVb-cs4Zk8g)]
+
+### 交通
+
+【北交大开源交通大模型TransGPT·致远，可免费商用】[[blog](https://mp.weixin.qq.com/s/WvzyjHqI0lOGIyPlCIFNQg)]，[[code](https://github.com/DUOMO/TransGPT)]
 
 ### 其他
 
@@ -164,7 +174,9 @@
 
 **【可控性】**【ControlVideo: 可控的Training-free的文本生成视频】[[blog](https://mp.weixin.qq.com/s/CAH6u-MT3cFM359d5_Xpxg)]，[[paper](https://arxiv.org/pdf/2305.13077.pdf)]，[[code](https://github.com/YBYBZhang/ControlVideo)]
 
-**【安全】**【大模型切脑后变身PoisonGPT，虚假信息案例】[[blog](https://hub.baai.ac.cn/view/27736)]，[[code](https://colab.research.google.com/drive/16RPph6SobDLhisNzA5azcP-0uMGGq10R?usp=sharing&ref=blog.mithrilsecurity.io )]
+**【安全】**【大模型切脑后变身PoisonGPT，虚假信息案例】[[blog](https://hub.baai.ac.cn/view/27736)]，[[code](https://colab.research.google.com/drive/16RPph6SobDLhisNzA5azcP-0uMGGq10R?usp=sharing&ref=blog.mithrilsecurity.io)]
+
+**【安全】**【ChatGPT羊驼家族全沦陷！CMU博士击破LLM护栏，人类毁灭计划脱口而出】[[blog](https://mp.weixin.qq.com/s/298nwP98UdRNybV2Fuo6Wg)]，[[paper](https://arxiv.org/abs/2307.15043)]，[[code](https://github.com/llm-attacks/llm-attacks)]
 
 ## LLM训练、微调、优化以及部署
 
@@ -213,6 +225,8 @@
 ### LLM部署
 
 **【LLM部署】**【工程实践！以LLAMA为例的大模型部署方案】[[blog](https://mp.weixin.qq.com/s/zGkkekFqKsnM66uQwfUPcw)]
+
+**【LLM部署】**【大模型部署框架FastLLM解析，支持X86/Arm/CUDA 3种架构的硬件！】[[blog](https://mp.weixin.qq.com/s/j19QdlFvblcABXzB7Vi5wg)]，[[code](https://github.com/ztxz16/fastllm)]
 
 ## LLM博客、论文以及代码
 
@@ -274,6 +288,8 @@
 
 **【OpenAI】**【为什么ChatGPT用强化学习而非监督学习？】[[blog](https://mp.weixin.qq.com/s/4USDakdomupWuwwhex6fMg)]
 
+**【OpenNLPLab】**【为什么ChatGPT用强化学习而非监督学习？】[[blog](https://mp.weixin.qq.com/s/UZ9ZTdI0zOXp8OOQ3FK_1A)]，[[paper](https://arxiv.org/abs/2307.14995)]，[[codel](https://github.com/OpenNLPLab/TransnormerLLM)]
+
 **【PWC】**【ChatGPT和生成式AI的11大安全趋势】[[blog](https://mp.weixin.qq.com/s/_RAx3vAx1ykQTJTEEoc37w)]
 
 **【人大】**【人大最新大语言模型综述，51页全面回顾大语言模型】[[paper](https://arxiv.org/pdf/2303.18223.pdf)]
@@ -297,6 +313,8 @@
 **【微软 & Meta】**【ART：大型语言模型的自动多步骤推理和工具使用】[[paper](https://arxiv.org/pdf/2303.09014.pdf)]
 
 **【EleutherAI&耶鲁大学】**【提出Pythia： 跨越训练和扩展的大型语言模型分析套件】[[paper](https://arxiv.org/pdf/2304.01373.pdf )]，[[code](https://github.com/EleutherAI/pythia )]
+
+**【博客】**【ChatGPT的底层逻辑】[[blog](https://mp.weixin.qq.com/s/Rv5htsD2x7TmD-E42RL6Vg)]
 
 **【博客】**【智慧信息的压缩：模型智能的涌现之道】[[blog](https://mp.weixin.qq.com/s/hQmvltuMlClBonM6UJmtLg)]
 
@@ -355,6 +373,8 @@
 **【博客】**【NAACL & ACL：大模型的两种知识继承方案】[[方案一](https://aclanthology.org/2022.naacl-main.288/)]，[[方案二](https://aclanthology.org/2022.acl-long.151/)]
 
 **【博客】**【a16Z：大模型应用程序的新兴架构】[[中文blog](https://hub.baai.ac.cn/view/27506)]，[[英文blog](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
+
+**【论文】**【RetNet：MSRA提出Transformer全新替代大模型基础架构，推理速度8倍提升，内存占用减少70%】[[blog](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247686895&idx=2&sn=9a2763953d209a29e5d0b03e8b75a912&chksm=e8dead9ddfa9248bea848d16358c5a3eabf11cdd13b5aa96033f3ab2b6dc1ee089bedc73c332&token=1541731120&lang=zh_CN#rd)]，[[paper](https://arxiv.org/abs/2307.08621)]
 
 **【论文】**【大模型微调指南：当GPU资源不足时的有效解决方案】[[paper](https://arxiv.org/pdf/2303.15647.pdf)]
 
@@ -710,7 +730,11 @@
 
 ### Claude 
 
-【ChatGPT最强竞品Claude今日开放API】[[产品地址 ](https://www.anthropic.com/product)]，[[申请地址 ](https://www.anthropic.com/earlyaccess )]，[[API说明 ](https://console.anthropic.com/docs/api)]，[[blog](https://mp.weixin.qq.com/s/Wx5q-rEwG4sROvnewGxWrw)]，[[Claude支持100k上下文](https://mp.weixin.qq.com/s/Yu551-z14lpiFGSOfXE2Tw)]，[[Claude2发布](https://hub.baai.ac.cn/view/27790)]
+【ChatGPT最强竞品Claude今日开放API】[[产品地址 ](https://www.anthropic.com/product)]，[[申请地址](https://www.anthropic.com/earlyaccess)]，[[API说明 ](https://console.anthropic.com/docs/api)]，[[blog](https://mp.weixin.qq.com/s/Wx5q-rEwG4sROvnewGxWrw)]，[[Claude支持100k上下文](https://mp.weixin.qq.com/s/Yu551-z14lpiFGSOfXE2Tw)]，[[Claude2发布](https://hub.baai.ac.cn/view/27790)]
+
+### Claude 2
+
+【ChatGPT最强竞品Claude2来了】[[blog](https://mp.weixin.qq.com/s/_uIPPJHmiYaBFxtKXdwFbA)]
 
 ### ChatGLM-6B以及扩展
 
@@ -804,7 +828,7 @@
 
 **【LLaMA】**【Meta开放小模型LLaMA，性能超过GPT-3】[[paper](https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/ )]，[[code](https://github.com/facebookresearch/llama )]，[[blog1](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485822&idx=1&sn=b365d93a0a08769aef77f34069da1422&chksm=ced54a9af9a2c38cd5779284b5e9ae573846153e7dc00961dc163664a657d6a3fa5c8c14c7d2&token=447941009&lang=zh_CN#rd)]，[[blog2](https://mp.weixin.qq.com/s/fGNuTcYE8QI9_JKS9LcQ7w)]，[[详聊LLaMA大模型的技术细节](https://mp.weixin.qq.com/s/B9Ue0ihUGAFjT_X__R2u8Q)]
 
-**【LLaMA 2】【LLaMA 2技术细节详细介绍！】**[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486800&idx=1&sn=9b629ca41b9f6b4feedad94363a17253&chksm=ced54eb4f9a2c7a2a5b20c182981b4323b18509f2ca8f482c2a8cdbb29bf570488bdcd280eb6&token=882149695&lang=zh_CN#rd)]，[[在 Hugging Face 上玩转LLaMA 2](https://mp.weixin.qq.com/s/UnzhBJjZfPXsaSu8gNnosw)]，[[伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A)]
+**【LLaMA 2】【LLaMA 2技术细节详细介绍！】**[[blog](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247486800&idx=1&sn=9b629ca41b9f6b4feedad94363a17253&chksm=ced54eb4f9a2c7a2a5b20c182981b4323b18509f2ca8f482c2a8cdbb29bf570488bdcd280eb6&token=882149695&lang=zh_CN#rd)]，[[在 Hugging Face 上玩转LLaMA 2](https://mp.weixin.qq.com/s/UnzhBJjZfPXsaSu8gNnosw)]，[[伯克利AI博士详解Llama 2的技术细节](https://mp.weixin.qq.com/s/Mee7sMq_bxLpIOOr91li9A)]，[[Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2)]
 
 **【llama2.c】**【OpenAI联创Karpathy爱上羊驼：纯C代码实现婴儿Llama2，MacBook可运行，已揽1.6k星】[[blog](https://mp.weixin.qq.com/s/VVR6N1duJM5vAU5cY9FrDQ)]，[[code](https://github.com/karpathy/llama2.c)]
 
@@ -899,29 +923,31 @@
 
 **【综述】**【代码大模型综述：中科院和MSRA调研27个LLMs，并给出5个有趣挑战】[[blog](https://mp.weixin.qq.com/s/t2SMftox6546E7kvRgQMnA)]，[[paper](https://arxiv.org/abs/2212.09420)]，[[项目主页](https://nl2code.github.io)]
 
-**【博客】**【StarCoder: 最先进的代码大模型】[[blog](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q)]
-
 **【博客】**【GPT-Engineer｜提需求即可生成整个代码库，已20K星】[[blog](https://mp.weixin.qq.com/s/rtsVsQbh7NnTh5vjgNMJHQ)]，[[code](https://github.com/AntonOsika/gpt-engineer)]
 
-**【论文】**【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf )]
+**【博客】**【StarCoder: 最先进的代码大模型】[[blog](https://mp.weixin.qq.com/s/f-WwzLcEO-ZJczI-_bZh3Q)]
 
-**【论文】**【MIT最新研究：利用大预言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510 )]，[[code](https://github.com/shunzh/Code-AI-Tree-Search )]，[[项目网址](https://codeaimcts.github.io/ )]
+**【论文】**【北京大学：具有大语言模型的自我规划代码生成】[[paper](https://arxiv.org/pdf/2303.06689.pdf)]
 
-**【论文】**【Baldur: 基于大型语言模型的完全证明生成与修复】[[paper](https://arxiv.org/abs/2303.04910 )]
+**【论文】**【谷歌提出Self-Debugging:教导大型语言模型进行自我调试】[[paper](https://arxiv.org/pdf/2304.05128.pdf)]
 
-**【论文】**【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398 )]
+**【论文】**【通过自我改进实现更好的代码语言模型，显著提高模型生成任务的性能】[[paper](https://arxiv.org/pdf/2304.01228.pdf)]
 
-**【论文】**【MIT最新研究：利用大语言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510)]，[[code](https://github.com/shunzh/Code-AI-Tree-Search)]，[[官网地址](https://codeaimcts.github.io/)]
+**【论文】**【Baldur: 基于大型语言模型的完全证明生成与修复】[[paper](https://arxiv.org/abs/2303.04910)]
 
-**【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf )]，[[code](https://github.com/THUDM/CodeGeeX )]
+**【论文】**【CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Evaluations on HumanEval-X 】[[paper](https://arxiv.org/pdf/2303.17568.pdf)]，[[code](https://github.com/THUDM/CodeGeeX)]
 
-**【论文】**【通过自我改进实现更好的代码语言模型，显著提高模型生成任务的性能】[[paper](https://arxiv.org/pdf/2304.01228.pdf )]
-
-**【论文】**【谷歌提出Self-Debugging:教导大型语言模型进行自我调试】[[paper](https://arxiv.org/pdf/2304.05128.pdf )]
+**【论文】**【代码模型 CodeGeeX2-6B 开源，最低6GB显存，性能优于StarCoder】[[blog](https://mp.weixin.qq.com/s/roQSCo-7s361P3TmJjjZjA)]，[[code](https://github.com/THUDM/CodeGeeX2)]
 
 **【论文】**【CodeT5+：非常灵活的、面向代码理解和生成的开放大型代码语言模型】[[paper](https://arxiv.org/abs/2305.07922)]
 
-【**工具**】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。 】[[官网地址](https://www.cursor.so/)]
+【**工具**】【Cursor：一个集成了 GPT-4 的国内直接可以访问的，优秀而强大的免费代码生成器，可以帮助你快速编写、编辑和讨论代码。】[[官网地址](https://www.cursor.so/)]
+
+**【论文】**【MIT最新研究：利用大预言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510)]，[[code](https://github.com/shunzh/Code-AI-Tree-Search)]，[[项目网址](https://codeaimcts.github.io/)]
+
+**【论文】**【MathPrompter: 基于大型语言模型的数学推理】[[paper](https://arxiv.org/abs/2303.05398)]
+
+**【论文】**【MIT最新研究：利用大语言模型生成Code】[[paper](https://arxiv.org/abs/2303.05510)]，[[code](https://github.com/shunzh/Code-AI-Tree-Search)]，[[官网地址](https://codeaimcts.github.io/)]
 
 ## 语音生成
 
@@ -943,7 +969,7 @@
 
 **【LLaVA】**【熔岩羊驼LLaVA来了：像GPT-4一样可以看图聊天，无需邀请码，在线可玩】[[paper](https://arxiv.org/pdf/2304.08485.pdf)]，[[introduce](https://llava-vl.github.io/)]
 
-**【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！ 】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
+**【UniDiffuser】**【清华朱军团队开源UniDiffuser：首个基于Transformer的多模态扩散大模型！文图互生、改写全拿下！】[[paper](https://ml.cs.tsinghua.edu.cn/diffusion/unidiffuser.pdf)]，[[code](https://github.com/thu-ml/unidiffuser)]
 
 **【Video-LLaMA】**【人机视频对话｜Video-LLaMA多模态框架，使大型语言模型具备了理解视频内容的能力】[[paper](https://arxiv.org/abs/2306.02858)]
 
