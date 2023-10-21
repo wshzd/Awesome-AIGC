@@ -975,6 +975,8 @@
 
 **【X-LLM】**【多模态语言训练大模型】[[项目地址](https://x-llm.github.io/)]，[[paper](https://arxiv.org/abs/2305.04160)]
 
+**【MTN】**【多模态3D生成】[[项目地址](https://texaser.github.io/MTN-projectpage/)]，[[paper](https://arxiv.org/abs/2309.14600)]
+
 ## 欢迎共创
 
 【👬🏻】欢迎Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻
