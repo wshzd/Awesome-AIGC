@@ -975,6 +975,8 @@
 
 **【X-LLM】**【多模态语言训练大模型】[[项目地址](https://x-llm.github.io/)]，[[paper](https://arxiv.org/abs/2305.04160)]
 
+**【MALS】**【面向行人重识别：大规模多属性和语言检索基准】[[项目地址](https://github.com/Shuyu-XJTU/APTM)]，[[paper](https://arxiv.org/abs/2306.02898)]，[[知乎](https://zhuanlan.zhihu.com/p/638229287)]
+
 ## 欢迎共创
 
 【👬🏻】欢迎Star ⭐️⭐️⭐️⭐️⭐️ && 提交 Pull requests 👏🏻👏🏻👏🏻
