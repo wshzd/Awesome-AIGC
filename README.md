@@ -918,6 +918,7 @@
 **【论文】**【OpenAI开源新模型代码库Consistency Models，无需对抗训练即可快速获得高质量样本】[[paper](https://arxiv.org/abs/2303.01469 )]，[[code](https://github.com/openai/consistency_models)]，[[blog](https://hub.baai.ac.cn/view/25445)]
 
 **【可控图文大模型】**【伯克利&微软｜用GPT-4进行可控的文本-图像生成】[[paper](https://arxiv.org/abs/2305.18583)]
+- **【FlintStudio】** - 从小说到成片影视一条龙自动agent . [GitHub]([https://github.com/你的用户名/项目名](https://github.com/flintcore/FlintStudio/))
 
 ## 代码生成
 
