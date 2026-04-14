@@ -992,3 +992,4 @@
 以上部分资料来自网络整理，供大家学习参考，如有侵权，麻烦联系我删除！ 
 
 WeChat：h18821656387
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
