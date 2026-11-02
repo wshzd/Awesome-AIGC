@@ -35,6 +35,14 @@
 **【访谈】**【微软Bing版ChatGPT表明想做人类，并且对纽约时报专栏作家表达爱意】[[访谈记录](https://mp.weixin.qq.com/s?__biz=Mzg3NDIyMzI0Mw==&mid=2247485854&idx=1&sn=011e0ef0f2c69cd48d042495b2a47eb3&chksm=ced54a7af9a2c36c29fec6301236685d443bde94681ec3f669408d953ae92bb54b686aeab9f8&token=447941009&lang=zh_CN#rd)]
 
 **【访谈】**【Midjourney创始人David Holz关于生成式AI的访谈】[[访谈记录](https://mp.weixin.qq.com/s/jMyuSYu8ACk2peu_OfZK0w)]
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI dance effect: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent unofficial AI dance effect: two photos → neon duo dance video (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent unofficial AI dance effect: photo → short dance video (Paid from $7.99)
 
 **【访谈】**【OpenAI创始人：GPT-4的研究起源和构建心法】[[访谈记录](https://mp.weixin.qq.com/s/hO1ZdqgOjpA328luobQ9eg)]
 
